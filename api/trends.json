@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T20:55:04.702641+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2025-10-15T21:36:53.937613+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
@@ -41,22 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 20时55分]"
-        },
-        {
-          "title": "中方回应特朗普指责停止进口美大豆",
-          "url": "https://www.toutiao.com/trending/7561238900635762751/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            5,
-            1,
-            4
-          ],
-          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时55分]"
+          "time_info": "[17时27分 ~ 21时36分]"
         },
         {
           "title": "特朗普威胁不买中国食用油报复中方“故意不买美国大豆”，外交部回应",
@@ -66,11 +52,27 @@
             8,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时55分]"
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 21时36分]"
+        },
+        {
+          "title": "中方回应特朗普指责停止进口美大豆",
+          "url": "https://www.toutiao.com/trending/7561238900635762751/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            5,
+            1,
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 21时36分]"
         },
         {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
@@ -87,6 +89,17 @@
           "time_info": "[10时00分 ~ 17时28分]"
         },
         {
+          "title": "特朗普施压米莱：选举没赢，美援就撤",
+          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时36分]"
+        },
+        {
           "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
           "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
           "source": "凤凰网",
@@ -97,6 +110,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时38分 ~ 17时28分]"
+        },
+        {
+          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
+          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时36分]"
+        },
+        {
+          "title": "外交部回应“特朗普威胁报复中方”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8A%A5%E5%A4%8D%E4%B8%AD%E6%96%B9%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            5,
+            10,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时36分 ~ 21时36分]"
         },
         {
           "title": "胡锡进：特朗普越急，中美越可能达成新的阶段性协议",
@@ -110,42 +149,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时26分 ~ 17时28分]"
-        },
-        {
-          "title": "特朗普施压米莱：选举没赢，美援就撤",
-          "url": "https://news.ifeng.com/c/8nTSlqxj4DZ",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时55分]"
-        },
-        {
-          "title": "特朗普威胁“暴力”解除哈马斯武装，说好的停火协议呢？",
-          "url": "https://news.ifeng.com/c/8nTUE2vlU0C",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 20时55分]"
-        },
-        {
-          "title": "外交部回应“特朗普威胁报复中方”",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%8A%A5%E5%A4%8D%E4%B8%AD%E6%96%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            5,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时36分 ~ 20时55分]"
         },
         {
           "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
@@ -193,7 +196,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -204,7 +207,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -213,11 +216,36 @@
           "url": "https://wallstreetcn.com/livenews/2988256",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时36分]"
+        },
+        {
+          "title": "中方回应特朗普拟禁中美航班过境俄",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E7%A6%81%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%8F%AD%E8%BF%87%E5%A2%83%E4%BF%84",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时36分]"
+        },
+        {
+          "title": "特朗普威胁更换2028年奥运举办地",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D29%26flag%3D1%26pos%3D30%26lcate%3D5001%26display_time%3D1760532759%26pre_seqid%3D17605327594230057319",
+          "source": "微博",
+          "ranks": [
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 21时36分]"
         },
         {
           "title": "特朗普呼吁赦免内塔尼亚胡",
@@ -229,18 +257,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时36分 ~ 17时28分]"
-        },
-        {
-          "title": "中方回应特朗普拟禁中美航班过境俄",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%9F%E7%A6%81%E4%B8%AD%E7%BE%8E%E8%88%AA%E7%8F%AD%E8%BF%87%E5%A2%83%E4%BF%84",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时55分]"
         },
         {
           "title": "外交部回应特朗普拟禁中美航班过境俄",
@@ -277,18 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 19时23分]"
-        },
-        {
-          "title": "特朗普威胁更换2028年奥运举办地",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%9B%B4%E6%8D%A22028%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%B8%BE%E5%8A%9E%E5%9C%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25A8%2581%25E8%2583%2581%25E6%259B%25B4%25E6%258D%25A22028%25E5%25B9%25B4%25E5%25A5%25A5%25E8%25BF%2590%25E4%25B8%25BE%25E5%258A%259E%25E5%259C%25B0%2523%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26band_rank%3D29%26flag%3D1%26pos%3D30%26lcate%3D5001%26display_time%3D1760532759%26pre_seqid%3D17605327594230057319",
-          "source": "微博",
-          "ranks": [
-            29,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 20时55分]"
         },
         {
           "title": "特朗普指责中国不进口大豆 中方回应",
@@ -385,7 +389,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -396,9 +400,141 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
+          "url": "https://www.cls.cn/detail/2169528",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时00分 ~ 14时38分]"
+        },
+        {
+          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
+          "url": "https://www.cls.cn/detail/2169304",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 11时13分]"
+        },
+        {
+          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2169365",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 11时13分]"
+        },
+        {
+          "title": "美股三大股指集体上涨，道指涨0.23%，标普500指数涨0.69%，纳指涨0.96%。，英伟达涨2.6%，特斯拉涨1.35%。台积电涨逾3%，市场预期三季度净利润再创新高。美国银行涨逾2%，第三季度业绩超预期。",
+          "url": "https://wallstreetcn.com/livenews/2988279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/2988064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时28分]"
+        },
+        {
+          "title": "美股盘前，阿斯麦涨3.5%，Q3订单额54亿欧元超预期，净销售额75.2亿欧元；科技股普涨，英伟达、博通、AMD等均涨超1%，热门中概股走高，阿里巴巴涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/2988053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2988089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时28分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2988270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国银行第三季交易收入（不含DVA）为53.5亿美元，预估为50.1亿美元。 第三季每股收益1.06美元。 第三季净利息收入152.3亿美元，预估150.3亿美元。 美国银行美股盘前涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/2988183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时23分"
+        },
+        {
+          "title": "美股黄金股盘前普涨，哈莫尼黄金(HMY.N)涨近5%，金田(GFI.N)涨4.5%，科尔黛伦矿业(CDE.N)涨近4%，泛美白银(PAAS.O)、金罗斯黄金(KGC.N)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20251015161157909800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
+          "title": "美股盘前，明星科技股普涨，阿斯麦(ASML.O)涨3.5%，公司Q3订单额54亿欧元超预期，预告明年业绩持续强劲；台积电(TSM.N)涨3.4%，阿里巴巴(BABA.N)、博通(AVGO.O)、英伟达(NVDA.O)涨约2%。",
+          "url": "https://flash.jin10.com/detail/20251015160124591800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
@@ -514,118 +650,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
-          "url": "https://www.cls.cn/detail/2169528",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时00分 ~ 14时38分]"
-        },
-        {
-          "title": "澳股、美股稀土板块持续飙涨 投机资金狂赌“美政府入股”逻辑",
-          "url": "https://www.cls.cn/detail/2169304",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 11时13分]"
-        },
-        {
-          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2169365",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时00分 ~ 11时13分]"
-        },
-        {
-          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/2988064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时36分 ~ 17时28分]"
-        },
-        {
-          "title": "美股盘前，阿斯麦涨3.5%，Q3订单额54亿欧元超预期，净销售额75.2亿欧元；科技股普涨，英伟达、博通、AMD等均涨超1%，热门中概股走高，阿里巴巴涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2988053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/2988089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美国银行第三季交易收入（不含DVA）为53.5亿美元，预估为50.1亿美元。 第三季每股收益1.06美元。 第三季净利息收入152.3亿美元，预估150.3亿美元。 美国银行美股盘前涨逾2%。",
-          "url": "https://wallstreetcn.com/livenews/2988183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "美股黄金股盘前普涨，哈莫尼黄金(HMY.N)涨近5%，金田(GFI.N)涨4.5%，科尔黛伦矿业(CDE.N)涨近4%，泛美白银(PAAS.O)、金罗斯黄金(KGC.N)涨超2%。",
-          "url": "https://flash.jin10.com/detail/20251015161157909800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
-          "title": "美股盘前，明星科技股普涨，阿斯麦(ASML.O)涨3.5%，公司Q3订单额54亿欧元超预期，预告明年业绩持续强劲；台积电(TSM.N)涨3.4%，阿里巴巴(BABA.N)、博通(AVGO.O)、英伟达(NVDA.O)涨约2%。",
-          "url": "https://flash.jin10.com/detail/20251015160124591800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2025年10月15日（周三）上海金早盘价为953.95元/克，较国际金价(958.5元/克)，低4.55元/克",
@@ -645,11 +671,12 @@
           "source": "抖音",
           "ranks": [
             29,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 20时55分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 21时36分]"
         },
         {
           "title": "金价又创新高 何时会下跌",
@@ -685,6 +712,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时08分]"
+        },
+        {
+          "title": "金价新高！多家银行提示风险",
+          "url": "https://wallstreetcn.com/livenews/2988269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国财长贝森特：（谈黄金价格飙升）买家多于卖家。",
+          "url": "https://flash.jin10.com/detail/20251015205303410800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
