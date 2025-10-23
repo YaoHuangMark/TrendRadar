@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T18:28:24.220628+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2025-10-23T19:23:50.917666+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时09分 ~ 19时23分]"
+        },
+        {
+          "title": "特朗普取消与普京会面，克里姆林宫回应",
+          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时09分 ~ 18时28分]"
+          "time_info": "[12时30分 ~ 19时23分]"
         },
         {
           "title": "特朗普称中美元首未必会见面，外交部回应",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 06时21分]"
-        },
-        {
-          "title": "特朗普取消与普京会面，克里姆林宫回应",
-          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时30分 ~ 18时28分]"
         },
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -103,6 +103,20 @@
           "time_info": "[09时53分 ~ 14时37分]"
         },
         {
+          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
+          "url": "https://wallstreetcn.com/articles/3757694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时30分 ~ 19时23分]"
+        },
+        {
           "title": "他被特朗普当众羞辱，全场都在哄笑",
           "url": "https://news.ifeng.com/c/8ng6g7G7AiA",
           "source": "凤凰网",
@@ -125,8 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 19时23分]"
         },
         {
           "title": "特朗普开始创造性破坏白宫",
@@ -142,8 +156,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 18时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 19时23分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -202,20 +216,6 @@
           "time_info": "[00时34分 ~ 11时09分]"
         },
         {
-          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
-          "url": "https://wallstreetcn.com/articles/3757694",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时30分 ~ 18时28分]"
-        },
-        {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
           "url": "https://www.cls.cn/detail/2177703",
           "source": "财联社热门",
@@ -241,17 +241,6 @@
           "time_info": "[00时34分 ~ 06时21分]"
         },
         {
-          "title": "2.3亿美元，特朗普向特朗普政府索赔",
-          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时34分 ~ 06时21分]"
-        },
-        {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
           "url": "https://www.zhihu.com/question/1964624412641833840",
           "source": "知乎",
@@ -261,8 +250,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时25分 ~ 18时28分]"
+          "appearance_count": 8,
+          "time_info": "[13时25分 ~ 19时23分]"
+        },
+        {
+          "title": "2.3亿美元，特朗普向特朗普政府索赔",
+          "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 06时21分]"
         },
         {
           "title": "特朗普：取消与普京的会面",
@@ -393,6 +393,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时34分 ~ 19时23分]"
+        },
+        {
           "title": "美国对俄施加新制裁，特朗普取消与普京会面",
           "url": "https://news.ifeng.com/c/8ng1mPLiipf",
           "source": "凤凰网",
@@ -440,17 +451,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 13时25分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时34分 ~ 18时28分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）活牛期货跌幅重新扩大至1%，饲牛期货跌幅扩大至2%。 该国总统特朗普称，“那些饲养牛的农场主们必须降价。（我所挑起的）美国关税让养殖户们做得很好。”",
@@ -550,6 +550,19 @@
           "time_info": "[16时34分 ~ 17时28分]"
         },
         {
+          "title": "为何没人知晓特朗普家族如今赚多少钱",
+          "url": "https://www.toutiao.com/trending/7564312142908755510/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时23分]"
+        },
+        {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
           "url": "https://wallstreetcn.com/livenews/2992031",
           "source": "华尔街见闻-快讯",
@@ -607,18 +620,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时22分]"
-        },
-        {
-          "title": "为何没人知晓特朗普家族如今赚多少钱",
-          "url": "https://www.toutiao.com/trending/7564312142908755510/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "特朗普为啥又不想见普京了",
@@ -683,7 +684,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -694,7 +695,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -804,7 +805,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1053,8 +1054,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 19时23分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -1091,8 +1092,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 18时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 19时23分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -1257,7 +1258,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -1334,6 +1335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
+        },
+        {
+          "title": "摩根大通：黄金是我们今年最看好的长期投资标的，不过随着美联储降息周期的开启，我们仍认为金价有进一步上涨空间。我们预计到2028年金价将达到6000美元。",
+          "url": "https://flash.jin10.com/detail/20251023191500162800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "金价一夜跌50元顾客相中直接买走",
@@ -1450,8 +1462,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时53分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时53分 ~ 19时23分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -1571,7 +1583,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI发首款AI浏览器",
@@ -1586,6 +1598,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时38分 ~ 05时20分]"
+        },
+        {
+          "title": "OpenAI与英国司法部达成里程碑合作 将首次提供本土数据托管服务",
+          "url": "https://flash.jin10.com/detail/20251023191039963800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
@@ -1608,6 +1631,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时23分"
         },
         {
           "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
