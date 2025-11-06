@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-06T18:30:09.559748+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2025-11-06T19:28:25.437170+08:00",
+  "total_titles_processed": 1698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时35分 ~ 19时28分]"
+        },
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
           "url": "https://wallstreetcn.com/articles/3758755",
@@ -17,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 18时30分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 19时28分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -33,16 +45,16 @@
           "time_info": "[00时34分 ~ 11时21分]"
         },
         {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
           "source": "凤凰网",
           "ranks": [
-            1,
-            2
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 18时30分]"
+          "appearance_count": 7,
+          "time_info": "[14时39分 ~ 19时28分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -69,18 +81,6 @@
           "time_info": "[00时34分 ~ 07时25分]"
         },
         {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时39分 ~ 18时30分]"
-        },
-        {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
           "url": "https://wallstreetcn.com/articles/3758724",
           "source": "华尔街见闻",
@@ -91,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[05时24分 ~ 18时30分]"
+          "appearance_count": 18,
+          "time_info": "[05时24分 ~ 19时28分]"
         },
         {
           "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
@@ -286,6 +286,17 @@
           "time_info": "[02时36分 ~ 04时29分]"
         },
         {
+          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
+          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 19时28分]"
+        },
+        {
           "title": "据CBS新闻：礼来制药、诺和诺德将与美国总统特朗普宣布下调减肥药价格。",
           "url": "https://flash.jin10.com/detail/20251106020814036800",
           "source": "金十数据",
@@ -392,17 +403,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时22分 ~ 04时29分]"
-        },
-        {
-          "title": "市场预计最高法院维持特朗普关税的概率仅剩30% 为什么说这不是什么好事",
-          "url": "https://wallstreetcn.com/premium/articles/3758757?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 18时30分]"
         },
         {
           "title": "据CNBC：特朗普对西屋电气核能领域的投资，可能会推动该公司上市，而美国政府将成为其股东。",
@@ -564,6 +564,17 @@
           "time_info": "05时25分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-06）",
+          "url": "https://flash.jin10.com/detail/20251106182100120800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "美国10月“小非农”ADP就业人数高于市场预期，劳动力市场暂缓崩塌风险；美最高法院保守派首席大法官对特朗普关税合理性发出质疑，特朗普胜诉概率降低……当前黄金多头占优，白银、美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251106103417798800",
           "source": "金十数据",
@@ -644,7 +655,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -720,15 +731,15 @@
           "time_info": "07时25分"
         },
         {
-          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
-          "url": "https://wallstreetcn.com/livenews/3000501",
-          "source": "华尔街见闻-快讯",
+          "title": "纳斯达克美股盘前下跌1.8%，此前欧盟委员会就德意志交易所与纳斯达克之间可能存在的合谋行为展开反垄断调查。",
+          "url": "https://flash.jin10.com/detail/20251106191520119800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时30分"
+          "time_info": "19时28分"
         },
         {
           "title": "金十图示：2025年11月05日（周三）热门中概股行情一览（美股收盘）",
@@ -753,6 +764,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时25分 ~ 06时25分]"
+        },
+        {
+          "title": "Coherent美股盘前涨超15%，公司第一财季业绩好于预期",
+          "url": "https://wallstreetcn.com/livenews/3000501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时28分]"
         },
         {
           "title": "特朗普上任一年美股跑输全球大盘",
@@ -827,6 +850,18 @@
           "time_info": "[06时25分 ~ 07时25分]"
         },
         {
+          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3000481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 19时28分]"
+        },
+        {
           "title": "金十图示：2025年11月05日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251106014154445800",
           "source": "金十数据",
@@ -837,17 +872,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
-        },
-        {
-          "title": "多邻国美股盘前跌超21%，第四季度预订量指引不及预期。",
-          "url": "https://wallstreetcn.com/livenews/3000481",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时30分"
         },
         {
           "title": "Doordash美股盘后下跌20%，该公司业绩欠佳，预计将继续（扩大）开支。",
@@ -1036,7 +1060,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -1058,7 +1082,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         },
@@ -1069,7 +1093,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时30分"
         }
@@ -1176,6 +1200,68 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
+          "url": "https://wallstreetcn.com/livenews/3000356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 15时26分]"
+        },
+        {
+          "title": "澳大利亚贸易顺差受金价飙升推动",
+          "url": "https://flash.jin10.com/detail/20251106125006375800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时27分"
+        },
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
+          "url": "https://wallstreetcn.com/livenews/3000006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）上海金早盘价为912.29元/克，较国际金价(911.43元/克)，高0.86元/克",
+          "url": "https://flash.jin10.com/detail/20251106101739837800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -1199,8 +1285,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时59分 ~ 18时30分]"
+          "appearance_count": 13,
+          "time_info": "[09时59分 ~ 19时28分]"
         },
         {
           "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
@@ -1296,57 +1382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
-          "url": "https://wallstreetcn.com/livenews/3000356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时26分]"
-        },
-        {
-          "title": "澳大利亚贸易顺差受金价飙升推动",
-          "url": "https://flash.jin10.com/detail/20251106125006375800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
-          "url": "https://wallstreetcn.com/livenews/3000006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "金十图示：2025年11月06日（周四）上海金早盘价为912.29元/克，较国际金价(911.43元/克)，高0.86元/克",
-          "url": "https://flash.jin10.com/detail/20251106101739837800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时21分"
         }
       ]
     }
