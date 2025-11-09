@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T15:23:10.819803+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2025-11-09T16:29:20.135382+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -46,6 +46,20 @@
           "time_info": "[00时28分 ~ 14时36分]"
         },
         {
+          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
+          "url": "https://wallstreetcn.com/articles/3758981",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时47分 ~ 16时29分]"
+        },
+        {
           "title": "南非政府发表声明驳斥特朗普言论",
           "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
           "source": "凤凰网",
@@ -63,25 +77,12 @@
           "ranks": [
             4,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时23分 ~ 15时23分]"
-        },
-        {
-          "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
-          "url": "https://wallstreetcn.com/articles/3758981",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时47分 ~ 15时23分]"
+          "appearance_count": 6,
+          "time_info": "[13时23分 ~ 16时29分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -97,6 +98,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时29分 ~ 07时23分]"
+        },
+        {
+          "title": "拜登狠批特朗普：让国家蒙羞",
+          "url": "https://www.toutiao.com/trending/7569666407429324863/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时29分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -132,15 +145,15 @@
           "time_info": "[14时36分 ~ 15时23分]"
         },
         {
-          "title": "拜登狠批特朗普：让国家蒙羞",
-          "url": "https://www.toutiao.com/trending/7569666407429324863/",
-          "source": "今日头条",
+          "title": "拜登狠批特朗普",
+          "url": "https://www.douyin.com/hot/2300132",
+          "source": "抖音",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
           "title": "拜登狠批特朗普",
@@ -148,11 +161,26 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 15时23分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时29分]"
+        },
+        {
+          "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
+          "url": "https://flash.jin10.com/detail/20251109125212911800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 16时29分]"
         },
         {
           "title": "特朗普又盯上了美国肉价，“铁拳”挥向四巨头",
@@ -167,19 +195,6 @@
           "time_info": "[07时23分 ~ 10时02分]"
         },
         {
-          "title": "媒体：未经立法，特朗普团队秘密向超级富有企业提供大规模税收减免",
-          "url": "https://flash.jin10.com/detail/20251109125212911800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 15时23分]"
-        },
-        {
           "title": "若特朗普关税政策被推翻市场如何反应",
           "url": "https://www.toutiao.com/trending/7570562355289919026/",
           "source": "今日头条",
@@ -192,6 +207,18 @@
           "time_info": "[13时23分 ~ 14时36分]"
         },
         {
+          "title": "拜登狠批特朗普：让国家蒙羞",
+          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时22分 ~ 16时29分]"
+        },
+        {
           "title": "欧尔班当场挖特朗普“墙脚”",
           "url": "https://www.toutiao.com/trending/7569946456040292378/",
           "source": "今日头条",
@@ -201,17 +228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
-        },
-        {
-          "title": "拜登狠批特朗普：让国家蒙羞",
-          "url": "https://www.baidu.com/s?wd=%E6%8B%9C%E7%99%BB%E7%8B%A0%E6%89%B9%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%AE%A9%E5%9B%BD%E5%AE%B6%E8%92%99%E7%BE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 15时23分]"
         },
         {
           "title": "拜登强烈批评特朗普称其家族赚了18亿",
@@ -282,11 +298,12 @@
             4,
             7,
             10,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 15时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 16时29分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -297,11 +314,12 @@
             5,
             8,
             11,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时47分 ~ 15时23分]"
+          "appearance_count": 6,
+          "time_info": "[11时47分 ~ 16时29分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -383,11 +401,12 @@
             4,
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 15时23分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 16时29分]"
         }
       ]
     }
