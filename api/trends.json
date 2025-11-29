@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T16:35:40.223164+08:00",
-  "total_titles_processed": 797,
+  "generated_at": "2025-11-29T17:28:04.721068+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 17时28分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股盘中）",
@@ -278,8 +278,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 17时28分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -287,11 +287,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 17时28分]"
         }
       ]
     },
@@ -305,11 +306,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时28分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时28分 ~ 17时28分]"
         },
         {
           "title": "金价",
