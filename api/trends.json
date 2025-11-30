@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T15:25:28.668671+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2025-11-30T16:33:29.103520+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时33分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -27,11 +27,12 @@
             19,
             22,
             24,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时25分 ~ 15时25分]"
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 16时33分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -90,7 +91,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -103,8 +104,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时24分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[10时24分 ~ 16时33分]"
+        },
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     }
