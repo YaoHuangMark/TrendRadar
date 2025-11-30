@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:33:29.103520+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2025-11-30T17:26:59.134551+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 17时26分]"
         },
         {
           "title": "特朗普称委内瑞拉空域应被视为关闭",
@@ -104,19 +104,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时24分 ~ 16时33分]"
+          "appearance_count": 8,
+          "time_info": "[10时24分 ~ 17时26分]"
         },
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
         }
       ]
     }
