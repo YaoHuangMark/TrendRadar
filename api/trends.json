@@ -1,205 +1,144 @@
 {
-  "generated_at": "2025-11-30T20:53:20.400641+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2025-12-01T10:33:49.514079+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "大宗商品贸易商贡渥集团（Gunvor）已经就投资美国石油和天然气生产资产进行了积极的谈判，这可能会在贡渥集团竞购 、受制裁的俄罗斯大型卢克石油公司（Lukoil）国外资产的事件之后缓和与特朗普政府的关系。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3012715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
         {
           "title": "“特朗普交易”遭重创",
           "url": "https://wallstreetcn.com/articles/3760394",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时40分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
-          "title": "美媒：特朗普直接要求马杜罗下台",
-          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "title": "特朗普：俄乌和平协议“很有可能”达成",
+          "url": "https://news.ifeng.com/c/8oikvl8KaCy",
           "source": "凤凰网",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时53分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉空域应被视为关闭",
-          "url": "https://wallstreetcn.com/livenews/3012482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            22,
-            24,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 16时33分]"
-        },
-        {
-          "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
-          "url": "https://flash.jin10.com/detail/20251130201511290800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "10时33分"
         },
         {
-          "title": "特朗普与委总统通话 直接要求其下台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "title": "特朗普：俄乌和平协议“很可能”达成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
           "source": "百度热搜",
           "ranks": [
-            4
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "10时33分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
-          "url": "https://flash.jin10.com/detail/20251130174813876800",
-          "source": "金十数据",
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时33分"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时28分 ~ 20时53分]"
-        },
-        {
-          "title": "特朗普感恩节威胁对乌无用",
-          "url": "https://www.toutiao.com/trending/7578337181966552617/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
-          "url": "https://flash.jin10.com/detail/20251129220829620800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "美媒担心特朗普借贪腐抛弃乌克兰",
-          "url": "https://www.toutiao.com/trending/7578459169896795667/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "10时33分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
-          "url": "https://wallstreetcn.com/articles/3760377",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时01分]"
-        },
-        {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
+          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
+          "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            7,
-            9,
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时24分 ~ 14时40分]"
+          "appearance_count": 1,
+          "time_info": "10时33分"
         },
         {
           "title": "Gemini升级了哪些地方",
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "10时33分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            3,
-            13,
-            16,
-            14,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时24分 ~ 20时53分]"
-        },
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时33分 ~ 20时53分]"
+          "appearance_count": 1,
+          "time_info": "10时33分"
         }
       ]
     }
