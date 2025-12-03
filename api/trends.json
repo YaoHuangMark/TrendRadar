@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T11:06:47.411739+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2025-12-03T12:03:58.470373+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普“点名”日本",
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 12时03分]"
         },
         {
           "title": "特朗普“点名”日本",
           "url": "https://www.toutiao.com/trending/7579444252149763593/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 12时03分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 12时03分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -48,8 +49,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 12时03分]"
         },
         {
           "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        },
+        {
+          "title": "特朗普支持的共和党人在田纳西州险胜 中期选举前景堪忧",
+          "url": "https://flash.jin10.com/detail/20251203110617903800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     },
@@ -106,11 +118,12 @@
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 12时03分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -120,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 12时03分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -148,8 +161,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
+          "appearance_count": 2,
+          "time_info": "[11时06分 ~ 12时03分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -178,6 +191,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新西兰联储上调贸易加权指数中的美元权重",
+          "url": "https://wallstreetcn.com/livenews/3014135",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时03分"
         }
       ]
     }
