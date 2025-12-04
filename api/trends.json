@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T13:46:03.261971+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2025-12-04T15:43:40.645770+08:00",
+  "total_titles_processed": 699,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             10,
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 15时43分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -39,8 +40,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时08分 ~ 15时43分]"
         },
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -51,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 15时43分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -62,8 +63,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时43分]"
+        },
+        {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时43分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -76,17 +89,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时08分 ~ 12时05分]"
-        },
-        {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "马杜罗证实曾同特朗普通电话",
@@ -185,11 +187,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时05分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时05分 ~ 15时43分]"
         },
         {
           "title": "美元指数DXY向上触及99，日内涨0.13%。",
@@ -218,6 +221,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率在亚洲交易时段上涨 市场继续押注美联储降息",
+          "url": "https://flash.jin10.com/detail/20251204151726193800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     }
