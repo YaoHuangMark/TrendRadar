@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-07T13:43:05.484459+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2025-12-07T15:40:14.386232+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
-          "url": "https://flash.jin10.com/detail/20251207124750348800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%8F%91%E7%94%9F%E7%89%B9%E5%A4%A7%E8%AF%88%E9%AA%97%E6%A1%88+%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%89%B9",
@@ -25,11 +14,47 @@
           "ranks": [
             27,
             23,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 13时43分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时40分]"
+        },
+        {
+          "title": "特朗普签署行政令调查外资企业食品反竞争行为",
+          "url": "https://flash.jin10.com/detail/20251207124750348800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 15时40分]"
+        },
+        {
+          "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
+          "url": "https://flash.jin10.com/detail/20251207122838853800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 15时40分]"
+        },
+        {
+          "title": "年终总结特朗普重返白宫",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 15时40分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -41,17 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
-          "url": "https://flash.jin10.com/detail/20251207122838853800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         }
       ]
     },
@@ -67,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[13时42分 ~ 15时40分]"
         }
       ]
     },
@@ -103,8 +117,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 13时43分]"
+          "appearance_count": 6,
+          "time_info": "[11时15分 ~ 15时40分]"
         }
       ]
     }
