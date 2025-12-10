@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-10T13:47:31.257435+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2025-12-10T15:46:14.310140+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
           "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 13时47分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时46分]"
         },
         {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
@@ -27,8 +28,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 13时47分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时46分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
         },
         {
           "title": "美国就业数据呈现矛盾信号，特朗普称“立即降息”是美联储主席人选硬指标，支撑美联储降息预期。美联储利率决议今晚重磅来袭，黄金多空争夺激烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
@@ -42,13 +65,47 @@
           "time_info": "11时12分"
         },
         {
+          "title": "俄罗斯外长拉夫罗夫：俄罗斯赞赏美国总统特朗普寻求就乌克兰问题开展对话的意愿。",
+          "url": "https://flash.jin10.com/detail/20251210152545435800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时47分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
           "title": "特朗普称泽连斯基赚走拜登3500亿美元",
           "url": "https://www.toutiao.com/trending/7581084674962473014/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -70,18 +127,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -123,8 +169,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 13时47分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时46分]"
         },
         {
           "title": "英伟达研发芯片位置验证技术 Blackwell芯片将率先支持",
@@ -133,7 +179,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -144,7 +190,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
         },
@@ -155,9 +201,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
+          "url": "https://flash.jin10.com/detail/20251210150354627800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         }
       ]
     },
@@ -172,28 +246,12 @@
           "ranks": [
             7,
             6,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 13时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
-          "url": "https://flash.jin10.com/detail/20251210111107526800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时46分]"
         }
       ]
     },
@@ -209,8 +267,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 13时47分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时46分]"
         }
       ]
     },
