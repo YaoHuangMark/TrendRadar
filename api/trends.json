@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-13T11:03:35.898762+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-12-13T12:01:23.766801+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
           "url": "https://flash.jin10.com/detail/20251213102355663800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
+        },
+        {
+          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20251213111612295800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时03分"
+          "time_info": "12时01分"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -30,70 +42,75 @@
           "time_info": "11时03分"
         },
         {
+          "title": "特朗普称泰柬已同意停火，泰方否认",
+          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "特朗普称泰柬已同意停火 泰方否认",
           "url": "https://flash.jin10.com/detail/20251213092752773800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
         },
         {
           "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
           "url": "https://flash.jin10.com/detail/20251213092310404800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
-          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
-          "source": "凤凰网",
-          "ranks": [
+            5,
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
         },
         {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
           "url": "https://www.cls.cn/detail/2228568",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
           "url": "https://www.cls.cn/detail/2228592",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -101,6 +118,17 @@
           "source": "抖音",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
+        },
+        {
+          "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
+          "url": "https://news.ifeng.com/c/8p1vHCZebHh",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -168,22 +196,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
+        },
+        {
           "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
           "url": "https://www.cls.cn/detail/2228546",
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -200,11 +229,12 @@
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -214,8 +244,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
         }
       ]
     },
@@ -265,8 +295,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时03分"
+          "appearance_count": 2,
+          "time_info": "[11时03分 ~ 12时01分]"
         }
       ]
     }
