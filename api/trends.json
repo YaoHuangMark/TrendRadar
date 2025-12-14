@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T17:43:07.711992+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2025-12-14T19:40:10.852144+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时17分 ~ 15时41分]"
+        },
+        {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -148,6 +159,17 @@
           "time_info": "15时41分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-14）",
+          "url": "https://flash.jin10.com/detail/20251214181038164800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时40分"
+        },
+        {
           "title": "特朗普或因说漏嘴致间谍曝光",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%9B%A0%E8%AF%B4%E6%BC%8F%E5%98%B4%E8%87%B4%E9%97%B4%E8%B0%8D%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
@@ -251,11 +273,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时45分 ~ 17时43分]"
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 19时40分]"
         }
       ]
     }
