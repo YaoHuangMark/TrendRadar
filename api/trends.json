@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T11:18:17.794515+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-12-15T12:28:38.095845+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,40 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
-          "url": "https://wallstreetcn.com/articles/3761364",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
           "url": "https://www.cls.cn/detail/2229152",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
+        },
+        {
+          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
+          "url": "https://wallstreetcn.com/articles/3761364",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
           "url": "https://wallstreetcn.com/articles/3761371",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
         }
       ]
     },
@@ -51,22 +54,24 @@
           "url": "https://wallstreetcn.com/articles/3761378",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
         },
         {
           "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
           "url": "https://www.cls.cn/detail/2229153",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
         }
       ]
     },
@@ -79,11 +84,12 @@
           "url": "https://wallstreetcn.com/articles/3761367",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时28分]"
         }
       ]
     }
