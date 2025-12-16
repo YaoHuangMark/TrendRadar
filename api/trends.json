@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-16T13:48:35.064102+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2025-12-16T15:45:36.835256+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
-          "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 13时48分]"
-        },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
           "url": "https://wallstreetcn.com/articles/3761439",
@@ -26,6 +14,18 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 15时45分]"
+        },
+        {
+          "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
+          "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -50,7 +50,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -61,11 +61,12 @@
           "ranks": [
             15,
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 13时48分]"
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 15时45分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -73,11 +74,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时10分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[12时10分 ~ 15时45分]"
         },
         {
           "title": "美乌柏林会谈传佳音 特朗普：从未如此接近达成“和平协议”",
@@ -100,74 +102,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时12分 ~ 11时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "英伟达发布Nemotron 3开源模型系列：混合MoE架构+100万token上下文",
-          "url": "https://wallstreetcn.com/articles/3761432",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 13时48分]"
         },
         {
-          "title": "据华尔街日报：英伟达(NVDA.O)芯片冷却系统的变化导致了CoreWeave数据中心项目进度延迟。",
-          "url": "https://flash.jin10.com/detail/20251216105819637800",
-          "source": "金十数据",
+          "title": "美特使和特朗普女婿疑似没认出德总理",
+          "url": "https://www.toutiao.com/trending/7584270560197099539/",
+          "source": "今日头条",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时13分"
-        },
-        {
-          "title": "据台湾电子时报：三星电子正接近与英伟达(NVDA.O)敲定协议，将在2026年为其第六代HBM4芯片供应超过30%的份额，旨在弥补此前在HBM3E产品上的失利。",
-          "url": "https://flash.jin10.com/detail/20251216121804640800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "华尔街日报援引知情人士称，英伟达芯片冷却系统的设计变更，导致CoreWeave数据中心项目出现延期。",
-          "url": "https://wallstreetcn.com/livenews/3021365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
-        },
-        {
-          "title": "三星电子正接近与英伟达敲定协议，将在2026年为其第六代HBM4芯片供应超过30%的份额。（中国台湾电子时报）",
-          "url": "https://wallstreetcn.com/livenews/3021401",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "15时45分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年12月16日（周二）上海金早盘价为970.56元/克，较国际金价(970.45元/克)，高0.11元/克",
@@ -194,13 +145,24 @@
           "time_info": "[11时12分 ~ 12时11分]"
         },
         {
+          "title": "金十图示：2025年12月16日（周二）上海金午盘价为966.73元/克，较国际金价(969.85元/克)，低3.12元/克",
+          "url": "https://flash.jin10.com/detail/20251216150904661800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        },
+        {
           "title": "金价三年大涨近150%，能否更进一步？",
           "url": "https://flash.jin10.com/detail/20251216122011848800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -229,6 +191,85 @@
       ]
     },
     {
+      "keyword_group": "英伟达",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "英伟达发布Nemotron 3开源模型系列：混合MoE架构+100万token上下文",
+          "url": "https://wallstreetcn.com/articles/3761432",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 15时45分]"
+        },
+        {
+          "title": "据华尔街日报：英伟达(NVDA.O)芯片冷却系统的变化导致了CoreWeave数据中心项目进度延迟。",
+          "url": "https://flash.jin10.com/detail/20251216105819637800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时13分"
+        },
+        {
+          "title": "据台湾电子时报：三星电子正接近与英伟达(NVDA.O)敲定协议，将在2026年为其第六代HBM4芯片供应超过30%的份额，旨在弥补此前在HBM3E产品上的失利。",
+          "url": "https://flash.jin10.com/detail/20251216121804640800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "华尔街日报援引知情人士称，英伟达芯片冷却系统的设计变更，导致CoreWeave数据中心项目出现延期。",
+          "url": "https://wallstreetcn.com/livenews/3021365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
+        },
+        {
+          "title": "三星电子正接近与英伟达敲定协议，将在2026年为其第六代HBM4芯片供应超过30%的份额。（中国台湾电子时报）",
+          "url": "https://wallstreetcn.com/livenews/3021401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -240,8 +281,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 13时48分]"
+          "appearance_count": 6,
+          "time_info": "[11时12分 ~ 15时45分]"
         }
       ]
     }
