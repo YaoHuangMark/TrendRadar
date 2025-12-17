@@ -1,24 +1,12 @@
 {
-  "generated_at": "2025-12-17T13:48:25.363213+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2025-12-17T15:45:34.049043+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "特朗普政府宣布对40国实施入境限制",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 13时48分]"
-        },
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
           "url": "https://news.ifeng.com/c/8p9PufcVOa6",
@@ -27,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 15时45分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -38,8 +26,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时09分 ~ 13时48分]"
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 15时45分]"
+        },
+        {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时09分 ~ 15时45分]"
         },
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -111,6 +112,18 @@
           "time_info": "[11时09分 ~ 12时08分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 15时45分]"
+        },
+        {
           "title": "专家预测特朗普将为中选出什么招",
           "url": "https://www.toutiao.com/trending/7584654516868353579/",
           "source": "今日头条",
@@ -133,15 +146,15 @@
           "time_info": "11时09分"
         },
         {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "15时45分"
         },
         {
           "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
@@ -172,7 +185,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -293,6 +306,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时09分 ~ 13时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印尼央行行长：美元指数仍偏高，限制资本向新兴市场流动。",
+          "url": "https://flash.jin10.com/detail/20251217150955842800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时45分"
         }
       ]
     }
