@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T17:51:14.963785+08:00",
-  "total_titles_processed": 839,
+  "generated_at": "2025-12-18T19:44:00.130537+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -33,6 +33,17 @@
           "time_info": "[11时10分 ~ 17时51分]"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)：交易结束后，公司将成为“真相社交”（Truth Social）、“真相+”（Truth+）、“真相金融”（Truth.FI）、TAE、TAE Power Solutions以及TAE Life Sciences的控股公司。",
+          "url": "https://flash.jin10.com/detail/20251218193737540800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "特朗普对马杜罗下狠手",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
           "source": "百度热搜",
@@ -58,6 +69,17 @@
           "time_info": "11时10分"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)：在签约时提供高达2亿美元的现金。",
+          "url": "https://flash.jin10.com/detail/20251218193524722800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "特朗普：我接手了一个烂摊子",
           "url": "https://www.toutiao.com/trending/7584554052525080639/",
           "source": "今日头条",
@@ -68,6 +90,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时44分 ~ 17时51分]"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：交易对每股TAE股票估值为53.89美元。",
+          "url": "https://flash.jin10.com/detail/20251218193503529800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：聚变能源将为美国的人工智能主导地位和能源安全开辟道路。",
+          "url": "https://flash.jin10.com/detail/20251218193409794800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "特朗普发表演讲称接手了一个烂摊子",
@@ -92,6 +136,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时44分 ~ 17时51分]"
+        },
+        {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
         },
         {
           "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
@@ -128,13 +183,24 @@
           "time_info": "[13时48分 ~ 13时49分]"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)：合并后公司预计将于2026年选址并开始建设首座公用事业规模的核聚变发电厂 。",
+          "url": "https://flash.jin10.com/detail/20251218193331502800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "俄罗斯外交部：我们希望特朗普政府不要在委内瑞拉问题上犯下致命错误。",
           "url": "https://flash.jin10.com/detail/20251218172100530800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -148,6 +214,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普媒体科技集团(DJT.O)：交易预计于2026年年中完成。",
+          "url": "https://flash.jin10.com/detail/20251218193251152800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "特朗普宣布为100万美国军人提供1776美元/人“战士红利”",
@@ -170,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "市场消息：特朗普媒体科技集团(DJT.O)将与TAE TECHNOLOGIES进行全股票交易合并。",
+          "url": "https://flash.jin10.com/detail/20251218193127356800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "支持率下滑之际，特朗普罕见发表夜间讲话，夸耀自己的成就",
@@ -362,7 +450,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -390,13 +478,24 @@
           "time_info": "[11时10分 ~ 12时09分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
+        },
+        {
           "title": "击败AI“当红炸子鸡”！白银市值超越谷歌 跻身全球第四大资产",
           "url": "https://www.cls.cn/detail/2232986",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         },
@@ -426,7 +525,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -436,8 +535,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时10分 ~ 17时51分]"
+          "appearance_count": 10,
+          "time_info": "[11时10分 ~ 19时44分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -451,13 +550,24 @@
           "time_info": "[11时10分 ~ 13时49分]"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)美股盘前大涨24%。",
+          "url": "https://flash.jin10.com/detail/20251218193307691800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "美光科技美股盘前涨超9%，芯片需求旺盛，美光业绩与指引双双“爆表”。",
           "url": "https://wallstreetcn.com/livenews/3023017",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时51分"
         }
@@ -473,11 +583,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 17时51分]"
+          "appearance_count": 7,
+          "time_info": "[13时48分 ~ 19时44分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -490,6 +601,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时44分 ~ 17时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "明年将续写芯片股牛市？大摩“首选榜单”出炉：英伟达地位稳固！",
+          "url": "https://www.cls.cn/detail/2233456",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
+        },
+        {
+          "title": "摩尔线程有没有机会追上英伟达？",
+          "url": "https://www.zhihu.com/question/633883979",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
         }
       ]
     },
@@ -507,6 +646,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时43分 ~ 19时44分]"
         }
       ]
     },
