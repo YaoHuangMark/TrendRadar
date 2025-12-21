@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T13:46:11.176877+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-12-21T15:41:39.549275+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -20,14 +20,14 @@
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://wallstreetcn.com/livenews/3024384",
-          "source": "华尔街见闻-快讯",
+          "url": "https://flash.jin10.com/detail/20251221140435040800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时46分"
+          "time_info": "15时41分"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -36,22 +36,36 @@
           "ranks": [
             1,
             9,
-            21
+            21,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 15时41分]"
+        },
+        {
+          "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://wallstreetcn.com/livenews/3024384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 15时41分]"
         },
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时41分]"
         },
         {
           "title": "高市早苗着急早点见特朗普",
@@ -63,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
+        },
+        {
+          "title": "特朗普称身处政坛看美女是死路一条",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%BA%AB%E5%A4%84%E6%94%BF%E5%9D%9B%E7%9C%8B%E7%BE%8E%E5%A5%B3%E6%98%AF%E6%AD%BB%E8%B7%AF%E4%B8%80%E6%9D%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "特朗普对华“降调”能持续吗",
@@ -93,24 +118,25 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 15时41分]"
+        },
+        {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
           "url": "https://wallstreetcn.com/articles/3761764",
           "source": "华尔街见闻",
           "ranks": [
             3,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时46分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -139,22 +165,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 15时41分]"
         },
         {
           "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
           "url": "https://wallstreetcn.com/articles/3761777",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时41分]"
         }
       ]
     },
@@ -178,11 +206,41 @@
           "url": "https://www.douyin.com/hot/2342947",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
+          "url": "https://flash.jin10.com/detail/20251221123146651800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "time_info": "[13时46分 ~ 15时41分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     },
@@ -199,25 +257,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
-          "url": "https://flash.jin10.com/detail/20251221123146651800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时46分"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 15时41分]"
         }
       ]
     }
