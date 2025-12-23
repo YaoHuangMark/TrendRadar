@@ -1,438 +1,211 @@
 {
-  "generated_at": "2025-12-22T19:42:25.224925+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2025-12-23T11:15:18.178376+08:00",
+  "total_titles_processed": 323,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 19时42分]"
-        },
-        {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 17时52分]"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时48分 ~ 19时42分]"
-        },
-        {
-          "title": "特朗普表态：必须是“超级鸽派”！",
-          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时48分 ~ 15时46分]"
-        },
-        {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 15时46分]"
-        },
-        {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时20分 ~ 15时46分]"
-        },
-        {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 19时42分]"
-        },
-        {
-          "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
-          "url": "https://flash.jin10.com/detail/20251222174043679800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "特朗普任命美国格陵兰岛特使",
-          "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
-          "url": "https://flash.jin10.com/detail/20251222173421961800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 15时46分]"
-        },
-        {
-          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时42分]"
-        },
-        {
-          "title": "飞机闯入特朗普官邸上空被紧急拦截",
-          "url": "https://www.toutiao.com/trending/7586445374106796082/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
-        },
-        {
-          "title": "特朗普任命美国格陵兰岛特使",
-          "url": "https://flash.jin10.com/detail/20251222105005973800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "丹麦对特朗普任命格陵兰岛特使深感不满",
-          "url": "https://wallstreetcn.com/livenews/3024905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
-          "url": "https://flash.jin10.com/detail/20251222102452415800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "曝高市早苗急着求见特朗普",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%80%A5%E7%9D%80%E6%B1%82%E8%A7%81%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "特朗普让克林顿成了主角",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%85%8B%E6%9E%97%E9%A1%BF%E6%88%90%E4%BA%86%E4%B8%BB%E8%A7%92",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月22日（周一）上海金早盘价为984.6元/克，较国际金价(991.93元/克)低7.33元/克",
-          "url": "https://flash.jin10.com/detail/20251222110152377800",
-          "source": "金十数据",
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
         },
         {
-          "title": "现货黄金价格再创历史新高",
-          "url": "https://www.toutiao.com/trending/7586548209984474650/",
-          "source": "今日头条",
+          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
+          "url": "https://wallstreetcn.com/articles/3761868",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时45分 ~ 15时46分]"
+          "time_info": "[11时14分 ~ 11时15分]"
         },
         {
-          "title": "在金价首次突破4400美元/盎司后，美国上市黄金矿业股盘前上涨。Sibanye Stillwater股价上涨3.5%，AngloGold Ashanti上涨4.2%，纽蒙特矿业上涨2.5%。金罗斯黄金上涨2.8%，Gold Fields上涨3.8%，Agnico Eagle上涨2.1%，巴里克黄金上涨2.5%。",
-          "url": "https://flash.jin10.com/detail/20251222171819261800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "金十图示：2025年12月22日（周一）上海金午盘价为993.82元/克，较国际金价(998.15元/克)低4.33元/克",
-          "url": "https://flash.jin10.com/detail/20251222150851524800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时46分"
-        },
-        {
-          "title": "金价再创新高，哪些长线逻辑值得关注？",
-          "url": "https://flash.jin10.com/detail/20251222102334389800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
-          "url": "https://www.cls.cn/detail/2235916",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 17时52分]"
-        },
-        {
-          "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时42分]"
-        },
-        {
-          "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
-          "url": "https://www.cls.cn/detail/2236150",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时45分 ~ 19时42分]"
-        },
-        {
-          "title": "霍尼韦尔预计全年调整后销售额为375亿-377亿美元，此前预期为407亿-409亿美元。 霍尼韦尔预计全年调整后每股收益为9.70-9.80美元（剔除先进材料业务影响后）。 霍尼韦尔预计第四季度调整后销售额为98亿-100亿美元，此前预期为101亿-103亿美元。 霍尼韦尔预计第四季度调整后每股收益为2.48-2.58美元，此前预期为2.52-2.62美元。 霍尼韦尔美股盘前跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3024927",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普叫停美国最大海上风电项目",
+          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
         },
         {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
+          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
+          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
+          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时20分 ~ 19时42分]"
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
         },
         {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
+          "title": "美新型战舰被命名为特朗普级你咋看",
+          "url": "https://www.toutiao.com/trending/7586859203608772635/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            9
+            10
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时20分 ~ 13时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "金银强势刷新历史新高！特朗普下周或任命新美联储主席；俄罗斯开始撤离驻委内瑞拉外交官家属，日本财相发出强烈干预警告……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251223103135457800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "美国司法部官员表示，美国在委内瑞拉附近追击油轮的行动，是特朗普政府一项新的法律战略的一部分，目的是扣押在世界各地运输黑市石油的船只。",
+          "url": "https://flash.jin10.com/detail/20251223102910052800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "马杜罗：特朗普最好把精力放在美国",
+          "url": "https://www.toutiao.com/trending/7586368106948493362/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
         }
       ]
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
-          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "title": "“英伟达想春节前对华出货，还得看中方意思”",
+          "url": "https://news.ifeng.com/c/8pJTiSOSnTB",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时51分 ~ 19时42分]"
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
         },
         {
-          "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
-          "url": "https://wallstreetcn.com/livenews/3024841",
-          "source": "华尔街见闻-快讯",
+          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2236882",
+          "source": "财联社热门",
           "ranks": [
-            13
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
+        },
+        {
+          "title": "英伟达告知中国客户：春节前对华出货",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%91%8A%E7%9F%A5%E4%B8%AD%E5%9B%BD%E5%AE%A2%E6%88%B7%EF%BC%9A%E6%98%A5%E8%8A%82%E5%89%8D%E5%AF%B9%E5%8D%8E%E5%87%BA%E8%B4%A7",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金白银价格创新高",
-          "url": "https://www.douyin.com/hot/2344085",
-          "source": "抖音",
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时45分 ~ 17时52分]"
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月23日（周二）上海金早盘价为1010.37元/克，较国际金价(1013.6元/克)，低3.23元/克",
+          "url": "https://flash.jin10.com/detail/20251223101900275800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时14分 ~ 11时15分]"
         }
       ]
     }
