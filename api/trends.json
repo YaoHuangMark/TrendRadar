@@ -1,157 +1,55 @@
 {
-  "generated_at": "2025-12-23T19:43:24.375048+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2025-12-24T11:12:20.510622+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 11,
       "titles": [
         {
-          "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
-          "url": "https://wallstreetcn.com/articles/3761868",
-          "source": "华尔街见闻",
+          "title": "美最高法院暂时阻止特朗普政府在芝加哥部署军队",
+          "url": "https://wallstreetcn.com/livenews/3025951",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时14分 ~ 19时43分]"
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时14分 ~ 19时43分]"
-        },
-        {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.toutiao.com/trending/7586636403350556196/",
+          "title": "特朗普回应克林顿大尺度照被公布",
+          "url": "https://www.toutiao.com/trending/7586912730720947748/",
           "source": "今日头条",
           "ranks": [
-            7,
-            17,
-            15,
-            25
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时14分 ~ 19时43分]"
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
-          "title": "如何看特朗普级战列舰计划",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 19时43分]"
-        },
-        {
-          "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
-          "url": "https://news.ifeng.com/c/8pJISSb6yhX",
-          "source": "凤凰网",
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 17时48分]"
-        },
-        {
-          "title": "特朗普叫停美国最大海上风电项目",
-          "url": "https://news.ifeng.com/c/8pJPGPs1kBK",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时45分]"
-        },
-        {
-          "title": "美新型战舰被命名为特朗普级你咋看",
-          "url": "https://www.toutiao.com/trending/7586859203608772635/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 13时49分]"
-        },
-        {
-          "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%81%A2%E5%A4%8D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%87%BA%E9%95%9C%E4%B8%A4%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            15,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时14分 ~ 15时45分]"
-        },
-        {
-          "title": "特朗普：美国“必须得到格陵兰岛”",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E2%80%9C%E5%BF%85%E9%A1%BB%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时49分 ~ 17时48分]"
-        },
-        {
-          "title": "特朗普提出中美G2概念 日本不安",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E4%B8%AD%E7%BE%8EG2%E6%A6%82%E5%BF%B5+%E6%97%A5%E6%9C%AC%E4%B8%8D%E5%AE%89",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 15时45分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 19时43分]"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司：特朗普政府寻求撤销数千起庇护案件，申请人可被驱逐至第三国。",
-          "url": "https://flash.jin10.com/detail/20251223190328466800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "11时12分"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
           "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
@@ -160,300 +58,165 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "11时12分"
         },
         {
-          "title": "金银强势刷新历史新高！特朗普下周或任命新美联储主席；俄罗斯开始撤离驻委内瑞拉外交官家属，日本财相发出强烈干预警告……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251223103135457800",
-          "source": "金十数据",
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时12分"
         },
         {
-          "title": "特朗普称其目标是迫使马杜罗下台",
-          "url": "https://wallstreetcn.com/livenews/3025322",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "11时12分"
         },
         {
-          "title": "美国司法部官员表示，美国在委内瑞拉附近追击油轮的行动，是特朗普政府一项新的法律战略的一部分，目的是扣押在世界各地运输黑市石油的船只。",
-          "url": "https://flash.jin10.com/detail/20251223102910052800",
-          "source": "金十数据",
+          "title": "特朗普再谈格陵兰问题 还提到中国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%B0%88%E6%A0%BC%E9%99%B5%E5%85%B0%E9%97%AE%E9%A2%98+%E8%BF%98%E6%8F%90%E5%88%B0%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时12分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-23）",
-          "url": "https://flash.jin10.com/detail/20251223184540612800",
+          "title": "特朗普政府估计还需要大约一周时间，以及审查多达70万页的文件，才能完成所有爱泼斯坦相关文件的公开工作。",
+          "url": "https://flash.jin10.com/detail/20251224100126379800",
           "source": "金十数据",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "“特朗普级”战列舰性能如何",
-          "url": "https://www.toutiao.com/trending/7586915482419072538/",
-          "source": "今日头条",
-          "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "11时12分"
         },
         {
-          "title": "马杜罗：特朗普最好把精力放在美国",
-          "url": "https://www.toutiao.com/trending/7586368106948493362/",
-          "source": "今日头条",
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
           "ranks": [
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时15分"
+          "time_info": "11时12分"
         },
         {
-          "title": "美国总统特朗普公布“特朗普级”战舰后，亨廷顿英格尔斯工业股价盘前上涨4.4%。",
-          "url": "https://flash.jin10.com/detail/20251223184036942800",
-          "source": "金十数据",
+          "title": "美军将建造“特朗普级”战舰",
+          "url": "https://www.douyin.com/hot/2345209",
+          "source": "抖音",
           "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "特朗普宣布：建造特朗普级战列舰",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%BB%BA%E9%80%A0%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0",
-          "source": "百度热搜",
-          "ranks": [
-            26
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "特朗普“黄金舰队”计划何时能实现",
-          "url": "https://www.toutiao.com/trending/7586862767420739098/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "特朗普的战列舰狂想",
-          "url": "https://www.toutiao.com/trending/7586959074525187625/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金价突破1400元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%AA%81%E7%A0%B41400%E5%85%83%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 15时45分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时48分 ~ 19时43分]"
-        },
-        {
-          "title": "金十图示：2025年12月23日（周二）上海金午盘价为1007.57元/克，较国际金价(1010.96元/克)，低3.39元/克",
-          "url": "https://flash.jin10.com/detail/20251223150220834800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
-          "title": "金价彻底爆了 有人拖行李箱抢购",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E7%88%86%E4%BA%86+%E6%9C%89%E4%BA%BA%E6%8B%96%E8%A1%8C%E6%9D%8E%E7%AE%B1%E6%8A%A2%E8%B4%AD",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "金十图示：2025年12月23日（周二）上海金早盘价为1010.37元/克，较国际金价(1013.6元/克)，低3.23元/克",
-          "url": "https://flash.jin10.com/detail/20251223101900275800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "金价银价同日创新高",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "11时12分"
         }
       ]
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "“英伟达想春节前对华出货，还得看中方意思”",
-          "url": "https://news.ifeng.com/c/8pJTiSOSnTB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时14分 ~ 17时48分]"
-        },
-        {
-          "title": "贵金属携手迭创新高 英伟达率科技股延续反弹势头 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2236882",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
-        },
-        {
-          "title": "英伟达告知中国客户：春节前对华出货",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%91%8A%E7%9F%A5%E4%B8%AD%E5%9B%BD%E5%AE%A2%E6%88%B7%EF%BC%9A%E6%98%A5%E8%8A%82%E5%89%8D%E5%AF%B9%E5%8D%8E%E5%87%BA%E8%B4%A7",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时14分 ~ 11时15分]"
-        },
-        {
-          "title": "曝英伟达计划春节前对华交付AI芯片",
-          "url": "https://www.toutiao.com/trending/7586876449718685210/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
+          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
+          "url": "https://www.cls.cn/detail/2238248",
           "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 13时49分]"
+          "appearance_count": 1,
+          "time_info": "11时12分"
         },
         {
-          "title": "诺和诺德(NVO.N)美股盘前涨超7%，FDA批准诺和诺德减肥药Wegovy口服片，将于明年1月上市。",
-          "url": "https://flash.jin10.com/detail/20251223170301806800",
+          "title": "英媒：英伟达放风春节前向中国客户交付H200芯片",
+          "url": "https://www.cls.cn/detail/2238263",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月24日（周三）上海金早盘价为1012.73元/克，较国际金价(1017.6元/克)，低4.87元/克",
+          "url": "https://flash.jin10.com/detail/20251224102046355800",
           "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "11时12分"
         },
         {
-          "title": "诺和诺德美股盘前涨约7%，美国食品药品监督管理局（FDA）已批准Wegovy®口服片，用于长期减轻及维持体重。",
-          "url": "https://wallstreetcn.com/livenews/3025508",
-          "source": "华尔街见闻-快讯",
+          "title": "金价癫了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            13
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "11时12分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时14分 ~ 19时43分]"
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2238119",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
         }
       ]
     },
@@ -462,15 +225,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数跌破98，创5日新低，日内跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3025481",
+          "title": "澳元兑美元上涨0.1%至0.6708，为2024年10月以来最高水平。 隔夜指数掉期显示， 澳洲联储加息两次的可能性超过70%，第一次加息最早可能在明年6月发生。",
+          "url": "https://wallstreetcn.com/livenews/3025903",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时48分"
+          "time_info": "11时12分"
         }
       ]
     }
