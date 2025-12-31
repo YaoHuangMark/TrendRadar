@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T15:45:43.013640+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2025-12-31T17:48:42.941575+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 17时48分]"
         },
         {
           "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
@@ -60,7 +61,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         },
@@ -93,7 +94,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
@@ -122,7 +123,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
         }
@@ -140,8 +141,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时15分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 17时48分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
