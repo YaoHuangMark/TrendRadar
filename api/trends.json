@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T17:48:42.941575+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2025-12-31T19:42:03.157761+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普为何称不担心解放军绕台军演",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时15分 ~ 17时48分]"
+        },
+        {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
@@ -141,8 +152,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时15分 ~ 17时48分]"
+          "appearance_count": 7,
+          "time_info": "[11时15分 ~ 19时42分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
