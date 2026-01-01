@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T12:35:33.622480+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-01-01T13:51:28.203383+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时51分]"
         },
         {
           "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
@@ -38,7 +38,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -49,7 +49,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },
@@ -71,7 +71,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
@@ -90,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时51分]"
         }
       ]
     },
@@ -106,7 +106,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         }
@@ -124,8 +124,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时27分 ~ 12时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时27分 ~ 13时51分]"
         }
       ]
     }
