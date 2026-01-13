@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T13:50:33.087710+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-01-13T15:46:59.415159+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "伊朗局势突然反转，特朗普又心生一计",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "特朗普：对伊朗的贸易伙伴征收25%关税",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
@@ -48,19 +48,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
-          "url": "https://wallstreetcn.com/articles/3763124",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
@@ -70,8 +59,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
+          "url": "https://wallstreetcn.com/articles/3763124",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
@@ -80,11 +81,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
@@ -92,22 +94,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
           "url": "https://www.cls.cn/detail/2255560",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -118,8 +122,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
@@ -140,8 +144,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 15时46分]"
         },
         {
           "title": "特朗普已敲定鲍威尔继任者人选",
@@ -172,7 +176,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
@@ -180,7 +184,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
@@ -190,8 +194,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
+        },
+        {
+          "title": "苹果联姻谷歌意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -199,11 +214,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时46分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -228,6 +244,74 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时16分 ~ 13时50分]"
+        },
+        {
+          "title": "苹果接入Gemini模型想做啥",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
+          "url": "https://www.cls.cn/detail/2255695",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
+        },
+        {
+          "title": "OpenAI收购医疗保健初创公司Torch",
+          "url": "https://www.toutiao.com/trending/7594644941129940998/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
+          "url": "https://www.cls.cn/detail/2255501",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时16分 ~ 13时50分]"
+        },
+        {
+          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
+          "url": "https://www.cls.cn/detail/2255569",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时46分"
         }
       ]
     },
@@ -256,41 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI收购医疗保健初创公司Torch",
-          "url": "https://www.toutiao.com/trending/7594644941129940998/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
-          "url": "https://www.cls.cn/detail/2255501",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 13时50分]"
         }
       ]
     },
