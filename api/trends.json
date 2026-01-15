@@ -1,399 +1,150 @@
 {
-  "generated_at": "2026-01-14T19:46:10.328194+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-01-15T11:19:32.911399+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 7,
       "titles": [
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 19时46分]"
-        },
-        {
-          "title": "特朗普特使秘密见了伊朗末代王储",
-          "url": "https://news.ifeng.com/c/8puGHxn1NbX",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 19时46分]"
-        },
-        {
-          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
-          "url": "https://www.cls.cn/detail/2256844",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时51分]"
-        },
-        {
-          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
-          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 17时53分]"
-        },
-        {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 15时47分]"
-        },
-        {
-          "title": "中方回应“特朗普称不需要国际法”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E9%9C%80%E8%A6%81%E5%9B%BD%E9%99%85%E6%B3%95%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 19时46分]"
-        },
-        {
-          "title": "特朗普参观汽车工厂遭工人辱骂",
-          "url": "https://www.douyin.com/hot/2367043",
-          "source": "抖音",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 19时46分]"
-        },
-        {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时51分]"
-        },
-        {
-          "title": "刘和平：特朗普抛弃“台独”是算计",
-          "url": "https://www.toutiao.com/trending/7595056380969812031/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时45分 ~ 19时46分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-14）",
-          "url": "https://flash.jin10.com/detail/20260114190924167800",
+          "title": "韩国官员：若法院对特朗普的关税裁决不利 韩国将寻求“最佳”应对方案",
+          "url": "https://flash.jin10.com/detail/20260115110807629800",
           "source": "金十数据",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "特朗普对伊朗发出威胁，外交部：反对外部势力干涉一国内政",
-          "url": "https://wallstreetcn.com/livenews/3036769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "11时19分"
         },
         {
-          "title": "斯伦贝谢(SLB.N)有望从特朗普利用委内瑞拉石油的计划中获益。",
-          "url": "https://flash.jin10.com/detail/20260114190234512800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
-        },
-        {
-          "title": "外交部回应特朗普称国际法无关紧要",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%9B%BD%E9%99%85%E6%B3%95%E6%97%A0%E5%85%B3%E7%B4%A7%E8%A6%81%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时47分"
-        },
-        {
-          "title": "英国央行委员泰勒：特朗普关税促使出口国寻找替代市场 英国通胀得以缓解",
-          "url": "https://flash.jin10.com/detail/20260114171639019800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
-        },
-        {
-          "title": "特朗普回应格陵兰岛总理选择丹麦而非美国：我不同意，他会有大麻烦",
-          "url": "https://wallstreetcn.com/livenews/3036636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国放宽对英伟达H200芯片出口中国的管制",
-          "url": "https://wallstreetcn.com/articles/3763225",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 19时46分]"
-        },
-        {
-          "title": "美国放宽对英伟达H200芯片出口中国的管制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32379988",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
-        },
-        {
-          "title": "美国批准向中国出口英伟达H200芯片",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%B9%E5%87%86%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E8%8B%B1%E4%BC%9F%E8%BE%BEH200%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
-        },
-        {
-          "title": "美放宽英伟达H200芯片对华出口监管",
-          "url": "https://www.toutiao.com/trending/7594065792736559140/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 15时47分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 19时46分]"
-        },
-        {
-          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
-          "url": "https://www.zhihu.com/question/1994310970621859099",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3036683",
+          "title": "哥伦比亚总统称将于2月3日同特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3037497",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "11时19分"
         },
         {
-          "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
-          "url": "https://flash.jin10.com/detail/20260114110243081800",
-          "source": "金十数据",
+          "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2258166",
+          "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "11时19分"
         },
         {
-          "title": "金价暴涨下谁在赚钱",
-          "url": "https://www.toutiao.com/trending/7595070385364667930/",
-          "source": "今日头条",
+          "title": "美国最高法院再次没能就特朗普关税政策的官司做出裁决，纳指维持1%跌幅",
+          "url": "https://wallstreetcn.com/articles/3763310",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时47分"
+          "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普暗示暂缓对伊朗采取行动，油价尾盘大跌，今日延续疲态。当前WTI原油现卖出信号。贵金属早盘全线下挫，地缘局势缓和削弱避险需求，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260115105544521800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
+          "url": "https://www.zhihu.com/question/1994760082911675910",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "特朗普称泽连斯基阻碍乌和平协议达成",
+          "url": "https://www.toutiao.com/trending/7595121166218641434/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时24分 ~ 19时46分]"
+          "appearance_count": 1,
+          "time_info": "11时19分"
         },
         {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
+          "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
+          "url": "https://www.cls.cn/detail/2258154",
           "source": "财联社热门",
           "ranks": [
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时24分 ~ 13时51分]"
-        },
-        {
-          "title": "携程美股盘前下跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3036845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时53分"
+          "time_info": "11时19分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "英伟达",
       "match_count": 1,
       "titles": [
         {
-          "title": "澳新银行预计，2026年下半年黄金交易价格将高于5000美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260114133123697800",
-          "source": "金十数据",
+          "title": "白银超越英伟达升至全球第二资产",
+          "url": "https://www.toutiao.com/trending/7595380024409067014/",
+          "source": "今日头条",
           "ranks": [
-            1
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时51分"
+          "time_info": "11时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
+          "url": "https://flash.jin10.com/detail/20260115110344751800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
         }
       ]
     }
