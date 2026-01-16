@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T12:27:01.499065+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-01-16T13:50:38.650922+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时50分]"
         },
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时50分]"
         },
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时50分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时50分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -59,8 +59,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时50分]"
         },
         {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
@@ -70,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时50分]"
         },
         {
           "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
@@ -110,6 +110,17 @@
           "time_info": "[11时18分 ~ 11时19分]"
         },
         {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://www.douyin.com/hot/2369152",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
           "title": "英媒：特朗普首笔委内瑞拉石油出售交易落入超级捐款人旗下公司",
           "url": "https://flash.jin10.com/detail/20260116103848062800",
           "source": "金十数据",
@@ -127,7 +138,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -138,7 +149,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -160,7 +171,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -190,18 +201,19 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "英伟达悄然修改论文错误 数据中心铜需求重估",
           "url": "https://www.cls.cn/detail/2259799",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时26分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时26分 ~ 13时50分]"
         },
         {
           "title": "英伟达修改技术论文错误表述 大幅下调数据中心铜使用量",
@@ -224,12 +236,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时18分 ~ 12时27分]"
+        },
+        {
+          "title": "杰富瑞：将英伟达(NVDA.O)目标价从250美元上调至275美元。",
+          "url": "https://flash.jin10.com/detail/20260116125850741800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "台积电带飞芯片股，力撑美股指反弹，白银一度跌逾7%后走V，原油大跌",
@@ -239,8 +262,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时50分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -263,6 +286,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 11时19分]"
+        },
+        {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
@@ -287,11 +321,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时18分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[11时18分 ~ 13时50分]"
         }
       ]
     },
