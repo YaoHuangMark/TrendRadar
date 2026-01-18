@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T13:48:46.947414+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-18T15:42:30.911170+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "目前仍不清楚特朗普是否会兑现格陵兰岛关税威胁",
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             8,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 15时42分]"
         },
         {
           "title": "大西洋理事会：欧洲将统一抵制特朗普的关税",
@@ -26,11 +27,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 15时42分]"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -42,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 15时42分]"
         },
         {
           "title": "特朗普未明确说明依据何种法律依据对欧洲八国关税",
@@ -52,11 +54,12 @@
           "ranks": [
             6,
             9,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 15时42分]"
         },
         {
           "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
@@ -64,11 +67,39 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 15时42分]"
+        },
+        {
+          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16,
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时48分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://wallstreetcn.com/livenews/3039150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 15时42分]"
         },
         {
           "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
@@ -97,29 +128,51 @@
           "time_info": "[11时24分 ~ 13时48分]"
         },
         {
-          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
-          "source": "澎湃新闻",
+          "title": "特朗普发黑白照：我是关税之王(图)",
+          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            17,
-            16
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时48分]"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 15时42分]"
         },
         {
-          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://wallstreetcn.com/livenews/3039150",
-          "source": "华尔街见闻-快讯",
+          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
+          "url": "https://wallstreetcn.com/articles/3763532",
+          "source": "华尔街见闻",
           "ranks": [
-            21,
-            22
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 13时48分]"
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
+          "url": "https://flash.jin10.com/detail/20260118121713560800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 15时42分]"
+        },
+        {
+          "title": "在对欧洲征税前，特朗普发个人照“关税之王”",
+          "url": "https://flash.jin10.com/detail/20260118120008739800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 15时42分]"
         },
         {
           "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
@@ -182,48 +235,26 @@
           "time_info": "[11时24分 ~ 12时31分]"
         },
         {
-          "title": "特朗普发黑白照：我是关税之王(图)",
-          "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
-          "source": "凤凰网",
+          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "15时42分"
         },
         {
-          "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
-          "url": "https://wallstreetcn.com/articles/3763532",
-          "source": "华尔街见闻",
+          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
-          "url": "https://flash.jin10.com/detail/20260118121713560800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
-        },
-        {
-          "title": "在对欧洲征税前，特朗普发个人照“关税之王”",
-          "url": "https://flash.jin10.com/detail/20260118120008739800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "time_info": "15时42分"
         },
         {
           "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
@@ -240,8 +271,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
           "url": "https://www.zhihu.com/question/1995914466735388213",
@@ -251,8 +293,20 @@
             15
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 15时42分]"
+        },
+        {
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            25
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时48分]"
+          "time_info": "[11时24分 ~ 15时42分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -264,17 +318,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
-        },
-        {
-          "title": "翁家翌谈OpenAI模型跃迁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         }
       ]
     },
@@ -289,7 +332,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -298,11 +341,12 @@
           "url": "https://www.toutiao.com/trending/7596537658717785642/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 15时42分]"
         }
       ]
     },
@@ -315,11 +359,12 @@
           "url": "https://www.cls.cn/detail/2261261",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 15时42分]"
         }
       ]
     }
