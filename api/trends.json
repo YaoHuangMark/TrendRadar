@@ -1,483 +1,171 @@
 {
-  "generated_at": "2026-01-17T19:41:20.732480+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-01-18T11:24:52.693719+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 13,
       "titles": [
         {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
+          "title": "目前仍不清楚特朗普是否会兑现格陵兰岛关税威胁",
+          "url": "https://flash.jin10.com/detail/20260118101323623800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 19时41分]"
-        },
-        {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 17时43分]"
-        },
-        {
-          "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
-          "url": "https://news.ifeng.com/c/8pyaPdxiAtr",
-          "source": "凤凰网",
-          "ranks": [
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时10分 ~ 17时43分]"
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
-          "title": "特朗普：这是卡尼该做的事，签协议是好事",
-          "url": "https://news.ifeng.com/c/8pyqg7dqBOh",
-          "source": "凤凰网",
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
           "ranks": [
-            2,
-            4,
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 19时41分]"
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            7,
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 19时41分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时45分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
-          "url": "https://flash.jin10.com/detail/20260117185814130800",
+          "title": "特朗普未明确说明依据何种法律依据对欧洲八国关税",
+          "url": "https://flash.jin10.com/detail/20260118101022725800",
           "source": "金十数据",
           "ranks": [
-            1
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "11时24分"
         },
         {
-          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
-          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时43分]"
-        },
-        {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时09分]"
-        },
-        {
-          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://wallstreetcn.com/articles/3763499",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 19时41分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时09分]"
-        },
-        {
-          "title": "美国总统特朗普购买100万美元奈飞和华纳兄弟探索公司的债券。 此举是在宣布两家公司有望合并的消息之后。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3039055",
+          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
+          "url": "https://wallstreetcn.com/livenews/3039177",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            25
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时09分]"
-        },
-        {
-          "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
-          "url": "https://flash.jin10.com/detail/20260117080445022800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时09分]"
-        },
-        {
-          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
-          "url": "https://flash.jin10.com/detail/20260117182506253800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "11时24分"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
-          "url": "https://flash.jin10.com/detail/20260117174453624800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "哈梅内伊：特朗普是罪犯",
-          "url": "https://wallstreetcn.com/livenews/3039111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        },
-        {
-          "title": "埃及总统塞西：已致信特朗普，重申开罗的立场及其对本国水安全的关切。",
-          "url": "https://flash.jin10.com/detail/20260117174020851800",
+          "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
+          "url": "https://flash.jin10.com/detail/20260118093517443800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "11时24分"
         },
         {
-          "title": "埃及总统塞西：重视特朗普关于调解埃及与埃塞俄比亚在复兴大坝问题上争端的提议。",
-          "url": "https://flash.jin10.com/detail/20260117173914674800",
+          "title": "摩根大通证实，美国总统特朗普的说法属实，即特朗普未提供CEO戴蒙美联储主席职位。",
+          "url": "https://flash.jin10.com/detail/20260118093035859800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时41分"
+          "time_info": "11时24分"
         },
         {
-          "title": "特朗普自曝暂缓打伊朗原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%AA%E6%9B%9D%E6%9A%82%E7%BC%93%E6%89%93%E4%BC%8A%E6%9C%97%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=19&Refer=top",
+          "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
+          "url": "https://flash.jin10.com/detail/20260118085528695800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "特朗普开价10亿卖委员会永久席位",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BB%B710%E4%BA%BF%E5%8D%96%E5%A7%94%E5%91%98%E4%BC%9A%E6%B0%B8%E4%B9%85%E5%B8%AD%E4%BD%8D%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "11时24分"
         },
         {
-          "title": "美商务部长：台湾必须哄特朗普高兴",
-          "url": "https://www.toutiao.com/trending/7595989916463923263/",
-          "source": "今日头条",
+          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://wallstreetcn.com/livenews/3039150",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "11时24分"
         },
         {
-          "title": "特朗普被曝2017年就想入侵委内瑞拉",
-          "url": "https://www.toutiao.com/trending/7595827633294147635/",
-          "source": "今日头条",
+          "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
+          "url": "https://flash.jin10.com/detail/20260118081338309800",
+          "source": "金十数据",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时43分"
+          "time_info": "11时24分"
         },
         {
-          "title": "特朗普称明尼苏达州已完全失控",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%98%8E%E5%B0%BC%E8%8B%8F%E8%BE%BE%E5%B7%9E%E5%B7%B2%E5%AE%8C%E5%85%A8%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
+          "url": "https://flash.jin10.com/detail/20260118081329307800",
+          "source": "金十数据",
           "ranks": [
-            28
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "11时24分"
+        },
+        {
+          "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
+          "url": "https://flash.jin10.com/detail/20260118081050241800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时41分 ~ 19时41分]"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时10分 ~ 15时42分]"
-        },
-        {
-          "title": "ChatGPT将加入广告",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
-          "url": "https://wallstreetcn.com/livenews/3039109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 19时41分]"
-        },
-        {
-          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2260838",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 13时45分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260117050528991800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
-          "url": "https://wallstreetcn.com/livenews/3039053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时09分]"
-        },
-        {
-          "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260117050916317800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达修改数据中心铜用量表述",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BF%AE%E6%94%B9%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%93%9C%E7%94%A8%E9%87%8F%E8%A1%A8%E8%BF%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时10分"
-        },
-        {
-          "title": "据英国《金融时报》：英伟达(NVDA.O)供应商暂停H200芯片关键组件的生产。",
-          "url": "https://flash.jin10.com/detail/20260117093435565800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时09分]"
-        },
-        {
-          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
-          "url": "https://flash.jin10.com/detail/20260117140618013800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 17时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国持续减持美债有何动因",
-          "url": "https://www.toutiao.com/trending/7595953759675485747/",
-          "source": "今日头条",
+          "title": "翁家翌谈OpenAI模型跃迁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时45分"
+          "time_info": "11时24分"
         }
       ]
     }
