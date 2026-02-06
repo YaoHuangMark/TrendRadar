@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T18:09:31.124593+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-02-06T19:56:46.822887+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 18时09分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 19时56分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -27,11 +27,23 @@
             11,
             7,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 18时09分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 19时56分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时03分 ~ 19时56分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -45,17 +57,6 @@
           "time_info": "[11时57分 ~ 14时13分]"
         },
         {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时03分 ~ 18时09分]"
-        },
-        {
           "title": "是否会谋求第三个任期？特朗普：我不知道，但那会很有趣",
           "url": "https://m.thepaper.cn/newsDetail_forward_32542705",
           "source": "澎湃新闻",
@@ -65,6 +66,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时09分 ~ 19时56分]"
         },
         {
           "title": "外交部回应特朗普支持高市赢得大选",
@@ -84,20 +97,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
         {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "美国公司拿下大量委内瑞拉石油，打折卖仍滞销，特朗普亲自「带货」委石油，哪些国家会购买？为何会滞销？",
+          "url": "https://www.zhihu.com/question/2002762561406390549",
+          "source": "知乎",
           "ranks": [
-            20
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时09分"
+          "time_info": "19时56分"
         },
         {
           "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
@@ -109,12 +122,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：纳指连续三天均跌超1%",
@@ -135,9 +159,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -171,7 +206,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -182,7 +217,68 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时09分"
+        },
+        {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "Biogen第四季度营收22.8亿美元，预估22.2亿美元。 第四季度调整后每股收益1.99美元，上年同期3.44美元，预估1.56美元。 Biogen预计2026年调整后每股收益15.25美元至16.25美元。 Biogen美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3051361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI 正式发布 GPT-5.3-Codex，与其他版本相比，它在哪些方面有所改进？",
+          "url": "https://www.zhihu.com/question/2002935266940310387",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
+          "title": "软银：将在日本的合资企业服务中使用OpenAI的新企业平台。",
+          "url": "https://flash.jin10.com/detail/20260206105733969800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "实测OpenAI和Cluade模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BOpenAI%E5%92%8CCluade%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         }
@@ -211,7 +307,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -240,11 +336,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 18时09分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 19时56分]"
         },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
@@ -260,34 +357,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "软银：将在日本的合资企业服务中使用OpenAI的新企业平台。",
-          "url": "https://flash.jin10.com/detail/20260206105733969800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "实测OpenAI和Cluade模型",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BOpenAI%E5%92%8CCluade%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -299,8 +368,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时57分 ~ 18时09分]"
+          "appearance_count": 6,
+          "time_info": "[11时57分 ~ 19时56分]"
         }
       ]
     },
