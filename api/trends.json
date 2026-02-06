@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T11:58:18.125782+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-02-06T14:13:34.526887+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时13分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时13分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
           "url": "https://m.thepaper.cn/newsDetail_forward_32540970",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时13分]"
         },
         {
           "title": "是否会谋求第三个任期？特朗普：我不知道，但那会很有趣",
@@ -62,33 +63,36 @@
           "url": "https://www.cls.cn/detail/2282258",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时13分]"
         },
         {
           "title": "美股三大指数集体收跌",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时13分]"
         },
         {
           "title": "美股、金银、比特币、石油 全崩了",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E3%80%81%E9%87%91%E9%93%B6%E3%80%81%E6%AF%94%E7%89%B9%E5%B8%81%E3%80%81%E7%9F%B3%E6%B2%B9+%E5%85%A8%E5%B4%A9%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时13分]"
         }
       ]
     },
@@ -96,6 +100,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时13分]"
+        },
         {
           "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2282073",
@@ -106,17 +122,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 11时58分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
+          "title": "全球最大矿业合并案告吹 英伟达新游戏显卡据传全面跳票 | 环球市场",
+          "url": "https://www.cls.cn/detail/2282311",
+          "source": "财联社热门",
           "ranks": [
-            8
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时13分]"
+        },
+        {
+          "title": "存储荒烧向英伟达？业内曝新游戏显卡将全面跳票 30年来首次“断更”",
+          "url": "https://www.cls.cn/detail/2282526",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时13分"
         }
       ]
     },
@@ -131,26 +164,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "全球最大矿业合并案告吹 英伟达新游戏显卡据传全面跳票 | 环球市场",
-          "url": "https://www.cls.cn/detail/2282311",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
         }
       ]
     },
@@ -166,8 +182,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时57分 ~ 11时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时57分 ~ 14时13分]"
         }
       ]
     }
