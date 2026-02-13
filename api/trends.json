@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T14:37:40.858051+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-02-13T16:05:46.239686+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时05分]"
         },
         {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
@@ -57,11 +57,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "特朗普称期待4月访华",
@@ -69,11 +70,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -81,22 +83,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
           "url": "https://www.cls.cn/detail/2289315",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时05分]"
         },
         {
           "title": "伦铝期货短线下挫，日内由涨转跌，现报3092美元/吨。消息面上，特朗普准备取消对金属和铝制品征收的关税。",
@@ -105,7 +109,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -127,7 +131,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -138,7 +142,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
@@ -146,7 +150,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -156,8 +160,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
@@ -167,19 +171,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
           "url": "https://wallstreetcn.com/articles/3765629",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -194,38 +199,41 @@
           "time_info": "[12时04分 ~ 14时37分]"
         },
         {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时05分]"
+        },
+        {
           "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
           "url": "https://wallstreetcn.com/articles/3765624",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
-        },
-        {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
           "url": "https://wallstreetcn.com/articles/3765636",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 16时05分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -237,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
+        },
+        {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "美股跳水 黄金白银大跌",
@@ -262,7 +281,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -302,8 +321,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 16时05分]"
         }
       ]
     }
