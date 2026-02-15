@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T17:56:23.573421+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-02-15T19:48:27.952377+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时05分 ~ 15时57分]"
+        },
+        {
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时48分]"
         },
         {
           "title": "王毅：特朗普尊重中方 有人想打压中国",
@@ -33,15 +44,15 @@
           "time_info": "[12时05分 ~ 15时57分]"
         },
         {
-          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
-          "url": "https://news.ifeng.com/c/8qlaP330gp4",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时56分"
+          "time_info": "19时48分"
         },
         {
           "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时05分 ~ 17时56分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时56分 ~ 19时48分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -79,17 +101,6 @@
           "time_info": "[15时57分 ~ 17时56分]"
         },
         {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
           "url": "https://www.cls.cn/detail/2290201",
           "source": "财联社热门",
@@ -107,7 +118,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
         },
@@ -118,9 +129,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "2026慕安会｜王毅：特朗普非常尊重中方，但还有人想打压中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32610423",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时48分"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
@@ -148,8 +170,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 19时48分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -205,11 +227,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时05分 ~ 17时56分]"
+          "appearance_count": 6,
+          "time_info": "[12时05分 ~ 19时48分]"
         }
       ]
     }
