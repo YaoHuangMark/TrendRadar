@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-16T12:07:21.225428+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-16T14:41:50.964100+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2006637072895738078",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
           "url": "https://wallstreetcn.com/articles/3765755",
@@ -15,19 +26,60 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 14时41分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
           "url": "https://wallstreetcn.com/articles/3765772",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 14时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "14时41分"
+        },
+        {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 14时41分]"
+        },
+        {
+          "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
+          "url": "https://flash.jin10.com/detail/20260216131526064800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时41分"
         }
       ]
     },
@@ -43,8 +95,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "appearance_count": 2,
+          "time_info": "[12时07分 ~ 14时41分]"
         }
       ]
     },
@@ -66,19 +118,19 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "特朗普或支持以色列打击伊朗",
-          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
-          "source": "凤凰网",
+          "title": "大摩：市场开始买美债了",
+          "url": "https://www.toutiao.com/trending/7607327141323083327/",
+          "source": "今日头条",
           "ranks": [
-            7
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时07分"
+          "time_info": "14时41分"
         }
       ]
     }
