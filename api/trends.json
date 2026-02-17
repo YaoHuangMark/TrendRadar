@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:34:42.276678+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-02-17T16:07:05.548720+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 16时07分]"
         },
         {
           "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
@@ -61,7 +61,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
@@ -80,8 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 16时07分]"
         },
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -91,8 +91,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 16时07分]"
         }
       ]
     },
@@ -108,8 +108,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 16时07分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
