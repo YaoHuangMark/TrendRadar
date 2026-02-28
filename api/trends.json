@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T14:02:14.641916+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-02-28T15:48:47.230443+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 35,
       "titles": [
         {
           "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
+        },
+        {
+          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
         },
         {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
@@ -28,30 +40,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
-        },
-        {
-          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
         },
         {
           "title": "特朗普扬言：美国或“友好接管”古巴",
           "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
         },
         {
           "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
@@ -59,11 +61,34 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗政权支持恐怖主义，压迫其人民。",
+          "url": "https://flash.jin10.com/detail/20260228154551293800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "特朗普称伊朗正在研制威胁美国的远程导弹",
+          "url": "https://wallstreetcn.com/livenews/3060672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "美国总统特朗普：（谈白俄罗斯时表示）我们关系非常好。我非常喜欢这个领导人——我对他非常尊重。",
@@ -72,9 +97,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国人可能遭受损失，我们可能会有人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260228153829528800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
@@ -100,6 +136,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297953",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时48分]"
+        },
+        {
+          "title": "“特朗普的安全芭比”，危险了",
+          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时48分]"
         },
         {
           "title": "美国总统特朗普：明尼苏达州自闭症补助金从2017年的1,099,946美元飙升至2024年的343,176,474美元，短短几年内增长了34,000%。这简直就是个天大的骗局。立即调查并逮捕骗子。更多索马里势力介入。加州的情况更糟。要平衡预算。",
@@ -149,28 +209,6 @@
           "time_info": "[11时31分 ~ 12时43分]"
         },
         {
-          "title": "特朗普透露美伊将继续谈判 但警告“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297953",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
-          "title": "“特朗普的安全芭比”，危险了",
-          "url": "https://news.ifeng.com/c/8r6sxbP9dJN",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        },
-        {
           "title": "特朗普：不满意伊核谈判进展",
           "url": "https://www.douyin.com/hot/2413960",
           "source": "抖音",
@@ -182,15 +220,125 @@
           "time_info": "[14时01分 ~ 14时02分]"
         },
         {
+          "title": "美国总统特朗普：美国已采取一切可能的措施，以最大程度降低驻该地区美军人员的风险。",
+          "url": "https://flash.jin10.com/detail/20260228153814038800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "美国总统特朗普称，美军已经开始对伊朗进行军事打击。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3060668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "美国总统特朗普：我们将彻底摧毁伊朗的海军。",
+          "url": "https://flash.jin10.com/detail/20260228153808526800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
           "title": "特朗普媒体与科技集团2025年财务资产达25亿美元",
           "url": "https://flash.jin10.com/detail/20260228131710675800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们将确保伊朗不会获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260228153726543800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "美国总统特朗普：我们将摧毁伊朗的导弹，并把他们的导弹产业“夷为平地”。",
+          "url": "https://flash.jin10.com/detail/20260228153720603800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "美国总统特朗普：我们的目标是通过消除伊朗政权的迫切威胁来保护美国民众。",
+          "url": "https://flash.jin10.com/detail/20260228153644862800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗正在研发威胁美国及其他国家的远程导弹。",
+          "url": "https://flash.jin10.com/detail/20260228153639209800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗试图重建其核计划。",
+          "url": "https://flash.jin10.com/detail/20260228153617484800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗永远不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260228153519303800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "美国总统特朗普：不久前，美国在伊朗发动了重大作战行动。",
+          "url": "https://flash.jin10.com/detail/20260228153204357800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "美国前总统拜登在南卡罗来纳州的演讲中宣称，他将“最强的南部边界”和“世界上最强的经济”交给了现任总统特朗普。“这不是夸大其词。”",
@@ -199,9 +347,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "特朗普：不想打 但有时候不得不打",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%83%B3%E6%89%93+%E4%BD%86%E6%9C%89%E6%97%B6%E5%80%99%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%89%93",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         },
         {
           "title": "美国总统特朗普谈及得州水危机，称：我们将处理这个问题。",
@@ -251,7 +410,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "估值7300亿美元！OpenAI完成1100亿美元融资，亚马逊投了500亿",
@@ -259,22 +418,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
           "url": "https://www.cls.cn/detail/2297763",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
         },
         {
           "title": "AWS与OpenAI联合开发“有状态运行时环境”，预计数月内推出",
@@ -283,7 +444,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         },
@@ -383,6 +544,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时31分 ~ 12时43分]"
+        },
+        {
+          "title": "解读OpenAI获千亿美元投资背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
         }
       ]
     },
@@ -395,11 +567,12 @@
           "url": "https://www.cls.cn/detail/2297908",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
         },
         {
           "title": "中国 AI 调用量首超美国，国产算力电力大涨，英伟达市值一夜蒸发 2600 亿美元，如何解读背后市场信号？",
@@ -408,11 +581,12 @@
           "ranks": [
             14,
             12,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
         },
         {
           "title": "英伟达计划推出新芯片以加快AI处理速度",
@@ -442,6 +616,34 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        },
+        {
+          "title": "美股下跌对普通人有何启示",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%90%AF%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时30分 ~ 11时31分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -460,6 +662,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -471,25 +690,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时30分 ~ 14时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股下跌对普通人有何启示",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%90%AF%E7%A4%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时30分 ~ 11时31分]"
+          "appearance_count": 7,
+          "time_info": "[11时30分 ~ 15时48分]"
         }
       ]
     }
