@@ -1,292 +1,99 @@
 {
-  "generated_at": "2026-03-01T19:45:24.935824+08:00",
-  "total_titles_processed": 824,
+  "generated_at": "2026-03-02T11:57:00.600666+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 8,
       "titles": [
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/articles/3766454",
-          "source": "华尔街见闻",
+          "title": "美以伊战争最新动态｜特朗普与内塔尼亚胡肖像被烧毁",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时09分 ~ 19时45分]"
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
         },
         {
-          "title": "美以空袭致伊近千人伤亡 特朗普称哈梅内伊“已死” 伊朗否认",
-          "url": "https://wallstreetcn.com/articles/3766446",
-          "source": "华尔街见闻",
+          "title": "特朗普：对伊朗的军事行动可能持续四周左右",
+          "url": "https://news.ifeng.com/c/8r9ZKyKXgpq",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            5,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 19时45分]"
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
         },
         {
-          "title": "特朗普称哈梅内伊已身亡 伊外交部此前回应称其“安然无恙”",
-          "url": "https://www.cls.cn/detail/2298666",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 19时45分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-01）",
-          "url": "https://flash.jin10.com/detail/20260301191237626800",
+          "title": "能源情报集团记者Amena Bakr：如果特朗普的“计划”是让这场冲突在一周内结束，我认为他目前还没有想好如何才能实现这一目标。",
+          "url": "https://flash.jin10.com/detail/20260302114056764800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时45分"
+          "time_info": "11时57分"
         },
         {
-          "title": "伊朗媒体说伊朗总统等将领导国家，特朗普：外交解决方案仍“易于”达成，已有可执掌伊朗政权的“合适人选”",
-          "url": "https://wallstreetcn.com/livenews/3061056",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普称对伊朗军事行动或持续约4周，伊朗公布反击“成果”，英法德或采取防御",
+          "url": "https://wallstreetcn.com/articles/3766474",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            17
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时06分 ~ 14时09分]"
+          "time_info": "[11时56分 ~ 11时57分]"
         },
         {
-          "title": "特朗普：若伊朗发动猛烈行动 美将以“前所未见的强大力量”回击",
-          "url": "https://wallstreetcn.com/livenews/3061070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时09分 ~ 15时53分]"
-        },
-        {
-          "title": "高市早苗当众施压下属：别让我在特朗普面前难堪！网友：职场霸凌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32671945",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 14时09分]"
-        },
-        {
-          "title": "美以对伊军事打击后，白宫：特朗普仍计划出席共和党筹款活动",
-          "url": "https://wallstreetcn.com/livenews/3061046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 14时09分]"
-        },
-        {
-          "title": "特朗普称伊朗最高领袖哈梅内伊“已死”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32676301",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 14时09分]"
-        },
-        {
-          "title": "特朗普称此次袭击要摧毁伊朗导弹工业，消灭伊朗海军，伊朗导弹工业、伊朗海军目前处于什么水平？",
-          "url": "https://www.zhihu.com/question/2011106123147675013",
-          "source": "知乎",
+          "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
+          "url": "https://wallstreetcn.com/articles/3766483",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
         },
         {
-          "title": "特朗普监控伊朗行动照片曝光",
-          "url": "https://www.toutiao.com/trending/7611449201683353107/",
-          "source": "今日头条",
+          "title": "特朗普：伊朗新领导层希望恢复谈判，我同意了",
+          "url": "https://news.ifeng.com/c/8r9Nda8tUH6",
+          "source": "凤凰网",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
         },
         {
-          "title": "特朗普不怕油价？报道称美国不考虑释放战略原油储备，而OPEC+考虑增产",
-          "url": "https://wallstreetcn.com/articles/3766448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫向特朗普和内塔尼亚胡喊话，称他们已经越过了红线，“必将为此付出代价”。",
-          "url": "https://flash.jin10.com/detail/20260301132637678800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "特朗普：若伊朗发动猛烈袭击 美国将以史无前例的威力予以回击",
-          "url": "https://flash.jin10.com/detail/20260301132611266800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "美国总统特朗普：因为如果伊朗敢那样做，我们将以前所未有的力量打击他们。",
-          "url": "https://flash.jin10.com/detail/20260301132342672800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗刚刚表示，他们今天将发动一次力度空前的猛烈袭击。他们最好别那样做。",
-          "url": "https://flash.jin10.com/detail/20260301132328483800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "特朗普：通过外交途径解决伊朗问题仍然可行，而且“现在容易得多”",
-          "url": "https://flash.jin10.com/detail/20260301105134941800",
+          "title": "特朗普曝伊朗内部人士主动接触",
+          "url": "https://flash.jin10.com/detail/20260302111931135800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "11时57分"
         },
         {
-          "title": "美国总统特朗普：现在通过外交途径解决伊朗问题要容易得多。伊朗的攻击迄今为止低于我们的预期。",
-          "url": "https://flash.jin10.com/detail/20260301103319728800",
+          "title": "据ABC新闻：特朗普在谈及哈梅内伊之死时表示，我赶在他干掉我之前先干掉了他。他们试了两次。嗯，我先得手了。",
+          "url": "https://flash.jin10.com/detail/20260302110855426800",
           "source": "金十数据",
           "ranks": [
-            24
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "美国加州州长纽森：特朗普对美国人民撒谎。他发动的鲁莽和非法的战争没有关于如何收场的描述，也没有对生存威胁的解释。",
-          "url": "https://flash.jin10.com/detail/20260301142743809800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "英伟达紧急撤回问题驱动595.59",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%B4%A7%E6%80%A5%E6%92%A4%E5%9B%9E%E9%97%AE%E9%A2%98%E9%A9%B1%E5%8A%A8595.59",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 15时53分]"
-        },
-        {
-          "title": "英伟达与全球电信巨头携手，致力于在开放、安全的原生AI平台上构建6G网络",
-          "url": "https://wallstreetcn.com/livenews/3061088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 17时53分]"
-        },
-        {
-          "title": "投资大佬德鲁肯米勒：我的优势不是智商，而是果断扣动扳机，卖飞英伟达“肠子都悔青了”",
-          "url": "https://wallstreetcn.com/articles/3766425",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "英伟达与多家电信企业就6G网络建设达成承诺",
-          "url": "https://flash.jin10.com/detail/20260301151640591800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "市场消息：英伟达(NVDA.O)与全球电信业领袖承诺基于开放且安全的原生人工智能平台打造6G。",
-          "url": "https://flash.jin10.com/detail/20260301150043079800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时53分"
+          "time_info": "11时57分"
         }
       ]
     },
@@ -299,15 +106,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBOpenAI%E8%8E%B7%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84%E8%83%8C%E5%90%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            16,
-            15,
-            14,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 19时45分]"
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
         }
       ]
     },
@@ -316,32 +119,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "金价或将冲击历史新高",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%88%96%E5%B0%86%E5%86%B2%E5%87%BB%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
+          "title": "金十图示：2026年03月02日（周一）上海金早盘价为1178.41元/克，较国际金价(1180.54元/克)低2.13元/克",
+          "url": "https://flash.jin10.com/detail/20260302110051016800",
+          "source": "金十数据",
           "ranks": [
-            28
+            29
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时52分 ~ 15时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金暗盘价格为何跌了",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%97%E7%9B%98%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E8%B7%8C%E4%BA%86",
-          "source": "bilibili 热搜",
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌0.7%，油价跳涨13%但涨幅显著收窄，黄金回落至5330美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时53分"
+          "appearance_count": 2,
+          "time_info": "[11时56分 ~ 11时57分]"
         }
       ]
     }
