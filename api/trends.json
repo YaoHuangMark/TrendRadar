@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T18:08:16.222550+08:00",
-  "total_titles_processed": 786,
+  "generated_at": "2026-03-03T19:56:02.387207+08:00",
+  "total_titles_processed": 923,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 18时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 19时56分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 18时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 19时56分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -40,8 +40,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时09分 ~ 18时08分]"
+          "appearance_count": 6,
+          "time_info": "[14时09分 ~ 19时56分]"
+        },
+        {
+          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
+          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 19时56分]"
         },
         {
           "title": "特朗普“不惜一切”誓言加剧恐慌，全球股债遭抛售，油涨金银跌，汇市美元独秀！",
@@ -66,17 +77,6 @@
           "time_info": "[11时57分 ~ 11时58分]"
         },
         {
-          "title": "特朗普夫人首次主持安理会会议，中方强烈谴责",
-          "url": "https://news.ifeng.com/c/8rBij7DRy9X",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 18时08分]"
-        },
-        {
           "title": "“不得不说，特朗普的计划落空了”",
           "url": "https://news.ifeng.com/c/8rAA4FIm65f",
           "source": "凤凰网",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 11时58分]"
+        },
+        {
+          "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
+          "url": "https://wallstreetcn.com/articles/3766606",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "美以伊战争最新动态｜特朗普回应是否怕美国本土遭袭",
@@ -118,7 +129,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -140,7 +151,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时08分"
         },
@@ -161,22 +172,35 @@
           "url": "https://www.cls.cn/detail/2300728",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时08分]"
+          "appearance_count": 5,
+          "time_info": "[16时02分 ~ 19时56分]"
         },
         {
           "title": "特朗普：没有必要对伊朗采取地面军事行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_32689484",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 19时56分]"
+        },
+        {
+          "title": "外交部回应特朗普 3 月访华能否成行，「中美就元首互动保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2011830146605274886",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "美将领：2月27日15时38分收到特朗普最终对伊军事行动指令",
@@ -193,7 +217,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：地缘冲突下市场剧烈波动 三大股指涨跌不一",
@@ -205,6 +229,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时57分 ~ 14时09分]"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时55分 ~ 19时56分]"
         },
         {
           "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
@@ -242,47 +277,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "标普下调软银展望至负面 OpenAI 押注加剧流动性风险",
-          "url": "https://flash.jin10.com/detail/20260303175117671800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时08分"
-        },
-        {
-          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
-          "url": "https://www.cls.cn/detail/2300871",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时07分 ~ 18时08分]"
-        },
-        {
-          "title": "标普全球：由于OpenAI在其投资组合中占比更大，软银集团投资组合的流动性将恶化。",
-          "url": "https://flash.jin10.com/detail/20260303135539749800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价上涨 但受强势美元限制",
@@ -316,6 +312,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "避险情绪转向利空 金价随降息预期降温而回落",
+          "url": "https://flash.jin10.com/detail/20260303192047395800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普下调软银展望至负面 OpenAI 押注加剧流动性风险",
+          "url": "https://flash.jin10.com/detail/20260303175117671800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时08分"
+        },
+        {
+          "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
+          "url": "https://www.cls.cn/detail/2300871",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时07分 ~ 19时56分]"
+        },
+        {
+          "title": "标普全球：由于OpenAI在其投资组合中占比更大，软银集团投资组合的流动性将恶化。",
+          "url": "https://flash.jin10.com/detail/20260303135539749800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     },
@@ -363,8 +409,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 18时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 19时56分]"
         }
       ]
     }
