@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T15:50:41.857346+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-03-07T17:52:35.125999+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3766927",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 15时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 17时52分]"
         },
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -136,7 +137,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         },
@@ -147,7 +148,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时50分"
         }
@@ -166,8 +167,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时34分 ~ 15时50分]"
+          "appearance_count": 6,
+          "time_info": "[11时34分 ~ 17时52分]"
         }
       ]
     }
