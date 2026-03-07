@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-07T11:35:09.728409+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-03-07T14:02:01.284740+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 14时02分]"
         },
         {
           "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
@@ -26,8 +26,30 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 14时02分]"
+        },
+        {
+          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
+          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
+          "time_info": "[14时01分 ~ 14时02分]"
+        },
+        {
+          "title": "美国驻约旦大使馆：保护美国公民的安全始终是特朗普总统、鲁比奥国务卿和国务院的首要任务。官员们正在探索更多选项，以帮助美国人离开中东。",
+          "url": "https://flash.jin10.com/detail/20260307134413447800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
@@ -37,8 +59,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普称“与伊朗不会达成任何协议” 引发市场剧烈震荡",
+          "url": "https://www.cls.cn/detail/2305816",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 14时02分]"
         },
         {
           "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
@@ -52,26 +85,26 @@
           "time_info": "[11时34分 ~ 11时35分]"
         },
         {
-          "title": "特朗普称“与伊朗不会达成任何协议” 引发市场剧烈震荡",
-          "url": "https://www.cls.cn/detail/2305816",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
           "title": "消息人士称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
           "url": "https://flash.jin10.com/detail/20260307105857912800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
+        },
+        {
+          "title": "据法新社：美国燃油价格上涨可能引发特朗普的国内危机。",
+          "url": "https://flash.jin10.com/detail/20260307124912015800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时02分"
         },
         {
           "title": "美国总统特朗普：明天，我将与第一夫人及内阁成员一同前往多佛空军基地，向我们的伟大勇士致以最崇高的敬意。",
@@ -80,7 +113,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -91,7 +124,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         }
@@ -106,11 +139,12 @@
           "url": "https://www.cls.cn/detail/2305872",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 14时02分]"
         }
       ]
     }
