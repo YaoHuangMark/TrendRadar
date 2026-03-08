@@ -1,196 +1,99 @@
 {
-  "generated_at": "2026-03-07T19:45:27.587978+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-03-08T11:55:35.268481+08:00",
+  "total_titles_processed": 300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 8,
       "titles": [
         {
-          "title": "特朗普宣称“与伊朗不会达成任何协议”，军工企业同意将“精良级”武器产量“翻两番”",
-          "url": "https://wallstreetcn.com/articles/3766927",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 19时45分]"
-        },
-        {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "title": "特朗普：目前无计划在伊朗部署地面部队",
+          "url": "https://news.ifeng.com/c/8rJig12CHog",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 14时02分]"
-        },
-        {
-          "title": "特朗普：伊朗今日将遭受沉重打击",
-          "url": "https://flash.jin10.com/detail/20260307191516778800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时45分"
+          "time_info": "11时55分"
         },
         {
-          "title": "美国驻约旦大使馆：保护美国公民的安全始终是特朗普总统、鲁比奥国务卿和国务院的首要任务。官员们正在探索更多选项，以帮助美国人离开中东。",
-          "url": "https://flash.jin10.com/detail/20260307134413447800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "奥巴马、拜登“不点名”抨击特朗普政府",
-          "url": "https://news.ifeng.com/c/8rIXypaKu4O",
+          "title": "特朗普先“赢”上了：伊朗道歉都是我的功劳，今天伊朗将遭受重击",
+          "url": "https://news.ifeng.com/c/8rJ3FnhA3LI",
           "source": "凤凰网",
           "ranks": [
-            2,
-            11
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时01分 ~ 15时50分]"
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
-          "title": "反转！报道：特朗普政府搁置财政部“操盘”原油期货的计划",
-          "url": "https://wallstreetcn.com/articles/3766889",
-          "source": "华尔街见闻",
+          "title": "专家：特朗普的麻烦还在后面，美国与伊朗的战争成本接近300:1",
+          "url": "https://news.ifeng.com/c/8rJ8cbEmAvH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "美媒：特朗普打击伊朗的选项包括派遣特种部队摧毁伊朗核设施",
+          "url": "https://flash.jin10.com/detail/20260308105750349800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "英国可能部署航母至中东，特朗普：不需要",
+          "url": "https://news.ifeng.com/c/8rJVEzbISO2",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 14时02分]"
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
-          "title": "特朗普称“与伊朗不会达成任何协议” 引发市场剧烈震荡",
-          "url": "https://www.cls.cn/detail/2305816",
-          "source": "财联社热门",
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://flash.jin10.com/detail/20260308104028991800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "委内瑞拉代总统致函特朗普",
+          "url": "https://www.toutiao.com/trending/7614119677836476458/",
+          "source": "今日头条",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时34分 ~ 14时02分]"
-        },
-        {
-          "title": "“甩锅”特朗普，与下属传婚外情，她被开了",
-          "url": "https://news.ifeng.com/c/8rHRuIXQ6KL",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
-        },
-        {
-          "title": "消息人士称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
-          "url": "https://flash.jin10.com/detail/20260307105857912800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时35分"
+          "time_info": "11时55分"
         },
         {
-          "title": "据法新社：美国燃油价格上涨可能引发特朗普的国内危机。",
-          "url": "https://flash.jin10.com/detail/20260307124912015800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "美国总统特朗普：明天，我将与第一夫人及内阁成员一同前往多佛空军基地，向我们的伟大勇士致以最崇高的敬意。",
-          "url": "https://flash.jin10.com/detail/20260307093639717800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-07）",
-          "url": "https://flash.jin10.com/detail/20260307180738661800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "美媒称特朗普对在伊朗部署美地面部队表达“浓厚兴趣”",
-          "url": "https://wallstreetcn.com/livenews/3065567",
+          "title": "特朗普称没有迹象表明俄罗斯支持伊朗",
+          "url": "https://wallstreetcn.com/livenews/3065812",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时35分"
-        },
-        {
-          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
-          "url": "https://wallstreetcn.com/livenews/3065616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "白宫确认：特朗普将出席在对伊军事行动中死亡的6名美军士兵遗体移交仪式",
-          "url": "https://flash.jin10.com/detail/20260307134808115800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "融资问题难解！OpenAI与甲骨文放弃“旗舰数据中心扩建计划”，芯片股应声下挫",
-          "url": "https://wallstreetcn.com/articles/3766935",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时45分"
+          "time_info": "11时55分"
         }
       ]
     },
@@ -203,12 +106,11 @@
           "url": "https://www.cls.cn/detail/2305872",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时34分 ~ 19时45分]"
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     }
