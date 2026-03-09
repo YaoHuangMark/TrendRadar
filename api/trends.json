@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-09T14:37:38.033820+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-03-09T16:04:23.796707+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
+          "url": "https://www.cls.cn/detail/2306588",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 16时04分]"
+        },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32726656",
@@ -27,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 16时04分]"
         },
         {
           "title": "美媒劝特朗普见好就收",
@@ -37,21 +50,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
-          "url": "https://www.cls.cn/detail/2306588",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时37分]"
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 16时04分]"
         },
         {
           "title": "特朗普回应何时结束对伊朗战争",
@@ -61,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 16时04分]"
         },
         {
           "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
@@ -70,11 +71,12 @@
           "source": "澎湃新闻",
           "ranks": [
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 16时04分]"
         },
         {
           "title": "王毅谈特朗普访华",
@@ -105,7 +107,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -119,6 +121,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
+        },
+        {
+          "title": "美媒使用旧视频掩盖特朗普失礼行为",
+          "url": "https://www.toutiao.com/trending/7615121103565340681/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
+        },
+        {
+          "title": "伊朗方面称若邻国无法遏制特朗普，油价将涨至创纪录的200美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260309152919893800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         },
         {
           "title": "加拿大总理卡尼与特朗普讨论了中东局势和贸易关系。",
@@ -138,7 +162,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         }
@@ -146,7 +170,7 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达输成人站,卖卡不如卖片",
@@ -157,8 +181,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时37分]"
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 16时04分]"
+        },
+        {
+          "title": "国际油价飙升正推倒“多米诺骨牌”：亚马逊、英伟达等将遭遇连锁冲击",
+          "url": "https://www.cls.cn/detail/2306863",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时04分"
         }
       ]
     }
