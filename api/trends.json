@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T12:00:19.512148+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-03-09T14:37:38.033820+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -19,6 +19,41 @@
           "time_info": "[11时59分 ~ 12时00分]"
         },
         {
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时37分]"
+        },
+        {
+          "title": "美媒劝特朗普见好就收",
+          "url": "https://news.ifeng.com/c/8rLmtoks9IL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
+          "url": "https://www.cls.cn/detail/2306588",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时37分]"
+        },
+        {
           "title": "特朗普回应何时结束对伊朗战争",
           "url": "https://news.ifeng.com/c/8rLbjuEPPDA",
           "source": "凤凰网",
@@ -26,8 +61,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时37分]"
+        },
+        {
+          "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时37分]"
         },
         {
           "title": "王毅谈特朗普访华",
@@ -35,39 +82,6 @@
           "source": "抖音",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
-        },
-        {
-          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
-          "url": "https://wallstreetcn.com/articles/3766987",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
-        },
-        {
-          "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
-          "url": "https://www.cls.cn/detail/2306588",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
-        },
-        {
-          "title": "以色列总统：我尊重特朗普，但战争期间不讨论赦免内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32728491",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -85,13 +99,24 @@
           "time_info": "[11时59分 ~ 12时00分]"
         },
         {
+          "title": "特朗普称适时结束对伊军事行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%80%82%E6%97%B6%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
           "title": "据福克斯新闻：特朗普对伊朗新最高领袖“并不满意”。",
           "url": "https://flash.jin10.com/detail/20260309113824994800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
         },
@@ -102,9 +127,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时00分"
+        },
+        {
+          "title": "特朗普称适时结束对伊军事行动",
+          "url": "https://www.douyin.com/hot/2423798",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         }
       ]
     },
@@ -117,11 +153,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351500&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%BE%93%E6%88%90%E4%BA%BA%E7%AB%99%2C%E5%8D%96%E5%8D%A1%E4%B8%8D%E5%A6%82%E5%8D%96%E7%89%87",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时00分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时37分]"
         }
       ]
     }
