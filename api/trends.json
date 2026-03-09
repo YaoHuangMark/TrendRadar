@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-03-09T18:14:36.737843+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-03-09T19:58:03.188365+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
+          "url": "https://wallstreetcn.com/articles/3766987",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 19时58分]"
+        },
         {
           "title": "国际油价冲破100大关，特朗普不慌不忙回应“很快会下跌”！",
           "url": "https://www.cls.cn/detail/2306588",
@@ -22,17 +36,15 @@
           "time_info": "[11时59分 ~ 18时14分]"
         },
         {
-          "title": "哈梅内伊次子当选伊朗新任最高领袖 特朗普威胁“难长久”",
-          "url": "https://wallstreetcn.com/articles/3766987",
-          "source": "华尔街见闻",
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 18时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时58分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -57,17 +69,6 @@
           "time_info": "[14时37分 ~ 16时04分]"
         },
         {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "特朗普回应何时结束对伊朗战争",
           "url": "https://news.ifeng.com/c/8rLbjuEPPDA",
           "source": "凤凰网",
@@ -90,6 +91,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时59分 ~ 16时04分]"
+        },
+        {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时58分]"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时58分]"
         },
         {
           "title": "王毅谈特朗普访华",
@@ -125,17 +149,6 @@
           "time_info": "14时37分"
         },
         {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "据福克斯新闻：特朗普对伊朗新最高领袖“并不满意”。",
           "url": "https://flash.jin10.com/detail/20260309113824994800",
           "source": "金十数据",
@@ -158,17 +171,6 @@
           "time_info": "16时04分"
         },
         {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
           "title": "伊朗方面称若邻国无法遏制特朗普，油价将涨至创纪录的200美元/桶。",
           "url": "https://flash.jin10.com/detail/20260309152919893800",
           "source": "金十数据",
@@ -178,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
+        },
+        {
+          "title": "据AXIOS网站：美国国家债务预计将在2036年达到GDP的120%，这与特朗普的政策有关。",
+          "url": "https://flash.jin10.com/detail/20260309191936640800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时58分"
         },
         {
           "title": "加拿大总理卡尼与特朗普讨论了中东局势和贸易关系。",
@@ -214,11 +227,12 @@
           "ranks": [
             14,
             13,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时59分 ~ 18时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时59分 ~ 19时58分]"
         },
         {
           "title": "国际油价飙升正推倒“多米诺骨牌”：亚马逊、英伟达等将遭遇连锁冲击",
@@ -239,7 +253,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
@@ -256,7 +270,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -267,7 +281,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
