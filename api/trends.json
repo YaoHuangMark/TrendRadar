@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T18:09:17.700830+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-03-19T19:59:34.933006+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
@@ -28,8 +28,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 19时59分]"
+        },
+        {
+          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
+          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 19时59分]"
         },
         {
           "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时05分 ~ 14时35分]"
-        },
-        {
-          "title": "报告与特朗普开战理由相悖？美情报总监矛盾表态",
-          "url": "https://news.ifeng.com/c/8rchDZPxjNO",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
         },
         {
           "title": "美以伊战争丨特朗普谈以打击伊朗天然气田：毫不知情",
@@ -71,7 +71,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
         },
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时03分 ~ 18时09分]"
+        },
+        {
+          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
+          "url": "https://wallstreetcn.com/articles/3767896",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 19时59分]"
         },
         {
           "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
@@ -110,17 +121,6 @@
           "time_info": "[12时05分 ~ 14时35分]"
         },
         {
-          "title": "“能源战”升级！以军轰炸伊朗最大气田、油价暴涨背后：以色列完全“控制”了特朗普？",
-          "url": "https://wallstreetcn.com/articles/3767896",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
-        },
-        {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
           "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
           "source": "凤凰网",
@@ -138,9 +138,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时09分"
+        },
+        {
+          "title": "特朗普威胁：再炸卡塔尔，把你们伊朗气田炸上天",
+          "url": "https://news.ifeng.com/c/8rcnk4inq8M",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
         },
         {
           "title": "知情人士：特朗普政府或强推官方保险！想要美军护航要“先买单”？",
@@ -187,6 +198,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "特朗普的特使透露，他与白俄罗斯总统卢卡申科讨论了卢卡申科可能访问美国一事。",
+          "url": "https://flash.jin10.com/detail/20260319194648782800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
           "title": "特朗普盟友警告：美国经济实力不足以应对伊朗战争！",
           "url": "https://flash.jin10.com/detail/20260319140651826800",
           "source": "金十数据",
@@ -219,11 +241,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%AF%B9%E5%8D%8E%E8%8A%AF%E7%89%87%E9%94%80%E5%94%AE%E6%83%85%E5%86%B5",
           "source": "百度热搜",
           "ranks": [
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时08分 ~ 18时09分]"
+          "appearance_count": 3,
+          "time_info": "[18时08分 ~ 19时59分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -231,6 +254,34 @@
           "source": "贴吧",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "滞涨预期抬头港股黄金股遭重挫 国际金价近半月已跌去600美元",
+          "url": "https://www.cls.cn/detail/2318052",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时59分"
+        },
+        {
+          "title": "金十图示：2026年03月19日（周四）上海金早盘价为1080.3元/克，较国际金价（1078.11元/克），高2.19元/克",
+          "url": "https://flash.jin10.com/detail/20260319110342387800",
+          "source": "金十数据",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -260,26 +311,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年03月19日（周四）上海金早盘价为1080.3元/克，较国际金价（1078.11元/克），高2.19元/克",
-          "url": "https://flash.jin10.com/detail/20260319110342387800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时05分"
+          "time_info": "18时09分"
         }
       ]
     }
