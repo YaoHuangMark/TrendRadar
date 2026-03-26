@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T12:16:06.182841+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-26T14:46:47.113816+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时46分]"
         },
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时46分]"
         },
         {
           "title": "特朗普：伊朗迫切希望达成协议，但又不敢明说",
@@ -37,19 +37,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时46分]"
         },
         {
           "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
           "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时46分]"
         },
         {
           "title": "美以伊战争丨特朗普被曝想尽快结束对伊战争",
@@ -77,7 +78,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -87,19 +88,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时46分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
           "url": "https://wallstreetcn.com/articles/3768419",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时46分]"
         },
         {
           "title": "美国邮政拟征收快递“燃油附加费” 苹果据称正在蒸馏谷歌模型 | 环球市场",
@@ -111,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 12时16分]"
+        },
+        {
+          "title": "谷歌突破性算法震惊硅谷 华尔街激辩：内存需求要降温了？",
+          "url": "https://www.cls.cn/detail/2325322",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
@@ -126,8 +139,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时46分]"
         },
         {
           "title": "美股收盘：中东停火期待推高三大指数 商业航天、CPU概念领涨",
@@ -137,8 +150,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时46分]"
         },
         {
           "title": "美股期货收复失地，纳斯达克100指数期货转为涨0.1%，标普500指数期货转为涨跌持平。 日经225指数小幅反弹，转为涨跌持平。",
@@ -147,7 +160,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
@@ -165,8 +178,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时46分]"
         }
       ]
     },
@@ -181,7 +194,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
