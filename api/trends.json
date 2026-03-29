@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T18:03:09.046881+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-03-29T19:54:18.766065+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 18时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 19时54分]"
         },
         {
           "title": "全美超900万人举行抗议反对特朗普",
@@ -87,6 +87,18 @@
           "time_info": "[12时21分 ~ 14时42分]"
         },
         {
+          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 19时54分]"
+        },
+        {
           "title": "想跑跑不了，特朗普失控",
           "url": "https://news.ifeng.com/c/8rrd4miP6TY",
           "source": "凤凰网",
@@ -98,15 +110,16 @@
           "time_info": "[12时21分 ~ 14时42分]"
         },
         {
-          "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856388",
-          "source": "澎湃新闻",
+          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
+          "url": "https://flash.jin10.com/detail/20260329165022283800",
+          "source": "金十数据",
           "ranks": [
-            13
+            13,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时02分 ~ 18时03分]"
+          "time_info": "[18时03分 ~ 19时54分]"
         },
         {
           "title": "特朗普称战争总会有意外，「有些本应打赢的战争却输了」，北约这次不帮美国，美国以后也不帮北约，如何解读？",
@@ -131,21 +144,21 @@
           "time_info": "12时21分"
         },
         {
-          "title": "据伊朗国家媒体：伊朗议会议长卡利巴夫表示，特朗普一直未能获得欧洲国家的合作。",
-          "url": "https://flash.jin10.com/detail/20260329165022283800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-29）",
+          "url": "https://flash.jin10.com/detail/20260329182448742800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时03分"
+          "time_info": "19时54分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌称可节省 6 倍内存的 TurboQuant 论文疑似造假，RaBitQ 作者独家发文",
@@ -155,8 +168,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 19时54分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -169,8 +182,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时21分 ~ 18时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 19时54分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -182,6 +195,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时42分 ~ 16时03分]"
+        },
+        {
+          "title": "新算法公布,谷歌干崩股市",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -218,11 +242,12 @@
           "ranks": [
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时42分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 19时54分]"
         }
       ]
     },
