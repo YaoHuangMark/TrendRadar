@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T14:42:58.003915+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-03-29T16:03:27.014653+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 16时03分]"
         },
         {
           "title": "特朗普：战争总会有意外，“有些本应打赢的战争却输了”，北约这次不帮美国，美国以后也不会帮北约！",
@@ -27,8 +27,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 16时03分]"
+        },
+        {
+          "title": "全美超900万人举行抗议反对特朗普",
+          "url": "https://www.toutiao.com/trending/7621824327100940294/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时21分 ~ 14时42分]"
+          "time_info": "[14时42分 ~ 16时03分]"
         },
         {
           "title": "全美爆发反特朗普政府集会",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "全美超900万人举行抗议反对特朗普",
-          "url": "https://www.toutiao.com/trending/7621824327100940294/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         },
         {
           "title": "特朗普谈中国：对中国的成就必须非常尊重",
@@ -76,22 +76,22 @@
           "time_info": "[12时21分 ~ 14时42分]"
         },
         {
-          "title": "想跑跑不了，特朗普失控",
-          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 14时42分]"
-        },
-        {
           "title": "伦敦超十万人游行，高喊“反对极右翼、反对特朗普”",
           "url": "https://news.ifeng.com/c/8rsRuzH8VRV",
           "source": "凤凰网",
           "ranks": [
             7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 16时03分]"
+        },
+        {
+          "title": "想跑跑不了，特朗普失控",
+          "url": "https://news.ifeng.com/c/8rrd4miP6TY",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -132,9 +132,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 16时03分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -142,11 +142,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 16时03分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -155,9 +156,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 16时03分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -184,19 +185,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 14时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 16时03分]"
         },
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
           "url": "https://wallstreetcn.com/articles/3768658",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时42分 ~ 16时03分]"
         }
       ]
     },
