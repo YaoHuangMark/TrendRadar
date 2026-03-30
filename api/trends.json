@@ -1,66 +1,93 @@
 {
-  "generated_at": "2026-03-30T12:28:48.079099+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-30T15:08:13.182705+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：与伊朗“可能”很快达成停火协议",
           "url": "https://www.cls.cn/detail/2328385",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
-        },
-        {
-          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
         },
         {
           "title": "“伊朗大礼”加码？特朗普：20艘油轮将通行霍尔木兹，或很快达成停火！",
           "url": "https://www.cls.cn/detail/2328604",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
         },
         {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
           "url": "https://news.ifeng.com/c/8ruabbA1FVs",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
+        },
+        {
+          "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32857485",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
         },
         {
           "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860074",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
+        },
+        {
+          "title": "特朗普私下问：2028，万斯还是鲁比奥？",
+          "url": "https://news.ifeng.com/c/8rubpGeBu1W",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
+        },
+        {
+          "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860751",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时07分 ~ 15时08分]"
         },
         {
           "title": "特朗普：已摧毁“觊觎已久”伊朗目标",
@@ -150,22 +177,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
         },
         {
           "title": "新算法公布,谷歌干崩股市",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
         }
       ]
     },
@@ -178,22 +207,24 @@
           "url": "https://wallstreetcn.com/articles/3768688",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
         },
         {
           "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时28分"
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
         }
       ]
     },
