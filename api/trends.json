@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T16:57:07.062359+08:00",
-  "total_titles_processed": 606,
+  "generated_at": "2026-03-30T18:45:57.897041+08:00",
+  "total_titles_processed": 751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "“伊朗大礼”加码？特朗普：20艘油轮将通行霍尔木兹，或很快达成停火！",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 18时45分]"
         },
         {
           "title": "特朗普：与伊朗“可能”很快达成停火协议",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 18时45分]"
         },
         {
           "title": "特朗普说中东冲突或很快停止，外交部回应",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时45分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -78,19 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时57分]"
-        },
-        {
-          "title": "特朗普私下问：2028，万斯还是鲁比奥？",
-          "url": "https://news.ifeng.com/c/8rubpGeBu1W",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时07分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 18时45分]"
         },
         {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
@@ -98,7 +87,19 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            13
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时07分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普私下问：2028，万斯还是鲁比奥？",
+          "url": "https://news.ifeng.com/c/8rubpGeBu1W",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -144,7 +145,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -204,6 +205,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-03-30）",
+          "url": "https://flash.jin10.com/detail/20260330180634379800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "美媒：特朗普政策加大美国贫富差距",
           "url": "https://www.toutiao.com/trending/7621825372480618537/",
           "source": "今日头条",
@@ -217,49 +229,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时57分]"
-        },
-        {
-          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
-        },
-        {
-          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 15时08分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -268,11 +239,23 @@
           "ranks": [
             22,
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时28分 ~ 16时57分]"
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 18时45分]"
+        },
+        {
+          "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
+          "url": "https://wallstreetcn.com/livenews/3079231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -291,8 +274,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价下跌刚需客户下手了",
+          "url": "https://www.toutiao.com/trending/7621876876252217380/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
         {
           "title": "惠誉评级：金价下跌使印度的黄金贷款风险控制备受关注。",
           "url": "https://flash.jin10.com/detail/20260330163341252800",
@@ -300,7 +294,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -314,6 +308,66 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时28分 ~ 18时45分]"
+        },
+        {
+          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时45分]"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时28分 ~ 15时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率回落 市场权衡经济增长与通胀风险",
+          "url": "https://flash.jin10.com/detail/20260330181902457800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     }
