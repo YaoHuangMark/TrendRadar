@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-31T14:51:45.481551+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2026-03-31T16:38:26.201416+08:00",
+  "total_titles_processed": 628,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://www.cls.cn/detail/2329919",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
+        },
         {
           "title": "特朗普：若达不成协议将“摧毁伊朗所有发电厂、油井及哈尔克岛”，伊朗回应：若遭袭，将给整个地区断电！",
           "url": "https://wallstreetcn.com/articles/3768769",
@@ -16,20 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普：即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://www.cls.cn/detail/2329919",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
         },
         {
           "title": "白宫称特朗普希望4月6日前达成协议、有意让阿拉伯国家埋单、美伊对话持续且进展顺利，伊朗否认谈判",
@@ -40,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
         },
         {
           "title": "美以伊战争丨\"伊朗领导人对特朗普撒谎，所以被杀\"",
@@ -50,7 +51,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
         },
@@ -63,30 +64,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
-        },
-        {
-          "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
-          "url": "https://wallstreetcn.com/articles/3768819",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
         },
         {
           "title": "白宫：美伊对话进展顺利 特朗普有意呼吁阿拉伯国家为战争埋单",
           "url": "https://www.cls.cn/detail/2329869",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
         },
         {
           "title": "特朗普给伊朗“划红线”",
@@ -94,6 +85,53 @@
           "source": "凤凰网",
           "ranks": [
             8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
+        },
+        {
+          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
+        },
+        {
+          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
+          "url": "https://www.zhihu.com/question/2022216922670915942",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
+        },
+        {
+          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
+        },
+        {
+          "title": "报道称特朗普愿在海峡关闭时停战！油价转跌、纳指期货转涨1%，亚太股市V型拉升",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -112,40 +150,16 @@
           "time_info": "[12时19分 ~ 14时51分]"
         },
         {
-          "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865149",
+          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
           "source": "澎湃新闻",
           "ranks": [
-            14,
-            11
+            18,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
-        },
-        {
-          "title": "伊朗重申未与美方直接对话，特朗普被曝希望 4 月 6 日前达成协议，双方各说各话在博弈什么？为什么是 4 月 6 日？",
-          "url": "https://www.zhihu.com/question/2022216922670915942",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
-        },
-        {
-          "title": "特朗普欲让阿拉伯国家为美国打伊朗埋单",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32864907",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
+          "time_info": "[14时51分 ~ 16时38分]"
         },
         {
           "title": "特朗普称愿结束对伊朗军事行动",
@@ -158,23 +172,51 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 14时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
         },
         {
-          "title": "美媒：特朗普想结束对伊朗战争，重开霍尔木兹海峡就交给欧洲和海湾盟友",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32865352",
-          "source": "澎湃新闻",
+          "title": "最重要的变化？美债“脱钩”，市场嗅到了“全球财政刺激”的味道",
+          "url": "https://wallstreetcn.com/articles/3768816",
+          "source": "华尔街见闻",
           "ranks": [
-            18
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时51分"
+          "time_info": "16时38分"
+        },
+        {
+          "title": "自伊朗冲突爆发以来 全球央行已抛售815亿美元的美债",
+          "url": "https://wallstreetcn.com/livenews/3079971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 投资者权衡中东冲突前景",
@@ -194,11 +236,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时19分 ~ 16时38分]"
+        },
+        {
+          "title": "报道称特朗普愿在海峡关闭时停战！美股期指集体上涨，油价回吐涨幅，伦铝逼近3500美元关口",
+          "url": "https://wallstreetcn.com/articles/3768819",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     },
@@ -213,26 +267,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 14时51分]"
         }
       ]
     }
