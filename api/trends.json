@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T16:47:00.053727+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2026-04-01T18:35:38.515047+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 16时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 18时35分]"
         },
         {
           "title": "明早9点！白宫重磅预告：特朗普将就伊朗问题发表全国讲话",
@@ -28,8 +28,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 16时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 18时35分]"
+        },
+        {
+          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
+          "url": "https://wallstreetcn.com/articles/3768886",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 18时35分]"
         },
         {
           "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
@@ -44,17 +58,26 @@
           "time_info": "[12时32分 ~ 15时01分]"
         },
         {
-          "title": "特朗普：各国应自行去霍尔木兹海峡“抢石油”",
-          "url": "https://wallstreetcn.com/articles/3768886",
-          "source": "华尔街见闻",
+          "title": "美以伊战争丨特朗普：正考虑让美国退出北约",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            6,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 16时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "马克龙访日暗讽特朗普",
+          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "特朗普：美军离开伊朗油价就能跌，伊朗政权更迭不是最初目标",
@@ -68,13 +91,26 @@
           "time_info": "12时32分"
         },
         {
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 18时35分]"
+        },
+        {
           "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放 但不会对美国开放",
           "url": "https://wallstreetcn.com/livenews/3080750",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -90,16 +126,16 @@
           "time_info": "[12时32分 ~ 16时47分]"
         },
         {
-          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
-          "url": "https://wallstreetcn.com/articles/3768931",
-          "source": "华尔街见闻",
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            8
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 16时47分]"
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 18时35分]"
         },
         {
           "title": "战争烂尾 特朗普要跑了",
@@ -126,15 +162,16 @@
           "time_info": "[12时32分 ~ 15时01分]"
         },
         {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            28,
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
+          "time_info": "[15时01分 ~ 18时35分]"
         },
         {
           "title": "特朗普表态引爆欧股期指跳涨 和平进程仍扑朔迷离",
@@ -148,26 +185,48 @@
           "time_info": "15时01分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-01）",
+          "url": "https://flash.jin10.com/detail/20260401181231630800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "美国官员在讨论油价达到每桶150美元的可能性，美国财政部预计油价将在一段时间内维持在100美元/桶上方，特朗普政府将财政部的预期视为“基线情境”。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3080817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "英国首相回应特朗普退出北约言论",
+          "url": "https://wallstreetcn.com/livenews/3080808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "伊朗高官喊话特朗普：霍尔木兹海峡肯定会重新开放 但不会对美国开放",
           "url": "https://flash.jin10.com/detail/20260401162353199800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时01分"
+          "time_info": "16时47分"
         }
       ]
     },
@@ -183,8 +242,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 16时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 18时35分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -194,8 +253,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 16时47分]"
+          "appearance_count": 5,
+          "time_info": "[12时32分 ~ 18时35分]"
         },
         {
           "title": "【早报】伊朗总统：愿在诉求满足前提下结束战争；美股大涨，科技股、中概股大幅走强",
@@ -237,7 +296,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -282,6 +341,17 @@
           "time_info": "[12时32分 ~ 16时47分]"
         },
         {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 18时35分]"
+        },
+        {
           "title": "OpenAI完成1220亿美元融资 美法官叫停白宫宴会厅改造项目 | 环球市场",
           "url": "https://www.cls.cn/detail/2331334",
           "source": "财联社热门",
@@ -292,17 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 15时01分]"
-        },
-        {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
         }
       ]
     },
@@ -317,7 +376,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -328,7 +387,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         }
