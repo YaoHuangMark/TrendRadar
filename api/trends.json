@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T16:35:33.079568+08:00",
-  "total_titles_processed": 626,
+  "generated_at": "2026-04-02T18:31:56.701072+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -16,8 +16,54 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
+        },
+        {
+          "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
+          "url": "https://v.ifeng.com/c/8rzRV2vcF17",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
+        },
+        {
+          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
+          "url": "https://wallstreetcn.com/articles/3769044",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
+          "url": "https://wallstreetcn.com/articles/3769022",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普：若无协议将袭伊所有发电厂",
+          "url": "https://news.ifeng.com/c/8rzSzqLRHdz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
         },
         {
           "title": "特朗普：接下来几周将对伊朗进行更强火力打击",
@@ -32,39 +78,18 @@
           "time_info": "[12时11分 ~ 16时35分]"
         },
         {
-          "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
-          "url": "https://v.ifeng.com/c/8rzRV2vcF17",
-          "source": "凤凰网",
+          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
+          "url": "https://www.cls.cn/detail/2332994",
+          "source": "财联社热门",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
-        },
-        {
-          "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
-          "url": "https://wallstreetcn.com/articles/3769044",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
-        },
-        {
-          "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
-          "url": "https://wallstreetcn.com/articles/3769022",
-          "source": "华尔街见闻",
-          "ranks": [
+            7,
             4,
-            3
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
         },
         {
           "title": "特朗普9点将发表对伊重要讲话，还不忘放“烟雾弹”",
@@ -80,35 +105,11 @@
           "time_info": "[12时11分 ~ 16时35分]"
         },
         {
-          "title": "特朗普：若无协议将袭伊所有发电厂",
-          "url": "https://news.ifeng.com/c/8rzSzqLRHdz",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
-        },
-        {
           "title": "特朗普称美国不需要霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8rzRllzwjx1",
           "source": "凤凰网",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
-        },
-        {
-          "title": "快速停火期望破灭？特朗普演讲震动市场：原油、美元齐涨 亚太股市转跌",
-          "url": "https://www.cls.cn/detail/2332994",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -137,17 +138,15 @@
           "time_info": "14时50分"
         },
         {
-          "title": "特朗普称将很快撤出伊朗战事",
-          "url": "https://wallstreetcn.com/articles/3769012",
-          "source": "华尔街见闻",
+          "title": "印尼财长：特朗普不太可能长期允许油价居高不下。 印度尼西亚有望在2026年实现6%的国内生产总值增长。 印度尼西亚今年将征收煤炭出口税。",
+          "url": "https://wallstreetcn.com/livenews/3081528",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            6,
-            7
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
@@ -159,8 +158,56 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普称将很快撤出伊朗战事",
+          "url": "https://wallstreetcn.com/articles/3769012",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "印尼财长：美国总统特朗普不太可能长期允许高油价。",
+          "url": "https://flash.jin10.com/detail/20260402182529072800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 18时31分]"
         },
         {
           "title": "特朗普话音刚落 伊朗导弹直扑以色列",
@@ -168,11 +215,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
         },
         {
           "title": "英首相回应特朗普：这不是我们的战争，不会卷入其中",
@@ -182,8 +230,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
         },
         {
           "title": "特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？",
@@ -193,8 +241,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普威胁升级对伊战事，布油涨7%，全球股市走低，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "time_info": "[14时50分 ~ 18时31分]"
         },
         {
           "title": "特朗普话音刚落伊朗导弹袭向以色列",
@@ -209,16 +270,28 @@
           "time_info": "[12时11分 ~ 14时50分]"
         },
         {
-          "title": "特朗普威胁升级对伊战事，布油涨7%，全球股市走低，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
+          "title": "中方回应特朗普鼓动他国“抢石油”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%BC%93%E5%8A%A8%E4%BB%96%E5%9B%BD%E2%80%9C%E6%8A%A2%E7%9F%B3%E6%B2%B9%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            8
+            7,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时50分 ~ 16时35分]"
+          "time_info": "[16时35分 ~ 18时31分]"
+        },
+        {
+          "title": "中方回应特朗普鼓动各国抢石油",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%BC%93%E5%8A%A8%E5%90%84%E5%9B%BD%E6%8A%A2%E7%9F%B3%E6%B2%B9%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 18时31分]"
         },
         {
           "title": "特朗普话音刚落 伊朗向以发射导弹",
@@ -232,6 +305,29 @@
           "time_info": "[14时50分 ~ 16时35分]"
         },
         {
+          "title": "中方回应特朗普涉伊朗言论",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%BC%8A%E6%9C%97%E8%A8%80%E8%AE%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 18时31分]"
+        },
+        {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 18时31分]"
+        },
+        {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
           "url": "https://m.thepaper.cn/newsDetail_forward_32871533",
           "source": "澎湃新闻",
@@ -243,17 +339,6 @@
           "time_info": "12时11分"
         },
         {
-          "title": "中方回应特朗普鼓动他国“抢石油”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%BC%93%E5%8A%A8%E4%BB%96%E5%9B%BD%E2%80%9C%E6%8A%A2%E7%9F%B3%E6%B2%B9%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "特朗普鼓动去霍尔木兹抢石油",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%BC%93%E5%8A%A8%E5%8E%BB%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%8A%A2%E7%9F%B3%E6%B2%B9",
           "source": "bilibili 热搜",
@@ -263,17 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "特朗普正“认真考虑”让美国退出北约，美防长：对伊朗展开大规模行动时，北约盟友甚至连通行权限都不给美国",
@@ -309,15 +383,15 @@
           "time_info": "12时11分"
         },
         {
-          "title": "中方回应特朗普鼓动各国抢石油",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%BC%93%E5%8A%A8%E5%90%84%E5%9B%BD%E6%8A%A2%E7%9F%B3%E6%B2%B9%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "特朗普卖油表态遭分析师反驳：美国并没有那么多航空燃油！",
+          "url": "https://www.cls.cn/detail/2333042",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "18时31分"
         },
         {
           "title": "继美国土安全部长被解职后，美媒爆料：特朗普曾私下讨论并考虑解雇司法部长",
@@ -375,15 +449,15 @@
           "time_info": "14时50分"
         },
         {
-          "title": "中方回应特朗普涉伊朗言论",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%BC%8A%E6%9C%97%E8%A8%80%E8%AE%BA",
-          "source": "百度热搜",
+          "title": "特朗普以升级求降级？收益率飙升压制无息黄金 | 每日市场观察4.2",
+          "url": "https://flash.jin10.com/detail/20260402182057793800",
+          "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "18时31分"
         },
         {
           "title": "特朗普全国讲话",
@@ -408,24 +482,13 @@
           "time_info": "14时50分"
         },
         {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "特朗普引发贵金属“血洗” 伦敦矿业股开启“阴跌”模式",
           "url": "https://flash.jin10.com/detail/20260402155758767800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -463,13 +526,24 @@
           "time_info": "12时11分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-02）",
+          "url": "https://flash.jin10.com/detail/20260402181609366800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "特朗普自诩“史上最强”经济防御力 穆迪警告页岩油并非万灵药",
           "url": "https://flash.jin10.com/detail/20260402155547271800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -483,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "伊朗称特朗普宣布虚假胜利",
+          "url": "https://wallstreetcn.com/livenews/3081486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "每逢周四必跌？特朗普“市场炸弹”套路被摸清，伊朗嘲讽：早被看穿！",
@@ -532,8 +617,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
         },
         {
           "title": "电信服务商Globalstar美股盘前涨12%，此前英国金融时报报道亚马逊正洽谈收购该公司。",
@@ -542,7 +627,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -553,7 +638,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -567,6 +652,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            13,
+            8,
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 18时31分]"
+        },
+        {
+          "title": "摩根资产管理买入美债和英债 认为通胀担忧令部分债券处于超卖",
+          "url": "https://wallstreetcn.com/livenews/3081515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "避险美元领跑G10货币 美债全线承压收益率走高",
+          "url": "https://flash.jin10.com/detail/20260402112550741800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     },
@@ -606,36 +733,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "多国央行大幅减持美债",
-          "url": "https://www.douyin.com/hot/2452076",
-          "source": "抖音",
-          "ranks": [
-            13,
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 16时35分]"
-        },
-        {
-          "title": "避险美元领跑G10货币 美债全线承压收益率走高",
-          "url": "https://flash.jin10.com/detail/20260402112550741800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         }
       ]
     },
