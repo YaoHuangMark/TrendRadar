@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T18:35:46.419667+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-04-10T20:07:05.883656+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "以总理指示尽快启动与黎巴嫩直接谈判，特朗普要求以减少袭黎，伊朗称为再发生冲突做好准备",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 18时35分]"
+          "appearance_count": 6,
+          "time_info": "[12时29分 ~ 20时07分]"
         },
         {
           "title": "美伊“火药味”又浓了？关于霍尔木兹，特朗普和伊朗最高领袖分别说……",
@@ -30,6 +30,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时29分 ~ 16时53分]"
+        },
+        {
+          "title": "特朗普提出一个要求，内塔尼亚胡会听吗？",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Rp",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时07分]"
+        },
+        {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时06分 ~ 20时07分]"
         },
         {
           "title": "伊朗战争丨美前众议员怼特朗普：发动战争，简直疯了",
@@ -60,7 +83,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -75,17 +98,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时29分 ~ 16时53分]"
-        },
-        {
-          "title": "特朗普提出一个要求，内塔尼亚胡会听吗？",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Rp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "伊朗最高领袖提出三点主张 特朗普要求以色列减少对黎巴嫩打击",
@@ -110,6 +122,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时53分 ~ 18时35分]"
+        },
+        {
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时35分 ~ 20时07分]"
         },
         {
           "title": "拜登儿子约战特朗普儿子：来场笼斗吧",
@@ -147,17 +171,6 @@
           "time_info": "[15时23分 ~ 18时35分]"
         },
         {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "特朗普警告伊朗不要收霍尔木兹海峡通行费 | 环球市场",
           "url": "https://www.cls.cn/detail/2339829",
           "source": "财联社热门",
@@ -175,7 +188,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -186,7 +199,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
