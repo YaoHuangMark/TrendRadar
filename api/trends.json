@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T12:37:04.015914+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-16T15:10:50.391526+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 15时10分]"
         },
         {
           "title": "美伊很快达成协议？特朗普给出“时间表”：4月下旬！",
           "url": "https://www.cls.cn/detail/2345537",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 15时10分]"
+        },
+        {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 15时10分]"
         },
         {
           "title": "特朗普：没必要延长停火，接下来两天很精彩",
@@ -41,37 +54,28 @@
           "time_info": "[12时36分 ~ 12时37分]"
         },
         {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
-        },
-        {
           "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
           "url": "https://wallstreetcn.com/articles/3770050",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 15时10分]"
         },
         {
           "title": "内幕交易疑云笼罩！美CFTC出手：调查特朗普对伊政策转向前夕可疑原油押注",
           "url": "https://www.cls.cn/detail/2345555",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 12时37分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 15时10分]"
         },
         {
           "title": "特朗普称以黎领导人将对话",
@@ -80,9 +84,54 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待美股新高",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E8%82%A1%E6%96%B0%E9%AB%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "白宫对与伊朗达成协议持乐观态度，黎以会谈明日举行，市场静待结果出炉，金银油多空情绪变化不大，美股股指创新高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260416114005966800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI正与韩国三星接洽，以获取HBM4内存，推进其Titan芯片战略。",
+          "url": "https://flash.jin10.com/detail/20260416145204822800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         }
       ]
     },
@@ -97,24 +146,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "白宫对与伊朗达成协议持乐观态度，黎以会谈明日举行，市场静待结果出炉，金银油多空情绪变化不大，美股股指创新高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260416114005966800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时37分"
         }
