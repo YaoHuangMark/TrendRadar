@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-17T17:03:31.699625+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-04-17T18:39:10.444271+08:00",
+  "total_titles_processed": 760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 18时39分]"
+        },
         {
           "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
           "url": "https://www.cls.cn/detail/2346891",
@@ -21,15 +32,15 @@
           "time_info": "[12时33分 ~ 17时03分]"
         },
         {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 18时39分]"
         },
         {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
@@ -43,15 +54,15 @@
           "time_info": "[12时33分 ~ 17时03分]"
         },
         {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 17时03分]"
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 18时39分]"
         },
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -65,15 +76,26 @@
           "time_info": "[12时33分 ~ 15时11分]"
         },
         {
-          "title": "伊朗战争丨特朗普称澳大利亚不出兵帮忙，澳总理反驳",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "title": "心心念念的大房子不让造，特朗普暴怒开喷",
+          "url": "https://news.ifeng.com/c/8sOn1dFNorh",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 18时39分]"
+        },
+        {
+          "title": "海湾地区官员：特朗普迫切希望结束战争，或将接受更多妥协",
+          "url": "https://flash.jin10.com/detail/20260417182105937800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时03分"
+          "time_info": "18时39分"
         },
         {
           "title": "美法官延长白宫宴会厅改造暂停令 特朗普称“决不接受”",
@@ -109,13 +131,24 @@
           "time_info": "12时33分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-17）",
+          "url": "https://flash.jin10.com/detail/20260417181312613800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "特朗普声称伊朗已作关键妥协：“他们带支笔过来就行”！",
           "url": "https://flash.jin10.com/detail/20260417161746018800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
@@ -133,8 +166,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时33分 ~ 18时39分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -148,15 +181,16 @@
           "time_info": "[12时33分 ~ 15时11分]"
         },
         {
-          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
-          "url": "https://wallstreetcn.com/articles/3770123",
-          "source": "华尔街见闻",
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
           "ranks": [
-            7
+            8,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时33分 ~ 15时11分]"
+          "time_info": "[17时03分 ~ 18时39分]"
         },
         {
           "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
@@ -166,19 +200,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 15时11分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时39分]"
         },
         {
-          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
-          "url": "https://www.cls.cn/detail/2347485",
-          "source": "财联社热门",
+          "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
+          "url": "https://wallstreetcn.com/articles/3770123",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
         },
         {
           "title": "动物精神强势回归，散户无视伊朗冲突涌入美股",
@@ -198,7 +232,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         },
@@ -241,11 +275,12 @@
           "url": "https://www.cls.cn/detail/2346971",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 15时11分]"
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 18时39分]"
         }
       ]
     },
