@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T18:39:10.444271+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-04-17T20:10:51.867775+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时33分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 20时10分]"
         },
         {
           "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时33分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 20时10分]"
         },
         {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
@@ -83,8 +83,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时38分 ~ 18时39分]"
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 20时10分]"
+        },
+        {
+          "title": "伊朗战争丨美媒：急于结束伊朗战争，特朗普准备让步",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         },
         {
           "title": "海湾地区官员：特朗普迫切希望结束战争，或将接受更多妥协",
@@ -93,7 +104,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -137,7 +148,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
@@ -156,7 +167,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
@@ -166,8 +177,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时33分 ~ 18时39分]"
+          "appearance_count": 7,
+          "time_info": "[12时33分 ~ 20时10分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -186,11 +197,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时03分 ~ 18时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时03分 ~ 20时10分]"
         },
         {
           "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
@@ -246,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "高盛：若无货币政策支持美股涨势或难持续",
+          "url": "https://flash.jin10.com/detail/20260417192344297800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     },
@@ -279,8 +302,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时10分 ~ 18时39分]"
+          "appearance_count": 5,
+          "time_info": "[15时10分 ~ 20时10分]"
         }
       ]
     },
