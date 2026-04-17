@@ -1,8 +1,103 @@
 {
-  "generated_at": "2026-04-17T12:33:48.767768+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-17T15:11:16.502503+08:00",
+  "total_titles_processed": 479,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
+        },
+        {
+          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
+          "url": "https://wallstreetcn.com/articles/3770137",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
+        },
+        {
+          "title": "特朗普：美伊下次会晤或在本周末举行",
+          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
+        },
+        {
+          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
+          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
+        },
+        {
+          "title": "美法官延长白宫宴会厅改造暂停令 特朗普称“决不接受”",
+          "url": "https://wallstreetcn.com/livenews/3089835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "巴基斯坦总理：我欢迎在美国总统特朗普领导的大胆而明智的外交努力下促成的黎巴嫩停火，并希望这将为可持续和平铺平道路。巴基斯坦重申坚定支持黎巴嫩的主权和领土完整，并将继续支持旨在实现该地区持久和平的一切努力。",
+          "url": "https://flash.jin10.com/detail/20260417144152740800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆（特朗普的盟友）称，他不信任黎巴嫩武装部队能够解除真主党的武装。",
+          "url": "https://flash.jin10.com/detail/20260417114248677800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 6,
@@ -15,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -26,8 +121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -37,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
         },
         {
           "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
@@ -48,8 +143,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
         },
         {
           "title": "动物精神强势回归，散户无视伊朗冲突涌入美股",
@@ -76,78 +171,6 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
-          "url": "https://www.cls.cn/detail/2346891",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
-          "url": "https://wallstreetcn.com/articles/3770182",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
-          "url": "https://wallstreetcn.com/articles/3770137",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "特朗普：美伊下次会晤或在本周末举行",
-          "url": "https://news.ifeng.com/c/8sN3kmBakib",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "特朗普喊话意大利：你不帮我，我也不会帮你",
-          "url": "https://news.ifeng.com/c/8sOVPzGvey0",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
-        {
-          "title": "美国共和党参议员格雷厄姆（特朗普的盟友）称，他不信任黎巴嫩武装部队能够解除真主党的武装。",
-          "url": "https://flash.jin10.com/detail/20260417114248677800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -159,8 +182,42 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时33分 ~ 15时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "原油溢价有序回落，金价高位步入震荡休整｜市场赔率数据表",
+          "url": "https://flash.jin10.com/detail/20260417145338865800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "15时11分"
         }
       ]
     }
