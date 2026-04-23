@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T12:35:52.379077+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-23T15:15:10.583371+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 15时15分]"
         },
         {
           "title": "特朗普称“没有结束时间表”，美伊开启“懦夫博弈”，代价是全球经济",
@@ -26,8 +26,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 15时15分]"
+        },
+        {
+          "title": "伊朗战争丨限制特朗普战争权力议案第5次遭否决",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
+          "title": "伊朗：特朗普又说谎了",
+          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 15时15分]"
         },
         {
           "title": "美伊局势追踪：特朗普放出“和谈时间表”又被拒 伊朗方面态度强硬",
@@ -37,19 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "伊朗：特朗普又说谎了",
-          "url": "https://news.ifeng.com/c/8sXbZA8ZMyL",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 15时15分]"
         },
         {
           "title": "乌官员建议给部分顿巴斯地区改名“特朗普地”",
@@ -59,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 15时15分]"
         },
         {
           "title": "卢拉讽刺：快给特朗普颁诺贝尔奖，这样就不用生活在战争中了",
@@ -70,30 +82,54 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 15时15分]"
         },
         {
           "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
           "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 15时15分]"
         },
         {
           "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032152",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 15时15分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我认为特朗普、莫迪以及其他领导人必须告诉普京他必须停止这场战争。我们必须共同阻止普京。",
+          "url": "https://flash.jin10.com/detail/20260423143711873800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "15时15分"
+        },
+        {
+          "title": "特朗普团队搬出“现货溢价”忽悠人，贝森特大拽术语难救中期选举",
+          "url": "https://flash.jin10.com/detail/20260423143049284800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
@@ -109,8 +145,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 15时15分]"
         },
         {
           "title": "停火延长只换来一天喘息，金价找平衡还要持续多久？",
