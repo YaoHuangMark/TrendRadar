@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T18:12:28.981017+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-04-25T20:04:06.675391+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 20时04分]"
         },
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
@@ -40,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 20时04分]"
         },
         {
           "title": "特朗普起诉美财政部和国税局案遭法院质疑",
@@ -83,6 +83,28 @@
           "time_info": "[12时20分 ~ 16时32分]"
         },
         {
+          "title": "泽连斯基“公开质疑”特朗普",
+          "url": "https://www.toutiao.com/trending/7632107216792420398/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时03分 ~ 20时04分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-25）",
+          "url": "https://flash.jin10.com/detail/20260425182954538800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "特朗普在最新披露文件中报告了3月的大量债券购买",
           "url": "https://flash.jin10.com/detail/20260425110625593800",
           "source": "金十数据",
@@ -100,7 +122,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
@@ -119,8 +141,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 20时04分]"
         },
         {
           "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
@@ -165,6 +187,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
+          "url": "https://flash.jin10.com/detail/20260425162059332800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 20时04分]"
+        },
+        {
           "title": "黄仁勋要求英伟达所有员工用OpenAI",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A6%81%E6%B1%82%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%89%80%E6%9C%89%E5%91%98%E5%B7%A5%E7%94%A8OpenAI",
           "source": "百度热搜",
@@ -174,17 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "OpenAI创始人就未向警方举报枪击案嫌疑人一事致歉",
-          "url": "https://flash.jin10.com/detail/20260425162059332800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
         }
       ]
     },
@@ -202,8 +225,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时19分 ~ 18时12分]"
+          "appearance_count": 8,
+          "time_info": "[12时19分 ~ 20时04分]"
         },
         {
           "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
@@ -232,8 +255,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时51分 ~ 18时12分]"
+          "appearance_count": 6,
+          "time_info": "[14时51分 ~ 20时04分]"
         }
       ]
     },
