@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-25T14:52:13.175333+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-04-25T16:32:25.645402+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
+          "url": "https://wallstreetcn.com/articles/3770826",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时32分]"
+        },
         {
           "title": "特朗普重申对伊朗“已大赢特赢”，黎以停火将延长三周，以媒称“伊朗议长已从谈判小组辞职”，伊朗否认内部分裂",
           "url": "https://wallstreetcn.com/articles/3770760",
@@ -20,18 +33,6 @@
           "time_info": "[12时19分 ~ 14时52分]"
         },
         {
-          "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
-          "url": "https://wallstreetcn.com/articles/3770826",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时52分]"
-        },
-        {
           "title": "特朗普，已经压不住油价了",
           "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
           "source": "凤凰网",
@@ -39,8 +40,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时32分]"
         },
         {
           "title": "特朗普起诉美财政部和国税局案遭法院质疑",
@@ -48,11 +49,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 16时32分]"
         },
         {
           "title": "解析特朗普与教皇冲突",
@@ -62,8 +64,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时32分]"
         },
         {
           "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
@@ -71,11 +73,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 16时32分]"
         },
         {
           "title": "特朗普在最新披露文件中报告了3月的大量债券购买",
@@ -92,29 +95,31 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
           "url": "https://www.cls.cn/detail/2355589",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时32分]"
         },
         {
           "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
           "url": "https://www.zhihu.com/question/2031152992817243775",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时32分]"
         },
         {
           "title": "英伟达股价自10月以来首次收盘创新高",
@@ -126,6 +131,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时19分 ~ 12时20分]"
+        },
+        {
+          "title": "市场消息：小马智行-W(02026.HK)公布基于英伟达(NVDA.O)Drive Hyperion系统打造的全新一代自动驾驶计算平台。",
+          "url": "https://flash.jin10.com/detail/20260425150130414800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -139,11 +155,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时32分]"
         },
         {
           "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
@@ -168,11 +185,12 @@
           "url": "https://wallstreetcn.com/articles/3770859",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 14时52分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 16时32分]"
         }
       ]
     },
@@ -203,11 +221,12 @@
           "source": "微博",
           "ranks": [
             28,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时32分]"
         }
       ]
     }
