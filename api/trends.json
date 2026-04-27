@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T12:53:00.864295+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-27T15:55:07.432783+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "枪击案发生时，坐在特朗普旁边的华裔女记者是谁？",
@@ -15,19 +15,43 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
         },
         {
           "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
           "url": "https://www.cls.cn/detail/2356165",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
+        },
+        {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
+        },
+        {
+          "title": "白宫记协晚宴枪手事发前有“宣言” 自称对特朗普政府不满",
+          "url": "https://www.cls.cn/detail/2356161",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下字条",
@@ -41,26 +65,87 @@
           "time_info": "[12时52分 ~ 12时53分]"
         },
         {
-          "title": "白宫记协晚宴枪手事发前有“宣言” 自称对特朗普政府不满",
-          "url": "https://www.cls.cn/detail/2356161",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "title": "特朗普回应撤离晚宴时“跌倒”“晚走”等细节，称枪手“有病”",
+          "url": "https://news.ifeng.com/c/8sf5G3nMN3a",
           "source": "凤凰网",
           "ranks": [
-            5
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
+          "time_info": "[15时54分 ~ 15时55分]"
+        },
+        {
+          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
+        },
+        {
+          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
+        },
+        {
+          "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33057902",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
+        },
+        {
+          "title": "特朗普否认枪击事件与伊朗战争有关",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
+        },
+        {
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
+        },
+        {
+          "title": "白宫遭枪击,特朗普紧急撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 15时55分]"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
@@ -85,28 +170,6 @@
           "time_info": "[12时52分 ~ 12时53分]"
         },
         {
-          "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058030",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
-          "title": "特朗普从枪击现场撤离后声称：早知道这么危险就不当总统了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057902",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
           "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
           "url": "https://m.thepaper.cn/newsDetail_forward_33057032",
           "source": "澎湃新闻",
@@ -118,48 +181,32 @@
           "time_info": "[12时52分 ~ 12时53分]"
         },
         {
-          "title": "简直尴尬！特朗普踉跄逃离枪击现场，竟还有人还在一旁偷酒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057721",
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
           "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
-          "title": "特朗普否认枪击事件与伊朗战争有关",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%A6%E8%AE%A4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%9C%89%E5%85%B3",
-          "source": "bilibili 热搜",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
+          "time_info": "[15时54分 ~ 15时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
+          "title": "韩国青瓦台：韩国与谷歌达成协议，将在韩国建设AI园区。",
+          "url": "https://flash.jin10.com/detail/20260427153059951800",
+          "source": "金十数据",
           "ranks": [
-            19
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
-        },
-        {
-          "title": "白宫遭枪击,特朗普紧急撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 12时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     },
@@ -174,7 +221,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
         }
@@ -191,9 +238,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
+          "url": "https://www.cls.cn/detail/2356401",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时54分 ~ 15时55分]"
         }
       ]
     }
