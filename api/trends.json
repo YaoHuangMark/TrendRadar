@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T12:58:46.162483+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-28T15:54:50.056495+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "据英国金融时报：两家精神航空债权人集团支持美国总统特朗普的救助计划。",
@@ -30,6 +30,41 @@
           "time_info": "12时58分"
         },
         {
+          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
+          "url": "https://www.cls.cn/detail/2357692",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时54分]"
+        },
+        {
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时54分]"
+        },
+        {
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
+        },
+        {
           "title": "特朗普政府解散美国国家科学委员会",
           "url": "https://www.toutiao.com/trending/7632880889321488425/",
           "source": "今日头条",
@@ -41,15 +76,15 @@
           "time_info": "12时58分"
         },
         {
-          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
-          "url": "https://www.cls.cn/detail/2357692",
-          "source": "财联社热门",
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
           "ranks": [
-            10
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时54分"
         },
         {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
@@ -57,17 +92,6 @@
           "source": "澎湃新闻",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        },
-        {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -83,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "美媒：特朗普对伊朗新方案不满意",
+          "url": "https://www.toutiao.com/trending/7633339570876170294/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         },
         {
           "title": "主持人读枪手宣言让特朗普破防",
@@ -120,8 +155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时54分]"
         },
         {
           "title": "【早报】美股科技巨头冷暖不均，英伟达、英特尔齐创新高；一批A股公司一季度净利增超10倍",
@@ -141,6 +176,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
+          "url": "https://www.cls.cn/detail/2357471",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 15时54分]"
+        },
+        {
           "title": "美股收盘：“双英”+三大内存股收创纪录 标普纳指再刷新高",
           "url": "https://www.cls.cn/detail/2357399",
           "source": "财联社热门",
@@ -150,17 +196,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美股三大存储股齐刷新高！分析师：存储强劲需求料持续至2030年",
-          "url": "https://www.cls.cn/detail/2357471",
-          "source": "财联社热门",
+          "title": "黄金价格跌跌不休",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "15时54分"
         }
       ]
     }
