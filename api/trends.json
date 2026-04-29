@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-04-29T15:46:42.285225+08:00",
-  "total_titles_processed": 469,
+  "generated_at": "2026-04-29T19:16:35.588144+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 19时16分]"
+        },
+        {
+          "title": "英国国王当面嘲讽美国，特朗普表情亮了",
+          "url": "https://v.ifeng.com/c/8sfYAqkf9J7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
         {
           "title": "白宫抓拍英国国王和特朗普握手后配文：“两位国王”！",
           "url": "https://flash.jin10.com/detail/20260429123902512800",
@@ -19,16 +43,26 @@
           "time_info": "12时55分"
         },
         {
-          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
-          "url": "https://www.cls.cn/detail/2359134",
-          "source": "财联社热门",
+          "title": "英国国王给特朗普送了一口钟",
+          "url": "https://www.toutiao.com/trending/7634038550409216027/",
+          "source": "今日头条",
           "ranks": [
-            8,
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
+          "url": "https://news.ifeng.com/c/8sijEznYe70",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
@@ -41,6 +75,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时55分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 19时16分]"
         },
         {
           "title": "90秒｜被控刺杀总统，实景还原：枪手离特朗普到底有多近",
@@ -90,18 +137,6 @@
           "time_info": "[12时55分 ~ 15时46分]"
         },
         {
-          "title": "特朗普：美国准备长期封锁伊朗",
-          "url": "https://www.cls.cn/detail/2358979",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时46分]"
-        },
-        {
           "title": "伊朗战争丨特朗普：要准备好长期封锁伊朗",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -124,6 +159,17 @@
           "time_info": "12时55分"
         },
         {
+          "title": "特朗普一句“爆料”逗笑英国国王",
+          "url": "https://www.toutiao.com/trending/7634095221042581028/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "特朗普解散国家科学委员会引震动，学者：将对美基础科研生态造成长期伤害",
           "url": "https://m.thepaper.cn/newsDetail_forward_33069415",
           "source": "澎湃新闻",
@@ -141,7 +187,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         },
@@ -152,7 +198,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
@@ -160,7 +206,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -170,8 +216,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 19时16分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -193,19 +239,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 19时16分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
           "url": "https://wallstreetcn.com/articles/3771182",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 19时16分]"
+        },
+        {
+          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032593268840600541",
+          "source": "知乎",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时46分"
+          "time_info": "19时16分"
         },
         {
           "title": "马斯克控诉“慈善被掠夺”，OpenAI反驳其想要“王国的钥匙”",
@@ -232,8 +290,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时46分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 19时16分]"
         },
         {
           "title": "全球央行在一季度金价大幅波动期间“大量购入”黄金",
@@ -242,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
         }
