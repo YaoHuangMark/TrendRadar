@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-07T16:15:23.661310+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-05-07T19:44:48.431873+08:00",
+  "total_titles_processed": 683,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 19时44分]"
+        },
         {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
           "url": "https://www.cls.cn/detail/2364367",
@@ -30,37 +41,38 @@
           "time_info": "[12时59分 ~ 16时15分]"
         },
         {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 16时15分]"
-        },
-        {
           "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
           "url": "https://news.ifeng.com/c/8svoq7iNUv4",
           "source": "凤凰网",
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 19时44分]"
+        },
+        {
+          "title": "特朗普周四日程",
+          "url": "https://flash.jin10.com/detail/20260507193230591800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "19时44分"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
           "url": "https://wallstreetcn.com/articles/3771687",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 19时44分]"
         },
         {
           "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
@@ -69,9 +81,20 @@
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 19时44分]"
+        },
+        {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "19时44分"
         },
         {
           "title": "内情披露：特朗普叫停“自由计划”并非为和平让路，而是被沙特“拆了台”",
@@ -88,7 +111,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -98,8 +121,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 19时44分]"
         },
         {
           "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
@@ -120,9 +143,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "国际油价短线跳水，布伦特原油日内跌幅达3.0%，报98.1美元/桶。 美股股指期货快速拉升，纳指期货日内涨幅扩大至0.3%。 美元指数短线走低，日内跌0.16%。",
@@ -131,7 +165,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
@@ -147,11 +181,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 19时44分]"
         }
       ]
     },
@@ -181,11 +216,12 @@
           "url": "https://wallstreetcn.com/articles/3771684",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 16时15分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 19时44分]"
         }
       ]
     }
