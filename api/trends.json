@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-05-10T18:46:39.663777+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-05-10T20:10:20.677159+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
-          "url": "https://flash.jin10.com/detail/20260510182305585800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
         {
           "title": "英媒：在与特朗普产生摩擦后 德国正计划重启采购“战斧”导弹的努力",
           "url": "https://flash.jin10.com/detail/20260510122534394800",
@@ -37,8 +26,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时05分 ~ 18时46分]"
+          "appearance_count": 5,
+          "time_info": "[13时05分 ~ 20时10分]"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：美国总统特使威特科夫和特朗普女婿库什纳将“很快”抵达莫斯科，俄罗斯将继续与他们对话。",
+          "url": "https://flash.jin10.com/detail/20260510182305585800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 20时10分]"
         },
         {
           "title": "意媒：特朗普“仍在考虑”调整驻意美军",
@@ -51,6 +52,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时06分 ~ 15时40分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-10）",
+          "url": "https://flash.jin10.com/detail/20260510184554353800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时10分"
         }
       ]
     },
@@ -96,8 +108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 20时10分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
