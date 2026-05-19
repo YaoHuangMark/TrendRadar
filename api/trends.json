@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-05-19T13:41:47.176744+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-19T18:48:26.028709+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 18时48分]"
+        },
+        {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
         {
           "title": "特朗普称将推迟对伊朗发动军事打击",
           "url": "https://www.cls.cn/detail/2374774",
@@ -19,15 +42,15 @@
           "time_info": "13时41分"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "18时48分"
         },
         {
           "title": "特朗普连发15张图分享“中国记忆”",
@@ -37,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 18时48分]"
         },
         {
           "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
@@ -72,12 +95,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "美国贸易代表办公室：为庆祝美国建国250周年，特朗普将于12月14日至15日在佛罗里达州迈阿密的特朗普国家多拉尔高尔夫度假村举办峰会。",
+          "url": "https://flash.jin10.com/detail/20260519180734540800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美联储“不得不鹰”？大摩预警：若美债收益率持续飙升 美股恐现“重大回调”",
@@ -91,22 +125,34 @@
           "time_info": "13时41分"
         },
         {
-          "title": "美债收益率逼近2007年高点 投资人担心错过高收益、又怕更大抛售",
-          "url": "https://wallstreetcn.com/livenews/3105799",
+          "title": "花旗称30年期美债收益率的下一关键位可能在5.5%",
+          "url": "https://wallstreetcn.com/livenews/3105975",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "18时48分"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
           "url": "https://wallstreetcn.com/articles/3772572",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 18时48分]"
+        },
+        {
+          "title": "美债收益率逼近2007年高点 投资人担心错过高收益、又怕更大抛售",
+          "url": "https://wallstreetcn.com/livenews/3105799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -127,18 +173,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
           "url": "https://wallstreetcn.com/articles/3772473",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 18时48分]"
         },
         {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
@@ -161,6 +208,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "美股股指期货跌幅扩大，纳指期货跌0.8%，触及日内低点，标普500指数期货跌超0.5%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3105955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
+          "url": "https://wallstreetcn.com/articles/3772508",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时41分"
+        },
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "英伟达重磅CPU Vera交付：专为智能体AI设计 甲骨文承诺部署数十万颗",
+          "url": "https://www.cls.cn/detail/2374998",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -173,28 +270,12 @@
           "url": "https://www.cls.cn/detail/2374982",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
-          "url": "https://wallstreetcn.com/articles/3772508",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 18时48分]"
         }
       ]
     },
@@ -207,11 +288,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 18时48分]"
         }
       ]
     }
