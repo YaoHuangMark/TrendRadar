@@ -1,77 +1,88 @@
 {
-  "generated_at": "2026-05-20T22:06:04.820711+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-05-21T13:48:12.947008+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普现身白宫宴会厅施工现场，称这是献给国家的礼物",
-          "url": "https://news.ifeng.com/c/8tHSbfpek1w",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 22时06分]"
-        },
-        {
-          "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
-          "url": "https://news.ifeng.com/c/8tHoD8gEXdY",
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
-          "title": "美国总统特朗普：白宫的舞厅正在建设中。这其实是一个非常“军事化”的综合体。屋顶实际上是一个无人机港口。这也是我们人民的一个强大军事阵地。",
-          "url": "https://flash.jin10.com/detail/20260520215630665800",
-          "source": "金十数据",
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
-          "url": "https://www.cls.cn/detail/2376144",
-          "source": "财联社热门",
-          "ranks": [
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
-          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
-          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
+          "title": "特朗普，“退了一万亿”",
+          "url": "https://news.ifeng.com/c/8tIcotw8V5W",
           "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗驻联合国大使表示，联合国安全理事会不应对美国总统特朗普针对伊朗的频繁威胁保持沉默或漠不关心。",
+          "url": "https://flash.jin10.com/detail/20260521133216150800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时44分"
+          "time_info": "13时48分"
         },
         {
-          "title": "美国总统特朗普：（谈到自己时）你们最终会说，我将是有史以来最伟大的美国总统。",
-          "url": "https://flash.jin10.com/detail/20260520215434931800",
-          "source": "金十数据",
+          "title": "报道称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://wallstreetcn.com/livenews/3107164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "13时48分"
+        },
+        {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
           "title": "郑丽文：特朗普叫台湾不要再讲“台独”，民进党还装听不懂",
@@ -82,445 +93,162 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
-          "title": "美国总统特朗普：很多人提醒我注意中期选举，但我一点也不着急。",
-          "url": "https://flash.jin10.com/detail/20260520215224022800",
-          "source": "金十数据",
+          "title": "特朗普称愿意多花几天等待伊方消息 SpaceX提交IPO文件 | 环球市场",
+          "url": "https://www.cls.cn/detail/2377369",
+          "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
-          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
-          "url": "https://www.cls.cn/detail/2375999",
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
+          "url": "https://wallstreetcn.com/articles/3772708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "【早报】美股科技巨头全线走高；英伟达财报出炉、SpaceX启动IPO",
+          "url": "https://www.cls.cn/detail/2377339",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "英伟达Q1营收超预期增85%、指引再新高仍不够亮眼，新增回购800亿且大幅上调股息 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772760",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "全面超预期！英伟达公布强劲财报 预计下半年开始发货Vera Rubin",
+          "url": "https://www.cls.cn/detail/2377323",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "英伟达电话会：需求在加速，Vera Rubin全周期供应受限，独立CPU业务解锁2000亿美元市场",
+          "url": "https://wallstreetcn.com/articles/3772763",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
+        },
+        {
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
-          "title": "特朗普家族被豁免永久禁止国税局审计",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E8%A2%AB%E8%B1%81%E5%85%8D%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%9B%BD%E7%A8%8E%E5%B1%80%E5%AE%A1%E8%AE%A1%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "英伟达盘后股价上演“过山车”",
+          "url": "https://www.toutiao.com/trending/7642166229951581702/",
+          "source": "今日头条",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
-          "title": "美国总统特朗普：昨天公布的经济数据非常棒。 不担心宴会厅项目的资金问题。 以色列总理内塔尼亚胡会按照我的意愿行事。 （谈及伊朗）我不着急。伊朗已遭到重创。",
-          "url": "https://wallstreetcn.com/livenews/3106762",
+          "title": "摩根士丹利：将英伟达(NVDA.O)目标价从285美元上调至288美元。",
+          "url": "https://flash.jin10.com/detail/20260521132619611800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时48分"
+        },
+        {
+          "title": "摩根大通：将英伟达目标价从265美元上调至280美元。",
+          "url": "https://wallstreetcn.com/livenews/3107150",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美国总统特朗普：我现在在以色列的支持率是99%。我可以竞选总理，所以也许等我做完这件事，我就去以色列竞选总理。",
-          "url": "https://flash.jin10.com/detail/20260520214808330800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美国总统特朗普：如果耶稣亲自下来数票，我就能赢得加州选票。",
-          "url": "https://flash.jin10.com/detail/20260520214716144800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
+          "time_info": "13时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
+          "url": "https://www.cls.cn/detail/2377305",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 13时48分]"
         },
         {
-          "title": "美国总统特朗普：将寻求清除司法部和美国联邦调查局（FBI）中的部分人员。",
-          "url": "https://flash.jin10.com/detail/20260520214459498800",
+          "title": "分析师：特朗普口头利好再救美股，市场继续照单全收",
+          "url": "https://flash.jin10.com/detail/20260521131731594800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美国总统特朗普：我们已经消灭并摧毁了伊朗，你们将会看到许多让人惊讶的事情发生。",
-          "url": "https://flash.jin10.com/detail/20260520214443239800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美国总统特朗普：我们需要重新开放霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20260520214421618800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美国总统特朗普：在与伊朗的战争中，我们只损失了13人。",
-          "url": "https://flash.jin10.com/detail/20260520214331010800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗已经遭受了重创。",
-          "url": "https://flash.jin10.com/detail/20260520214318520800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美国总统特朗普：今天在伊朗有很多愤怒，因为生活水平很差。",
-          "url": "https://flash.jin10.com/detail/20260520214248671800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美国总统特朗普：我再给伊朗一次机会。",
-          "url": "https://flash.jin10.com/detail/20260520214238913800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 22时06分]"
-        },
-        {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
-          "url": "https://www.cls.cn/detail/2376249",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 18时35分]"
-        },
-        {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2376118",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "新加坡与谷歌公司、OpenAI签署AI协议。 OpenAI承诺对狮城生态系统投资2.34亿美元（折合3亿坡元），成立海外（美国之外）第一个AI实验室。 谷歌将AI协作扩展至教育、医疗保健、科学研究。 新加坡希望在全球部署AI方面发挥更大作用。",
-          "url": "https://wallstreetcn.com/livenews/3106486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
-          "url": "https://www.cls.cn/detail/2376047",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "如何看待 Google I/O 发布的 Gemini 3.5 Flash？在大模型竞争中处于什么位置？",
-          "url": "https://www.zhihu.com/question/2040264585383507841",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
-          "url": "https://www.cls.cn/detail/2376079",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "美股芯片股已严重超买！美银警告：历史7次类似信号后平均暴跌44%",
-          "url": "https://wallstreetcn.com/articles/3772678",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 22时06分]"
-        },
-        {
-          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
-          "url": "https://wallstreetcn.com/articles/3772667",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 18时35分]"
-        },
-        {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        },
-        {
-          "title": "金十图示：2026年05月20日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260520215309522800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "美股盘初：纳指涨0.5%，费城半导体指数涨2.2%",
-          "url": "https://wallstreetcn.com/livenews/3106758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3106748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "英伟达财报倒计时！超预期基本没悬念，但华尔街最关心这五个问题",
-          "url": "https://wallstreetcn.com/articles/3772680",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 22时06分]"
-        },
-        {
-          "title": "英伟达财报倒计时！期权市场押注：3550亿美元单日市值巨震将至",
-          "url": "https://www.cls.cn/detail/2376293",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 18时35分]"
-        },
-        {
-          "title": "高盛英伟达前瞻：业绩大概率超预期，但市场更关注“1万亿美元”指引之外的增量空间",
-          "url": "https://wallstreetcn.com/articles/3772638",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 18时35分]"
-        },
-        {
-          "title": "段永平最新美股持仓曝光！豪掷12亿美元重仓特斯拉，大举加仓英伟达、拼多多",
-          "url": "https://wallstreetcn.com/articles/3772698",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
-        },
-        {
-          "title": "油价走软、海外股市债市携手回暖 英伟达即将发布财报 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2377104",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时05分 ~ 22时06分]"
-        },
-        {
-          "title": "英伟达将在新加坡设立研究中心，助力该国全面提速AI战略布局",
-          "url": "https://wallstreetcn.com/livenews/3106479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时44分 ~ 22时06分]"
-        },
-        {
-          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
-          "url": "https://www.cls.cn/detail/2376546",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时35分 ~ 22时06分]"
-        },
-        {
-          "title": "美债收益率破5%意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "13时48分"
         }
       ]
     }
