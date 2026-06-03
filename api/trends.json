@@ -1,250 +1,66 @@
 {
-  "generated_at": "2026-06-02T19:50:50.865751+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-06-03T14:28:46.096625+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "英伟达",
-      "match_count": 12,
+      "keyword_group": "特朗普",
+      "match_count": 5,
       "titles": [
         {
-          "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
-          "url": "https://wallstreetcn.com/articles/3773537",
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 19时50分]"
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
-          "title": "英伟达GTC ：Vera Rubin全面量产，杀入PC芯片市场，携宇树布局机器人",
-          "url": "https://wallstreetcn.com/articles/3773548",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "英伟达掀桌，Windows 终于迎来真 AI PC",
-          "url": "https://wallstreetcn.com/articles/3773561",
-          "source": "华尔街见闻",
+          "title": "被特朗普斥“疯了”后，内塔尼亚胡强硬表态",
+          "url": "https://news.ifeng.com/c/8tdev8HIju4",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
-          "title": "英伟达股价大涨",
-          "url": "https://www.douyin.com/hot/2520831",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "黄仁勋联手宇树打造 H2 人形机器人，英伟达提供「大脑」，宇树造「身体」，怎样看待双方的合作？",
-          "url": "https://www.zhihu.com/question/2044914717236224024",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "黄仁勋的棋局：AI算力的每一条路，都有英伟达在等候",
-          "url": "https://wallstreetcn.com/articles/3773569",
+          "title": "一个想谈一个想打！特朗普破口大骂内塔尼亚胡，美以分歧公开化",
+          "url": "https://wallstreetcn.com/articles/3773725",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
-          "title": "黄仁勋宣布英伟达正重新发明PC：意义不亚于智能手机的诞生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33282044",
-          "source": "澎湃新闻",
+          "title": "特朗普最终还是签了，曾忧心这会“让中国领先”",
+          "url": "https://news.ifeng.com/c/8teNmgDJ0FF",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "基于光电一体封装技术（CPO）构建！英伟达Spectrum-X以太网硅光技术全面量产",
-          "url": "https://wallstreetcn.com/livenews/3113022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "14时28分"
         },
         {
-          "title": "英伟达黄仁勋：计划今年及未来向我们的股东返还至少50%的自由现金流。",
-          "url": "https://wallstreetcn.com/livenews/3112826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
-        {
-          "title": "英伟达GTC主题演讲全程回顾",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BEGTC%E4%B8%BB%E9%A2%98%E6%BC%94%E8%AE%B2%E5%85%A8%E7%A8%8B%E5%9B%9E%E9%A1%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "英伟达CEO称应“尽可能多地”给员工发薪水",
-          "url": "https://wallstreetcn.com/livenews/3112808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "戏剧性一幕，特朗普被迫打了一个电话",
-          "url": "https://news.ifeng.com/c/8tcZYXsGgVn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
-          "url": "https://www.cls.cn/detail/2387782",
+          "title": "特朗普签署人工智能行政令，要求企业向政府提前开放模型访问权限",
+          "url": "https://www.cls.cn/detail/2388943",
           "source": "财联社热门",
           "ranks": [
-            3
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普再发5张照片回味中国",
-          "url": "https://news.ifeng.com/c/8td32CwSj89",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 19时50分]"
-        },
-        {
-          "title": "美伊又打起来了，特朗普：伊朗“确实想要”达成协议",
-          "url": "https://wallstreetcn.com/articles/3773555",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普安抚市场： 黎以所有交火行动将立即停止 与伊朗的谈判正“快速推进”",
-          "url": "https://www.cls.cn/detail/2387700",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普称美伊或于一周内达成协议 美国战略石油储备降至两年多来最低水平 | 环球市场",
-          "url": "https://www.cls.cn/detail/2387742",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普威胁“炸掉阿曼”粗暴又荒诞：美国的强权即是“规则”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33279999",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
-        },
-        {
-          "title": "美学者破防，“特朗普现在对中国，比对加拿大都亲”",
-          "url": "https://news.ifeng.com/c/8tcn1AFVlOS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "time_info": "14时28分"
         }
       ]
     },
@@ -253,38 +69,76 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
-            2
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 19时50分]"
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
-          "title": "伯克希尔投资100亿美元加码谷歌",
-          "url": "https://www.douyin.com/hot/2520581",
-          "source": "抖音",
+          "title": "谷歌(GOOG.O)：将倾听出版商和创作者的反馈，并与英国竞争和市场管理局（CMA）等监管机构进行沟通，以确保网站所有者拥有合适的工具。",
+          "url": "https://flash.jin10.com/detail/20260603135359411800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "谷歌(GOOG.O)推出新工具，帮助网站所有者在搜索中应对人工智能，包括搜索控制台中的新功能和性能洞察博客。",
+          "url": "https://flash.jin10.com/detail/20260603135315263800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时50分"
-        },
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "谷歌前CEO被诬告强奸获赔千万美元",
-          "url": "https://www.toutiao.com/trending/7646587677566828586/",
+          "title": "金价一跌银行“高息存款”撑不住了吗",
+          "url": "https://www.toutiao.com/trending/7646941178838912538/",
           "source": "今日头条",
           "ranks": [
-            28
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "14时28分"
+        },
+        {
+          "title": "国内金价跌破980元每克",
+          "url": "https://www.toutiao.com/trending/7646967437870747187/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "国内金价跌破980元每克",
+          "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4980%E5%85%83%E6%AF%8F%E5%85%8B&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -293,37 +147,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
-          "url": "https://www.cls.cn/detail/2387748",
-          "source": "财联社热门",
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 14时15分]"
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
-          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
-          "url": "https://www.cls.cn/detail/2388081",
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时50分"
-        },
-        {
-          "title": "新华社：美股AI热潮是否面临“泡沫破裂”风险",
-          "url": "https://wallstreetcn.com/livenews/3112827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "14时28分"
+        },
+        {
+          "title": "美股散户热议：该跟黄仁勋还是特朗普",
+          "url": "https://www.toutiao.com/trending/7646982770446569014/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     },
@@ -332,16 +186,49 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
           "source": "财联社热门",
           "ranks": [
-            12,
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 19时50分]"
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "基于CPO技术！英伟达Spectrum-X硅光交换机全面量产",
+          "url": "https://wallstreetcn.com/articles/3773674",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧央行最新报告：黄金历史性超越美债，成为全球第一大储备资产",
+          "url": "https://wallstreetcn.com/articles/3773688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     }
