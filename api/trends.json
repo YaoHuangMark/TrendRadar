@@ -1,390 +1,161 @@
 {
-  "generated_at": "2026-06-05T22:10:14.584792+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-06-06T13:32:02.751333+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://news.ifeng.com/c/8thJ3FRE17N",
+          "title": "特朗普：将迅速结束伊朗战事",
+          "url": "https://news.ifeng.com/c/8tjENyLisNK",
           "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 18时59分]"
-        },
-        {
-          "title": "在这件事上，特朗普宣布要花7亿美元",
-          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
-          "source": "凤凰网",
-          "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "特朗普最新支持率曝光，压力骤增",
-          "url": "https://news.ifeng.com/c/8thXPDq9zi0",
-          "source": "凤凰网",
+          "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "美国务卿：特朗普几乎不睡觉，凌晨给我打电话，是个严重问题",
-          "url": "https://news.ifeng.com/c/8thTYNkVaOC",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
-          "url": "https://www.cls.cn/detail/2391265",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
-          "url": "https://news.ifeng.com/c/8thTYMLvvqY",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "俄外长说拜登战争已变为特朗普战争",
-          "url": "https://wallstreetcn.com/livenews/3115044",
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "巴驻联合国官员喊话特朗普：管住以色列",
-          "url": "https://wallstreetcn.com/livenews/3115043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "特朗普“老冤家”博尔顿被曝同意认罪",
-          "url": "https://wallstreetcn.com/livenews/3115037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "机构分析师评美国非农：市场现在认为，美联储在10月28日的会议上加息的可能性接近70%。试想一下，如果沃什在中期选举前宣布加息，特朗普会作何反应。",
-          "url": "https://flash.jin10.com/detail/20260605212409211800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时10分"
+          "time_info": "13时32分"
+        },
+        {
+          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
+          "url": "https://wallstreetcn.com/livenews/3115408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "特朗普称将迅速结束伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3115394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 4,
       "titles": [
         {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
+          "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
+          "url": "https://wallstreetcn.com/articles/3773946",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
-          "url": "https://www.cls.cn/detail/2391272",
+          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
+          "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
-          "url": "https://www.cls.cn/detail/2391243",
-          "source": "财联社热门",
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "美股盘初，房利美股价上涨10%，房地美上涨9.7%。此前美国总统特朗普表示，两房的价值可能有1万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3115177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
-          "url": "https://wallstreetcn.com/articles/3773846",
-          "source": "华尔街见闻",
+          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "source": "知乎",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "美股半导体股大涨",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%82%A1%E5%A4%A7%E6%B6%A8&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "美股芯片巨头博通 AI 半导体收入增长超 200%，为什么股价却暴跌 15%？背后有哪些因素值得关注？",
-          "url": "https://www.zhihu.com/question/2045914979002315116",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "房利美股价上涨10%，房地美上涨9.7%。",
-          "url": "https://flash.jin10.com/detail/20260605213437051800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3115164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        },
-        {
-          "title": "非农大超预期 美股开盘纳指跌超1%",
-          "url": "https://flash.jin10.com/detail/20260605213036341800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "英伟达",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
-          "url": "https://www.cls.cn/detail/2391541",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时59分 ~ 18时59分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：三大存储芯片生产商均有资格供应HBM4芯片",
-          "url": "https://wallstreetcn.com/livenews/3114819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：芯片制造将变得更加自动化。 英伟达可以将机器人技术应用于韩国工业。 机器人将成为韩国的下一个主要支柱产业。",
-          "url": "https://wallstreetcn.com/livenews/3114816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：AI建设正在加速。 我给韩国带来了大量业务。 计划与现代、三星、SK集团高管会面。 将与韩国合作伙伴讨论供应链协同相关事宜。 将尽可能聪明地分配和使用存储芯片供应。 将开始为韩国研发中心招聘员工。",
-          "url": "https://wallstreetcn.com/livenews/3114813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 22时10分]"
-        },
-        {
-          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
-          "url": "https://wallstreetcn.com/articles/3773884",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 18时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
-        },
-        {
-          "title": "美国如何一次性解决 36 万亿美债问题？",
-          "url": "https://www.zhihu.com/question/6607165102",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时09分 ~ 22时10分]"
+          "time_info": "[13时31分 ~ 13时32分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
+          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
+          "url": "https://www.cls.cn/detail/2392502",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时58分 ~ 22时10分]"
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
+          "url": "https://wallstreetcn.com/livenews/3115400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "德国商业银行：年底金价4800美元，银价80美元",
-          "url": "https://flash.jin10.com/detail/20260605134846099800",
-          "source": "金十数据",
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         }
       ]
     },
@@ -393,15 +164,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "现货黄金短线跳水，跌破4420美元/盎司，报4419.84美元/盎司，日内跌超1.3%。 美元指数持续走高，创4月8日以来新高，日内涨0.12%。 美国2年期国债收益率单日上行10个基点，创2026年以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3115155",
-          "source": "华尔街见闻-快讯",
+          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3773996",
+          "source": "华尔街见闻",
           "ranks": [
-            22
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         }
       ]
     }
