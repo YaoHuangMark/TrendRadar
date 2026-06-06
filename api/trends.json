@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-06T13:32:02.751333+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-06T17:35:02.502741+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "特朗普“官宣”：我和马斯克又成朋友了",
+          "url": "https://news.ifeng.com/c/8tjmsxXSCQI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
         {
           "title": "特朗普：将迅速结束伊朗战事",
           "url": "https://news.ifeng.com/c/8tjENyLisNK",
@@ -17,6 +28,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 17时35分]"
         },
         {
           "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
@@ -30,24 +53,13 @@
           "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "特朗普赦免因内幕交易获罪前议员",
-          "url": "https://wallstreetcn.com/livenews/3115419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
           "url": "https://wallstreetcn.com/livenews/3115408",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -58,7 +70,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -66,7 +78,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -76,8 +88,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时35分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -87,8 +99,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时35分]"
+        },
+        {
+          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时35分]"
         },
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -102,15 +125,15 @@
           "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2046360260902909588",
-          "source": "知乎",
+          "title": "美股一夜蒸发超万亿美元市值",
+          "url": "https://www.toutiao.com/trending/7648103085272731199/",
+          "source": "今日头条",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "time_info": "[17时34分 ~ 17时35分]"
         }
       ]
     },
@@ -136,7 +159,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -151,11 +174,46 @@
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达市值一夜蒸发2.2万亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%912.2%E4%B8%87%E4%BA%BF%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "time_info": "[17时34分 ~ 17时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价跌回2025年",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E2025%E5%B9%B4%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         }
       ]
     },
@@ -168,11 +226,12 @@
           "url": "https://wallstreetcn.com/articles/3773996",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 17时35分]"
         }
       ]
     }
