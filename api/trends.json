@@ -1,372 +1,233 @@
 {
-  "generated_at": "2026-06-07T21:05:56.936289+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-06-08T14:19:36.354872+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "特朗普5月猛发800多条Truth帖文 美化首都的帖子占了十分之一",
-          "url": "https://flash.jin10.com/detail/20260607133116790800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "指控特朗普在商场试衣间性侵，女作家“摊上事了”",
-          "url": "https://news.ifeng.com/c/8tl1E8EOKfx",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 21时05分]"
-        },
-        {
-          "title": "特朗普女儿女婿，在欧洲被“火烈鸟”围剿了",
-          "url": "https://news.ifeng.com/c/8tkuLp7C2ad",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 21时05分]"
-        },
-        {
-          "title": "伊朗开价240亿美元，这可要了特朗普的命",
-          "url": "https://news.ifeng.com/c/8tkFdUHRCpm",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 18时13分]"
-        },
-        {
-          "title": "美防长在法国模仿特朗普，美军被逗得哈哈大笑",
-          "url": "https://v.ifeng.com/c/8tl4ufgZGdN",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "英媒：特朗普无法迫使伊朗让步 转而迁怒海湾盟友",
-          "url": "https://flash.jin10.com/detail/20260607124414554800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "特朗普宣布将前往现场看NBA总决赛",
-          "url": "https://wallstreetcn.com/livenews/3115551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "特朗普刚起床就发了AI视频",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%B0%B1%E5%8F%91%E4%BA%86AI%E8%A7%86%E9%A2%91&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "专家：特朗普为赶移民要判人“死亡”",
-          "url": "https://www.toutiao.com/trending/7648586699135520292/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
-          "url": "https://wallstreetcn.com/livenews/3115520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 21时05分]"
-        },
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 21时05分]"
-        },
-        {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 18时13分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
-          "url": "https://flash.jin10.com/detail/20260607120910109800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        },
-        {
-          "title": "据英国金融时报：OpenAI正在准备对ChatGPT进行其推出以来规模最大的一次改版。该公司计划将ChatGPT转型为结合编码工具和人工智能体的“超级应用”，并添加高管们认为能够创造更多收入的产品。",
-          "url": "https://flash.jin10.com/detail/20260607120518642800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时03分"
-        }
-      ]
-    },
     {
       "keyword_group": "英伟达",
       "match_count": 5,
       "titles": [
         {
-          "title": "报道：英伟达与SK将宣布合作计划，黄仁勋称芯片短缺将持续数年",
-          "url": "https://wallstreetcn.com/livenews/3115546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们明天可能会发布一些公告。 明天将与三星副会长会面。 内存短缺问题将持续数年。",
-          "url": "https://wallstreetcn.com/livenews/3115545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "据韩国私营新闻通讯社NEWSIS：英伟达(NVDA.O)CEO黄仁勋与SK集团董事长崔泰源将于周一宣布合作计划。",
-          "url": "https://flash.jin10.com/detail/20260607191131443800",
+          "title": "英伟达CEO黄仁勋：英伟达与现代汽车扩大在自动驾驶汽车、机器人出租车和自主出行领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260608141017444800",
           "source": "金十数据",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：内存短缺将持续数年。",
-          "url": "https://flash.jin10.com/detail/20260607190253194800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：明天将与三星副董事长会面。",
-          "url": "https://flash.jin10.com/detail/20260607184914445800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
-          "url": "https://www.cls.cn/detail/2392497",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 21时05分]"
-        },
-        {
-          "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
-          "url": "https://www.cls.cn/detail/2392638",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时03分 ~ 21时05分]"
-        },
-        {
-          "title": "美股IPO后续怎么看",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1IPO%E5%90%8E%E7%BB%AD%E6%80%8E%E4%B9%88%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "美股大跌 A股周一能扛住吗",
-          "url": "https://www.toutiao.com/trending/7648566314880994870/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "中信证券：短期美股科技股调整，市场料将继续维持高波动状态",
-          "url": "https://flash.jin10.com/detail/20260607184311159800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
-          "url": "https://wallstreetcn.com/articles/3774025",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 18时13分]"
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
-          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
-          "url": "https://wallstreetcn.com/articles/3774016",
+          "title": "英伟达黄仁勋：与现代汽车集团会长郑义宣讨论了自动驾驶汽车。",
+          "url": "https://wallstreetcn.com/livenews/3115907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "英伟达与海力士官宣多年合作计划，锁定先进存储供应，黄仁勋称“协议期限将超两年且有能力持续续约”",
+          "url": "https://wallstreetcn.com/articles/3774048",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时03分"
+          "time_info": "14时19分"
+        },
+        {
+          "title": "英伟达与SK海力士多年期技术合作 黄仁勋称存储短缺未见结束迹象",
+          "url": "https://www.cls.cn/detail/2393080",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
+          "url": "https://www.cls.cn/detail/2393263",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2392910",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
+          "url": "https://wallstreetcn.com/articles/3774038",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "如何看待美股黑色星期五？如何影响A股？",
+          "url": "https://www.cls.cn/detail/2392886",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "美股科技大跌对A股影响有多大",
+          "url": "https://www.toutiao.com/trending/7648866478107659803/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "特朗普：我说了算，以色列总理别无选择",
+          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "金价跌回2025年，有金店每克跌近400元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329823",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
           "url": "https://wallstreetcn.com/articles/3774034",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 21时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价跌回2025年，有金店每克跌近400元",
-          "url": "https://wallstreetcn.com/livenews/3115552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "14时19分"
         }
       ]
     }
