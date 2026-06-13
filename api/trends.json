@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-06-13T13:57:52.048830+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-13T18:13:42.072503+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 18时13分]"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
+        },
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
           "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
           "source": "澎湃新闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -80,26 +92,28 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2398916",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 18时13分]"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 18时13分]"
         },
         {
           "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
@@ -109,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 18时13分]"
         },
         {
           "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
