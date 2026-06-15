@@ -1,22 +1,69 @@
 {
-  "generated_at": "2026-06-15T14:57:31.898705+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-15T21:32:32.424434+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 21时32分]"
+        },
+        {
+          "title": "特朗普批评内塔尼亚胡干扰美伊谈判进程，外交部回应",
+          "url": "https://www.cls.cn/detail/2400017",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "21时32分"
+        },
+        {
+          "title": "特朗普：将允许伊朗进行低水平铀浓缩",
+          "url": "https://www.cls.cn/detail/2400213",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 21时32分]"
+        },
+        {
+          "title": "特朗普批评以色列“干扰”美伊签署协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 21时32分]"
         },
         {
           "title": "80大寿，特朗普被气炸了",
@@ -52,26 +99,15 @@
           "time_info": "14时57分"
         },
         {
-          "title": "特朗普：美伊协议“完成”，霍尔木兹海峡开放",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379774",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：船舶开始移动，许多装载着石油。 它们正沿着南部‘高速’行驶，这条路径绝对安全可靠，状况极佳。",
+          "url": "https://wallstreetcn.com/livenews/3119723",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时57分"
-        },
-        {
-          "title": "特朗普批评以色列“干扰”美伊签署协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33379411",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时57分"
+          "time_info": "21时32分"
         },
         {
           "title": "特朗普就欧洲数字税一事威胁对法国征收100%的葡萄酒关税。（纽约邮报）",
@@ -88,7 +124,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
@@ -111,6 +147,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        },
+        {
+          "title": "美伊达成停战协议 美股期指集体上涨 SpaceX续涨逾6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2400410",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3119717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     },
@@ -132,6 +190,23 @@
       ]
     },
     {
+      "keyword_group": "英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：英伟达拟通过债券发行筹资至少200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3119691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -145,6 +220,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊达成协议，美股盘前半导体股普涨，SpaceX涨超6%，美债收益率全线下行，油价重挫4%",
+          "url": "https://wallstreetcn.com/articles/3774633",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         }
       ]
     }
