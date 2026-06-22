@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-22T14:59:50.941051+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-22T21:12:33.086915+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
+          "url": "https://wallstreetcn.com/articles/3775145",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 21时12分]"
+        },
         {
           "title": "美媒称对伊朗开战近四个月几乎没成果，特朗普怒了",
           "url": "https://news.ifeng.com/c/8uA2kEZD4Zh",
@@ -19,15 +31,28 @@
           "time_info": "14时59分"
         },
         {
-          "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
-          "url": "https://wallstreetcn.com/articles/3775145",
-          "source": "华尔街见闻",
+          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 21时12分]"
+        },
+        {
+          "title": "特朗普称美国或收取中东地区20%的石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 21时12分]"
         },
         {
           "title": "美伊和平又生变数？特朗普威胁言论激怒伊朗 谈判陷入暂停",
@@ -41,33 +66,33 @@
           "time_info": "14时59分"
         },
         {
-          "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
-          "source": "澎湃新闻",
+          "title": "洛伊研究所调查：澳大利亚人对美国总统特朗普的信心降至21%。",
+          "url": "https://flash.jin10.com/detail/20260622203125193800",
+          "source": "金十数据",
           "ranks": [
-            12
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "特朗普称美国或收取中东地区20%的石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33425530",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "time_info": "21时12分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美伊达成协议文件，美股盘前芯片股集体走高，英镑逼近年内低位，油价冲高回落，金价反弹",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
         {
           "title": "金价暴跌黄金该买还是该卖",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96%23&t=31&band_rank=18&Refer=top",
@@ -78,6 +103,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全面液冷时代要来了？Rubin平台放量前夕 英伟达发文详解自家核心技术",
+          "url": "https://www.cls.cn/detail/2405571",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股期指小幅上涨 美光科技盘前涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2405983",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         }
       ]
     }
