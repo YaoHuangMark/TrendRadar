@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T19:12:33.201924+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-06-27T20:53:20.249915+08:00",
+  "total_titles_processed": 685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -16,8 +16,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 20时53分]"
         },
         {
           "title": "伊朗称特朗普不遵守谈判和停火原则",
@@ -32,13 +32,35 @@
           "time_info": "[13时29分 ~ 16时12分]"
         },
         {
+          "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
+          "url": "https://news.ifeng.com/c/8uInDi1ssY8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "美国务卿鲁比奥：正推动特朗普明年初访问印度事宜",
+          "url": "https://flash.jin10.com/detail/20260627191008880800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-27）",
           "url": "https://flash.jin10.com/detail/20260627172958574800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -60,7 +82,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -89,8 +111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 20时53分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -100,8 +122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 20时53分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -111,8 +133,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[13时29分 ~ 20时53分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -123,8 +145,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时12分 ~ 19时12分]"
+          "appearance_count": 3,
+          "time_info": "[16时12分 ~ 20时53分]"
         },
         {
           "title": "MAG7“信仰”松动：科技巨头技术面剧烈分化，美股资金加速涌向估值洼地",
@@ -140,9 +162,71 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国际金价银价上涨",
+          "url": "https://www.douyin.com/hot/2549494",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "金价大跌 有商家称跌没一辆迈巴赫",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%95%86%E5%AE%B6%E7%A7%B0%E8%B7%8C%E6%B2%A1%E4%B8%80%E8%BE%86%E8%BF%88%E5%B7%B4%E8%B5%AB",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "金价大跌 有商家称跌没一辆迈巴赫",
+          "url": "https://www.toutiao.com/trending/7655931453586849835/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "金价跌25%银价暴跌45%",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C25%25%E9%93%B6%E4%BB%B7%E6%9A%B4%E8%B7%8C45%25%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时53分]"
+        },
         {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
           "url": "https://wallstreetcn.com/articles/3775589",
@@ -155,17 +239,6 @@
           "time_info": "13时29分"
         },
         {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
           "title": "OpenAI发布GPT5.6",
           "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT5.6",
           "source": "百度热搜",
@@ -175,45 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国际金价银价上涨",
-          "url": "https://www.douyin.com/hot/2549494",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "金价大跌 有商家称跌没一辆迈巴赫",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C+%E6%9C%89%E5%95%86%E5%AE%B6%E7%A7%B0%E8%B7%8C%E6%B2%A1%E4%B8%80%E8%BE%86%E8%BF%88%E5%B7%B4%E8%B5%AB",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "金价跌25%银价暴跌45%",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C25%25%E9%93%B6%E4%BB%B7%E6%9A%B4%E8%B7%8C45%25%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
         }
       ]
     }
