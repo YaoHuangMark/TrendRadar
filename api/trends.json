@@ -1,44 +1,23 @@
 {
-  "generated_at": "2026-07-05T13:41:03.399065+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-05T17:56:02.631607+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "普京与特朗普通话85分钟，细节公布",
           "url": "https://news.ifeng.com/c/8uVO6TXjAXb",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
-        },
-        {
-          "title": "普京与特朗普通话85分钟",
-          "url": "https://www.toutiao.com/trending/7657794287316664371/",
-          "source": "今日头条",
-          "ranks": [
+            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
-        },
-        {
-          "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
-          "url": "https://news.ifeng.com/c/8uVPLB68Q8C",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时56分]"
         },
         {
           "title": "特朗普称内塔尼亚胡知道“谁是老大”",
@@ -48,8 +27,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时56分]"
+        },
+        {
+          "title": "特朗普：伊朗举国哀悼哈梅内伊，让我感到惊讶",
+          "url": "https://news.ifeng.com/c/8uVPLB68Q8C",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时56分]"
+        },
+        {
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时56分]"
+        },
+        {
+          "title": "普京与特朗普通话85分钟",
+          "url": "https://www.toutiao.com/trending/7657794287316664371/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时56分]"
         },
         {
           "title": "特朗普在美国独立250周年庆典演讲 强调“美国例外论”",
@@ -58,31 +73,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
-        },
-        {
-          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
-          "url": "https://wallstreetcn.com/articles/3776207",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
         },
         {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
           "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时56分]"
         },
         {
           "title": "普京与特朗普通话85分钟",
@@ -92,8 +97,55 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时56分]"
+        },
+        {
+          "title": "内塔尼亚胡近期将访美与特朗普会晤",
+          "url": "https://wallstreetcn.com/livenews/3128954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "time_info": "[13时41分 ~ 17时56分]"
+        },
+        {
+          "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
+          "url": "https://wallstreetcn.com/livenews/3128952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 17时56分]"
+        },
+        {
+          "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
+          "url": "https://wallstreetcn.com/livenews/3128951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 17时56分]"
+        },
+        {
+          "title": "特朗普皮一下赶紧躲回安全区",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%AE%E4%B8%80%E4%B8%8B%E8%B5%B6%E7%B4%A7%E8%BA%B2%E5%9B%9E%E5%AE%89%E5%85%A8%E5%8C%BA%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "普京与特朗普通话85分钟",
@@ -107,37 +159,15 @@
           "time_info": "[13时40分 ~ 13时41分]"
         },
         {
-          "title": "内塔尼亚胡近期将访美与特朗普会晤",
-          "url": "https://wallstreetcn.com/livenews/3128954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "泽连斯基与特朗普通话 商定在北约峰会期间会谈",
-          "url": "https://wallstreetcn.com/livenews/3128952",
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时41分"
-        },
-        {
-          "title": "普京与特朗普通话 重申倾向于政治解决乌克兰问题",
-          "url": "https://wallstreetcn.com/livenews/3128951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "17时56分"
         },
         {
           "title": "美国总统特朗普：绝不会让美国走向衰败。",
@@ -146,7 +176,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -157,7 +187,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -168,7 +198,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         },
@@ -179,7 +209,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
         }
@@ -187,29 +217,42 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时56分]"
         },
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
           "url": "https://wallstreetcn.com/articles/3776204",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时40分 ~ 17时56分]"
+        },
+        {
+          "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
+          "url": "https://www.zhihu.com/question/2055415968537618014",
+          "source": "知乎",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时40分 ~ 13时41分]"
+          "time_info": "[17时55分 ~ 17时56分]"
         },
         {
           "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
@@ -221,6 +264,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时40分 ~ 13时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时55分 ~ 17时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "招金黄金：若未来黄金价格大幅波动 将对公司经营业绩产生较大影响",
+          "url": "https://flash.jin10.com/detail/20260705160914671800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         }
       ]
     }
