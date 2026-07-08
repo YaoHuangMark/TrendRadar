@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T12:48:48.114665+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-07-08T15:55:11.369243+08:00",
+  "total_titles_processed": 484,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2419821",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时55分]"
         },
         {
           "title": "特朗普承认与梅洛尼关系“变糟”：她人不错，但犯了个错误",
@@ -115,8 +116,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时55分]"
+        },
+        {
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时55分]"
         },
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -124,17 +137,6 @@
           "source": "华尔街见闻",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -168,11 +170,12 @@
           "url": "https://wallstreetcn.com/articles/3776368",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时55分]"
         }
       ]
     },
