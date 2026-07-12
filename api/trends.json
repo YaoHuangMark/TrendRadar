@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T12:55:36.420743+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-12T15:42:28.701242+08:00",
+  "total_titles_processed": 449,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 15时42分]"
         },
         {
           "title": "曝光特朗普临时换专机，美媒吃传票了",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 15时42分]"
+        },
+        {
+          "title": "美国总统特朗普：林赛·格雷厄姆参议员，我所认识的最伟大的人和参议员之一，已经去世！他总是在工作，是一位真正的美国爱国者。林赛将被深深怀念！",
+          "url": "https://flash.jin10.com/detail/20260712152257294800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时55分"
+          "time_info": "15时42分"
         },
         {
           "title": "特朗普又来喊单？2美元战争报价暴露开火空间！",
@@ -79,11 +90,12 @@
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "appearance_count": 2,
+          "time_info": "[12时55分 ~ 15时42分]"
         }
       ]
     }
