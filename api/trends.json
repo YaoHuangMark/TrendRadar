@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T18:48:10.615383+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-07-18T20:28:46.045878+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时09分 ~ 18时48分]"
+          "appearance_count": 4,
+          "time_info": "[17时09分 ~ 20时28分]"
         },
         {
           "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
@@ -27,19 +27,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 20时28分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
-          "url": "https://flash.jin10.com/detail/20260718182916461800",
-          "source": "金十数据",
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            15,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 20时28分]"
         },
         {
           "title": "特朗普再谈巴洛贡红牌事件",
@@ -53,16 +54,16 @@
           "time_info": "[12时27分 ~ 17时09分]"
         },
         {
-          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-18）",
+          "url": "https://flash.jin10.com/detail/20260718182916461800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            14
+            3,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 18时48分]"
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 20时28分]"
         },
         {
           "title": "特朗普：因凡蒂诺建议中美合办世界杯",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时14分 ~ 17时09分]"
+        },
+        {
+          "title": "空气质量影响世界杯决赛？特朗普扬言就加拿大山火烟霾追加关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612068",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     },
@@ -90,8 +102,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 20时28分]"
         },
         {
           "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
@@ -157,11 +169,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时27分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[12时27分 ~ 20时28分]"
         }
       ]
     }
