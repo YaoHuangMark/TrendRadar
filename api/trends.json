@@ -1,11 +1,61 @@
 {
-  "generated_at": "2026-07-18T12:28:03.973085+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-18T15:15:17.720732+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普再谈巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普：因凡蒂诺建议中美合办世界杯",
+          "url": "https://www.douyin.com/hot/2575839",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -15,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时15分]"
         },
         {
           "title": "美股三大指数全线下挫",
@@ -28,34 +78,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
-          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
         },
         {
-          "title": "特朗普再谈巴洛贡红牌事件",
-          "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
-          "source": "凤凰网",
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "time_info": "[15时14分 ~ 15时15分]"
         }
       ]
     },
@@ -68,11 +101,12 @@
           "url": "https://wallstreetcn.com/articles/3777219",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时15分]"
         }
       ]
     },
@@ -88,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时15分]"
         }
       ]
     }
