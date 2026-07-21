@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T12:48:47.099209+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-21T15:56:03.036017+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时56分]"
         },
         {
           "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时56分]"
         },
         {
           "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
@@ -37,8 +37,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时56分]"
+        },
+        {
+          "title": "90后清华天才 干崩了美股",
+          "url": "https://www.baidu.com/s?wd=90%E5%90%8E%E6%B8%85%E5%8D%8E%E5%A4%A9%E6%89%8D+%E5%B9%B2%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 15时56分]"
         },
         {
           "title": "美股回调背后暗藏激烈博弈：空头押注水平创纪录",
@@ -66,7 +77,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
@@ -76,19 +87,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时56分]"
         },
         {
           "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
           "url": "https://www.cls.cn/detail/2431976",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时56分]"
         },
         {
           "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
@@ -98,8 +110,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时56分]"
+        },
+        {
+          "title": "西班牙，你太不给特朗普面子了",
+          "url": "https://news.ifeng.com/c/8uvtuVSVeUb",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时55分 ~ 15时56分]"
         },
         {
           "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
@@ -145,11 +168,12 @@
           "url": "https://wallstreetcn.com/articles/3777467",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时56分]"
         }
       ]
     },
@@ -162,22 +186,24 @@
           "url": "https://www.zhihu.com/question/2062575282591209175",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时56分]"
         },
         {
           "title": "OpenAI负责人抨击Kimi开源",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时48分"
+          "appearance_count": 3,
+          "time_info": "[12时48分 ~ 15时56分]"
         }
       ]
     },
