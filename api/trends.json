@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-23T12:54:42.260365+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-23T15:58:20.526313+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3777718",
@@ -26,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 15时58分]"
         },
         {
           "title": "谷歌电话会：警告现金流压力将持续，但\"需求仍超过投资增速\"，Gemini 4已启动训练",
@@ -35,6 +24,17 @@
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 15时58分]"
+        },
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -48,8 +48,30 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 15时58分]"
+        },
+        {
+          "title": "AI烧钱大战升级！谷歌、特斯拉现金流双双转负 华尔街看好长期回报",
+          "url": "https://www.cls.cn/detail/2434820",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "15时58分"
+        },
+        {
+          "title": "谷歌再次上调2026年资本支出预期 算力产业链核心或将继续受益",
+          "url": "https://www.cls.cn/detail/2434535",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "谷歌的AI帝国出路在哪儿",
@@ -66,8 +88,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
+          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 15时58分]"
+        },
         {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://news.ifeng.com/c/8uyvegEdrQo",
@@ -80,15 +113,15 @@
           "time_info": "12时54分"
         },
         {
-          "title": "污蔑中国遭驳斥后，特朗普自曝：美国对中国“做过一些事”",
-          "url": "https://news.ifeng.com/c/8uyHXh9awI8",
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
           "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时54分"
+          "time_info": "15时58分"
         },
         {
           "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
@@ -106,11 +139,12 @@
           "url": "https://wallstreetcn.com/articles/3777708",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 15时58分]"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收 100% 关税，该举措出于什么目的？会对相关产业带来哪些影响？",
@@ -118,6 +152,45 @@
           "source": "知乎",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
+          "url": "https://www.zhihu.com/question/2062856603762742765",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月23日（周四）上海金午盘价为896.63元/克，较国际金价(891.25元/克)，高5.38元/克",
+          "url": "https://flash.jin10.com/detail/20260723154915285800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "油债双压未能拦住金价，连续反弹后将迎来考验？",
+          "url": "https://flash.jin10.com/detail/20260723115408520800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -137,8 +210,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 15时58分]"
         },
         {
           "title": "美股收盘：三大指数集体收低 美伊互放狠话重燃加息预期",
@@ -165,25 +238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油债双压未能拦住金价，连续反弹后将迎来考验？",
-          "url": "https://flash.jin10.com/detail/20260723115408520800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 15时58分]"
         }
       ]
     }
