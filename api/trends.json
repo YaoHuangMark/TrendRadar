@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-25T18:54:06.495014+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-07-25T20:32:18.248706+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "特朗普称准备第四次竞选总统",
+          "url": "https://wallstreetcn.com/livenews/3139731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 20时32分]"
+        },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡下周将访问华盛顿。",
           "url": "https://wallstreetcn.com/livenews/3139705",
@@ -43,15 +55,15 @@
           "time_info": "[18时53分 ~ 18时54分]"
         },
         {
-          "title": "特朗普称准备第四次竞选总统",
-          "url": "https://wallstreetcn.com/livenews/3139731",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-25）",
+          "url": "https://flash.jin10.com/detail/20260725183311628800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时54分"
+          "time_info": "20时32分"
         },
         {
           "title": "特朗普离开土耳其前紧急更换专机，幕后原因披露",
@@ -63,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时46分"
+        },
+        {
+          "title": "专家：特朗普一刀切关税得罪全部盟友",
+          "url": "https://www.toutiao.com/trending/7666410407686311467/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "特朗普称詹姆斯是种族主义者",
@@ -123,7 +146,7 @@
     },
     {
       "keyword_group": "英伟达",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
@@ -131,11 +154,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 20时32分]"
         },
         {
           "title": "据韩联社：韩国互联网门户运营商Naver公司已获得英伟达和美国私募股权公司Brookfield总计100亿美元的投资承诺，用于资助其在韩国建设人工智能（AI）数据中心的计划。",
@@ -166,11 +190,12 @@
           "ranks": [
             2,
             11,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 20时32分]"
         },
         {
           "title": "SK海力士：与英伟达达成长期AI内存合作协议。",
@@ -178,11 +203,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时33分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[15时33分 ~ 20时32分]"
+        },
+        {
+          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
+          "url": "https://wallstreetcn.com/articles/3777926",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "英伟达与SK集团推出5000亿美元AI计划",
@@ -206,11 +243,12 @@
           "url": "https://wallstreetcn.com/livenews/3139736",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 20时32分]"
         },
         {
           "title": "ChatGPT崩了",
@@ -220,19 +258,20 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 20时32分]"
         },
         {
           "title": "据社交媒体信息：OpenAI的ChatGPT与Codex出现大范围无法使用故障。",
           "url": "https://flash.jin10.com/detail/20260725172016965800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 20时32分]"
         }
       ]
     },
@@ -249,8 +288,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 20时32分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -261,8 +300,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 20时32分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -274,8 +313,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时46分 ~ 18时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时46分 ~ 20时32分]"
         }
       ]
     }
