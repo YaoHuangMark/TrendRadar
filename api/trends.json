@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T19:02:47.853370+08:00",
-  "total_titles_processed": 603,
+  "generated_at": "2026-07-26T20:39:56.390414+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时39分]"
         },
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
@@ -33,6 +33,30 @@
           "time_info": "[12时59分 ~ 15时56分]"
         },
         {
+          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437065",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时39分]"
+        },
+        {
+          "title": "特朗普下令暂停空袭伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时39分]"
+        },
+        {
           "title": "内塔尼亚胡将见特朗普，递交伊朗情报",
           "url": "https://news.ifeng.com/c/8v48kLIyX9u",
           "source": "凤凰网",
@@ -44,61 +68,50 @@
           "time_info": "[12时59分 ~ 13时00分]"
         },
         {
-          "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437065",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时02分]"
-        },
-        {
-          "title": "特朗普下令暂停空袭伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33660464",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时02分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-26）",
-          "url": "https://flash.jin10.com/detail/20260726184334453800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
-          "url": "https://wallstreetcn.com/livenews/3139824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "特朗普暂缓扩大对伊作战规模，原因曝光",
           "url": "https://news.ifeng.com/c/8v4oybcdZW1",
           "source": "凤凰网",
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时39分]"
+        },
+        {
+          "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。（NBC News）",
+          "url": "https://wallstreetcn.com/livenews/3139844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时02分"
+          "time_info": "20时39分"
+        },
+        {
+          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
+          "url": "https://www.cls.cn/detail/2437057",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时39分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-26）",
+          "url": "https://flash.jin10.com/detail/20260726184334453800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时39分]"
         },
         {
           "title": "事关红海航道 沙特、胡塞和特朗普各放狠话",
@@ -113,16 +126,16 @@
           "time_info": "[12时59分 ~ 19时02分]"
         },
         {
-          "title": "特朗普叫停对伊朗空袭 为霍尔木兹海峡谈判留出空间",
-          "url": "https://www.cls.cn/detail/2437057",
-          "source": "财联社热门",
+          "title": "美方知情人士披露特朗普暂缓扩大对伊作战规模原因",
+          "url": "https://wallstreetcn.com/livenews/3139824",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时02分]"
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时39分]"
         },
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -134,6 +147,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时59分 ~ 19时02分]"
+        },
+        {
+          "title": "美媒爆料特朗普已暂时搁置大幅升级对伊朗军事打击计划，白宫方面回应",
+          "url": "https://wallstreetcn.com/livenews/3139812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 20时39分]"
         },
         {
           "title": "特朗普下令暂停打击伊朗",
@@ -187,16 +213,16 @@
           "time_info": "[13时00分 ~ 19时02分]"
         },
         {
-          "title": "美媒爆料特朗普已暂时搁置大幅升级对伊朗军事打击计划，白宫方面回应",
-          "url": "https://wallstreetcn.com/livenews/3139812",
-          "source": "华尔街见闻-快讯",
+          "title": "英首相回应是否愿公开批评特朗普",
+          "url": "https://flash.jin10.com/detail/20260726163049734800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            9
+            20,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时56分 ~ 19时02分]"
+          "time_info": "[19时02分 ~ 20时39分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -244,6 +270,28 @@
           "time_info": "15时56分"
         },
         {
+          "title": "内塔尼亚胡主持召开内阁会议，讨论会见特朗普及国际刑事法院事宜",
+          "url": "https://flash.jin10.com/detail/20260726185308882800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "美国中期选举进入100天倒计时，民调显示特朗普支持率处于低位",
+          "url": "https://wallstreetcn.com/livenews/3139838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "美国总统特朗普：所有共和党参议员！终止阻挠议事，民主党人一有机会就会这么做，赶快通过《拯救美国法案》，以及其他一切，包括预算和即将到来的债务上限。现在就去做，别等到太晚。",
           "url": "https://flash.jin10.com/detail/20260726114945161800",
           "source": "金十数据",
@@ -255,24 +303,24 @@
           "time_info": "13时00分"
         },
         {
+          "title": "内塔尼亚胡称将赴美会晤特朗普",
+          "url": "https://wallstreetcn.com/livenews/3139827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "美媒曝光特朗普暂停空袭伊朗原因",
           "url": "https://www.douyin.com/hot/2585679",
           "source": "抖音",
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "英首相回应是否愿公开批评特朗普",
-          "url": "https://flash.jin10.com/detail/20260726163049734800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -294,6 +342,18 @@
           "time_info": "[12时59分 ~ 19时02分]"
         },
         {
+          "title": "“大空头” Burry加码做空英伟达、美光",
+          "url": "https://wallstreetcn.com/articles/3777945",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时56分 ~ 20时39分]"
+        },
+        {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
           "url": "https://wallstreetcn.com/articles/3777926",
           "source": "华尔街见闻",
@@ -305,18 +365,6 @@
           "time_info": "[12时59分 ~ 13时00分]"
         },
         {
-          "title": "“大空头” Burry加码做空英伟达、美光",
-          "url": "https://wallstreetcn.com/articles/3777945",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 19时02分]"
-        },
-        {
           "title": "韩美科技巨头聚首旧金山 英伟达、Anthropic宣布达成大型协议",
           "url": "https://www.cls.cn/detail/2436901",
           "source": "财联社热门",
@@ -325,8 +373,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时39分]"
         },
         {
           "title": "“大空头”迈克尔·伯里据悉加码做空美光和英伟达",
@@ -376,8 +424,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 20时39分]"
         },
         {
           "title": "沙特阿美股价早盘下跌1%。",
@@ -408,9 +456,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时39分]"
         },
         {
           "title": "受胡塞武装袭击石油设施影响，沙特阿美股价走低",
@@ -419,7 +467,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
@@ -434,11 +482,12 @@
           "url": "https://www.zhihu.com/question/2063587044526404438",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时39分]"
         },
         {
           "title": "英伟达“开放权重模型”公开信联署方翻倍至50个 谷歌等加入",
