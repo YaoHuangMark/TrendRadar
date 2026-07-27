@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T13:14:07.514056+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-27T16:56:19.978123+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,36 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33662817",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
-        },
-        {
-          "title": "OpenAI失控入侵,遭索赔1亿算力",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 16时56分]"
         },
         {
           "title": "OpenAI失控AI内幕曝光：越狱一周才被发现 还有智能体曾留下“逃脱秘籍”",
           "url": "https://www.cls.cn/detail/2437261",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 16时56分]"
+        },
+        {
+          "title": "OpenAI失控入侵,遭索赔1亿算力",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356534&amp;topic_name=OpenAI%E5%A4%B1%E6%8E%A7%E5%85%A5%E4%BE%B5%2C%E9%81%AD%E7%B4%A2%E8%B5%941%E4%BA%BF%E7%AE%97%E5%8A%9B",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 16时56分]"
         },
         {
           "title": "OpenAI、Anthropic被曝游说封堵开源模型 硅谷上演“开源保卫战”",
@@ -58,7 +61,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -69,7 +72,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -80,7 +83,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         },
@@ -91,7 +94,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
         }
@@ -99,18 +102,80 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普下令不打了，美国的“余粮”确实不多了",
           "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 13时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 16时56分]"
+        },
+        {
+          "title": "特朗普是不是美国最好总统？泽连斯基回应",
+          "url": "https://news.ifeng.com/c/8v6JXj4MicX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "英国新首相：必要时会公开反驳特朗普",
+          "url": "https://wallstreetcn.com/livenews/3140167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "周二白宫见：泽连斯基再度赴美会晤特朗普",
+          "url": "https://flash.jin10.com/detail/20260727163935012800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "LG电子计划推动1MW、2.5MW及4MW CDU产品通过英伟达认证。",
+          "url": "https://flash.jin10.com/detail/20260727164230442800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        },
+        {
+          "title": "美股盘前，大型科技股普涨，美光科技涨近4%，英伟达、特斯拉涨超1%，英特尔涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3140136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     }
