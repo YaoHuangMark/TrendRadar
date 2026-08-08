@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T16:08:19.008401+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-08-08T18:04:18.466328+08:00",
+  "total_titles_processed": 691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "中期选举临近，特朗普连续21场败诉",
@@ -25,11 +25,25 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时36分 ~ 16时08分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 18时04分]"
+        },
+        {
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 18时04分]"
         },
         {
           "title": "特朗普：隔着大洋呢，我们没掺和这事",
@@ -45,17 +59,26 @@
           "time_info": "[11时11分 ~ 16时08分]"
         },
         {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
           "ranks": [
-            17,
-            18,
-            19
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 16时08分]"
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
+        },
+        {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -152,7 +175,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -163,8 +186,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 16时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 18时04分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -173,11 +196,12 @@
           "ranks": [
             4,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 16时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 18时04分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -185,11 +209,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 16时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 18时04分]"
+        },
+        {
+          "title": "李大霄谈美股三大指数高开",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
         }
       ]
     },
@@ -234,11 +270,12 @@
             20,
             22,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 16时08分]"
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 18时04分]"
         }
       ]
     },
@@ -258,6 +295,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时11分 ~ 14时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金期货价格突破4400美元关口 特朗普继续推进罢免美联储理事库克 | 环球市场",
+          "url": "https://www.cls.cn/detail/2448987",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时03分 ~ 18时04分]"
         }
       ]
     }
