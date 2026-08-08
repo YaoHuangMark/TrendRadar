@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T14:08:16.214525+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-08-08T16:08:19.008401+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
@@ -15,20 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时08分]"
-        },
-        {
-          "title": "特朗普：隔着大洋呢，我们没掺和这事",
-          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时08分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -36,11 +24,25 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时36分 ~ 14时08分]"
+          "appearance_count": 5,
+          "time_info": "[12时36分 ~ 16时08分]"
+        },
+        {
+          "title": "特朗普：隔着大洋呢，我们没掺和这事",
+          "url": "https://news.ifeng.com/c/8vPrynBVxqj",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时08分]"
         },
         {
           "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
@@ -52,8 +54,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时08分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -108,6 +110,20 @@
           "time_info": "[11时11分 ~ 14时08分]"
         },
         {
+          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3146953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时11分 ~ 16时08分]"
+        },
+        {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
           "url": "https://flash.jin10.com/detail/20260808100104329800",
           "source": "金十数据",
@@ -115,19 +131,6 @@
             8,
             14,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 14时08分]"
-        },
-        {
-          "title": "英伟达将向黑石集团支持的电力公司Lancium投资最多30亿美元，该公司是Stargate的幕后电力供应商。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3146953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10,
-            13
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -160,8 +163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时08分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -169,11 +172,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时08分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -184,8 +188,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时08分]"
         }
       ]
     },
@@ -229,11 +233,12 @@
           "ranks": [
             20,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 16时08分]"
         }
       ]
     },
