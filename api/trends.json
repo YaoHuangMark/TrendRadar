@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T18:06:53.681300+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-08-09T19:57:09.949927+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 19时57分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -39,8 +39,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 18时06分]"
+          "appearance_count": 7,
+          "time_info": "[12时47分 ~ 19时57分]"
+        },
+        {
+          "title": "特朗普新飞机掉链子了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E9%A3%9E%E6%9C%BA%E6%8E%89%E9%93%BE%E5%AD%90%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -87,11 +98,34 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 19时57分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
+          "url": "https://flash.jin10.com/detail/20260809185901644800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时06分"
+          "time_info": "19时57分"
+        },
+        {
+          "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
+          "url": "https://wallstreetcn.com/livenews/3147067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "泰勒·斯威夫特下架特朗普团队音频",
@@ -119,8 +153,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时47分 ~ 18时06分]"
+          "appearance_count": 7,
+          "time_info": "[12时47分 ~ 19时57分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -132,8 +166,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 19时57分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -145,8 +179,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 19时57分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -157,8 +191,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 19时57分]"
         }
       ]
     },
@@ -203,8 +237,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 18时06分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 19时57分]"
         }
       ]
     },
@@ -217,11 +251,12 @@
           "url": "https://www.douyin.com/hot/2602679",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 18时06分]"
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 19时57分]"
         }
       ]
     }
