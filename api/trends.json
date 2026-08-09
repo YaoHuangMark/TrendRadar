@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T14:10:18.795345+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-08-09T16:09:41.540312+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 16时09分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -24,11 +24,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 16时09分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -51,8 +52,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 16时09分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -60,11 +61,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 16时09分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -72,11 +74,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             20,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时18分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[11时18分 ~ 16时09分]"
+        },
+        {
+          "title": "泰勒·斯威夫特下架特朗普团队音频",
+          "url": "https://flash.jin10.com/detail/20260809135228907800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         }
       ]
     },
@@ -89,33 +103,36 @@
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 16时09分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
           "url": "https://wallstreetcn.com/articles/3778998",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时47分 ~ 14时10分]"
+          "appearance_count": 4,
+          "time_info": "[12时47分 ~ 16时09分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
           "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 16时09分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -126,8 +143,36 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 16时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时18分"
+        },
+        {
+          "title": "OpenAI重置Codex付费用户用量限制",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%87%8D%E7%BD%AECodex%E4%BB%98%E8%B4%B9%E7%94%A8%E6%88%B7%E7%94%A8%E9%87%8F%E9%99%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         }
       ]
     },
@@ -140,28 +185,29 @@
           "url": "https://wallstreetcn.com/articles/3778993",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 14时10分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 16时09分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
+          "title": "金价为何突然大涨",
+          "url": "https://www.douyin.com/hot/2602679",
+          "source": "抖音",
           "ranks": [
-            3
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "16时09分"
         }
       ]
     }
