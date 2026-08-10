@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T13:08:07.539603+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-10T14:52:47.852683+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 14时52分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -36,11 +36,12 @@
           "source": "凤凰网",
           "ranks": [
             10,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 14时52分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
@@ -51,8 +52,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 14时52分]"
         },
         {
           "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
@@ -62,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 14时52分]"
         },
         {
           "title": "美国高级国防官员科尔比：北约在美国总统特朗普领导下显著增强，实力远超以往。",
@@ -72,7 +73,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
@@ -100,7 +101,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -126,11 +127,12 @@
           "url": "https://wallstreetcn.com/articles/3779038",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时07分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 14时52分]"
         }
       ]
     },
@@ -160,11 +162,12 @@
           "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 14时52分]"
         }
       ]
     }
