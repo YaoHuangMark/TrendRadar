@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T11:28:53.225228+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-10T13:08:07.539603+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -15,47 +15,72 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时08分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
           "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时08分]"
         },
         {
           "title": "特朗普这是此地无银三百两吗？",
           "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
           "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时08分]"
         },
         {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
           "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时08分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
+        },
+        {
+          "title": "美国高级国防官员科尔比：北约在美国总统特朗普领导下显著增强，实力远超以往。",
+          "url": "https://flash.jin10.com/detail/20260810122310879800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时28分"
+          "time_info": "13时08分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年08月10日（周一）上海金早盘价为938.76元/克，较国际金价(936.92元/克)，高1.84元/克",
@@ -69,6 +94,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "非农意外转负助推金价，4300之后本周要看什么？",
+          "url": "https://flash.jin10.com/detail/20260810122012069800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
+        },
+        {
           "title": "就业市场降温推动金价上周大幅反弹，现货黄金多头占比现略微占优，白银多头占比高达88%；霍尔木兹海峡开放步入关键时刻，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260810105514008800",
           "source": "金十数据",
@@ -78,6 +114,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时07分 ~ 13时08分]"
         }
       ]
     },
@@ -110,8 +163,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
+          "appearance_count": 3,
+          "time_info": "[11时28分 ~ 13时08分]"
         }
       ]
     }
