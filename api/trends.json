@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-08-14T11:41:40.294977+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-14T14:55:22.209808+08:00",
+  "total_titles_processed": 486,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
           "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时55分]"
+        },
+        {
+          "title": "特朗普专机上全是一箱又一箱麦当劳",
+          "url": "https://www.toutiao.com/trending/7673136089955352622/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时55分"
         },
         {
           "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -30,6 +42,40 @@
           "time_info": "11时41分"
         },
         {
+          "title": "最年轻新闻秘书，“弃特朗普而去”",
+          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时55分]"
+        },
+        {
+          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
+          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时55分]"
+        },
+        {
+          "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
+          "url": "https://news.ifeng.com/c/8vZxGezuWmE",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        },
+        {
           "title": "美国总统特朗普周五日程一览",
           "url": "https://flash.jin10.com/detail/20260814112349203800",
           "source": "金十数据",
@@ -41,26 +87,43 @@
           "time_info": "11时41分"
         },
         {
-          "title": "最年轻新闻秘书，“弃特朗普而去”",
-          "url": "https://news.ifeng.com/c/8vYyzBPe3bZ",
+          "title": "美国卫生部长：特朗普专机上有多箱麦当劳，他出门怕食物中毒",
+          "url": "https://news.ifeng.com/c/8va6d6Ijs5m",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时55分"
         },
         {
-          "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
-          "url": "https://news.ifeng.com/c/8vYmNSHdxQv",
-          "source": "凤凰网",
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
           "ranks": [
-            12
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "14时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌推出 Gemini 3.7 Flash，有哪些亮点和创新？",
+          "url": "https://www.zhihu.com/question/2071408739723302257",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
         }
       ]
     },
@@ -99,6 +162,23 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -110,8 +190,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 14时55分]"
         }
       ]
     }
