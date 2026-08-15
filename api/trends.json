@@ -1,12 +1,95 @@
 {
-  "generated_at": "2026-08-15T10:35:50.428866+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-08-15T12:05:35.754049+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "伊朗回应特朗普：霍尔木兹海峡开放与关闭由伊朗掌控",
+          "url": "https://wallstreetcn.com/livenews/3149935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
+          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
+        },
+        {
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
+        },
+        {
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20260815081700535800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
+        },
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
           "url": "https://news.ifeng.com/c/8vaHza2NSPn",
@@ -41,77 +124,11 @@
           "time_info": "10时35分"
         },
         {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
-          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
           "title": "特朗普证实部署中东的“林肯”号航母将被替换",
           "url": "https://wallstreetcn.com/livenews/3149900",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20260815081700535800",
-          "source": "金十数据",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -139,11 +156,12 @@
           "url": "https://flash.jin10.com/detail/20260815090110907800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
         },
         {
           "title": "据华尔街日报：消息人士称，英伟达(NVDA.O)与OpenAI已修订在俄亥俄州10千兆瓦数据中心项目的交易提议结构。英伟达将保证5吉瓦的项目，将担保金额从2500亿美元降低至不足1200亿美元。",
@@ -170,8 +188,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
         },
         {
           "title": "据美国证券交易委员会文件显示： THIRD POINT LLC已出售其持有的全部英伟达股份。同时将其持有的亚马逊公司股份减持9.8%，减持后持股数为180万股。",
@@ -198,8 +216,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
         },
         {
           "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
@@ -226,8 +244,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时35分"
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
         },
         {
           "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
@@ -244,7 +262,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -254,8 +272,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时35分 ~ 12时05分]"
+        },
+        {
+          "title": "美股三大指数全线收跌",
+          "url": "https://www.toutiao.com/trending/7674037560066441266/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时35分"
+          "time_info": "12时05分"
         }
       ]
     }
