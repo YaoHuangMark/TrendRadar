@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-17T12:13:23.123695+08:00",
-  "total_titles_processed": 444,
+  "generated_at": "2026-08-17T18:07:11.084311+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
           "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 18时07分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -41,6 +42,17 @@
           "time_info": "[10时43分 ~ 12时13分]"
         },
         {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 18时07分]"
+        },
+        {
           "title": "特朗普发声后，韩国防部称韩美军演正按计划进行",
           "url": "https://wallstreetcn.com/livenews/3150151",
           "source": "华尔街见闻-快讯",
@@ -58,20 +70,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
         {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
+          "title": "据CNN：美国特使库什纳正在与以色列总理内塔尼亚胡会面，试图推动特朗普政府陷入停滞的加沙和平计划。此前一天，库什纳曾与哈马斯方面会谈。",
+          "url": "https://flash.jin10.com/detail/20260817173012578800",
+          "source": "金十数据",
           "ranks": [
-            16
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "18时07分"
         },
         {
           "title": "特朗普发文欢迎中东各国自保",
@@ -91,22 +103,22 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
-          "url": "https://wallstreetcn.com/articles/3779527",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时13分]"
-        },
-        {
           "title": "段永平最新调仓出炉：减持苹果、英伟达、谷歌，买回阿里",
           "url": "https://m.thepaper.cn/newsDetail_forward_33794674",
           "source": "澎湃新闻",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 18时07分]"
+        },
+        {
+          "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
+          "url": "https://wallstreetcn.com/articles/3779527",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -158,7 +170,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -175,7 +187,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -197,7 +209,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -212,11 +224,29 @@
           "url": "https://wallstreetcn.com/articles/3779545",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时43分 ~ 18时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时43分 ~ 12时13分]"
+          "time_info": "[18时06分 ~ 18时07分]"
         }
       ]
     }
