@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T10:44:24.622942+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-18T12:13:57.203473+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普最新支持率公布",
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时13分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -35,6 +24,17 @@
           "source": "华尔街见闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时13分]"
+        },
+        {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,6 +52,29 @@
           "time_info": "10时44分"
         },
         {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时13分]"
+        },
+        {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
           "title": "特朗普和加拿大总理卡尼周一就贸易问题通话。",
           "url": "https://wallstreetcn.com/livenews/3150785",
           "source": "华尔街见闻-快讯",
@@ -63,21 +86,21 @@
           "time_info": "10时44分"
         },
         {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
+          "title": "特朗普被曝自己也通过邮寄选票投票",
+          "url": "https://www.toutiao.com/trending/7675157131825905718/",
+          "source": "今日头条",
           "ranks": [
-            10
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "12时13分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
@@ -87,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时13分]"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
@@ -98,30 +121,43 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时13分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
           "url": "https://www.cls.cn/detail/2456636",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时13分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时13分]"
+        },
+        {
+          "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
+          "url": "https://flash.jin10.com/detail/20260818113355527800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "12时13分"
         }
       ]
     },
@@ -151,11 +187,46 @@
           "url": "https://www.cls.cn/detail/2456537",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "启明星辰8月18日在互动平台表示，公司目前尚未与英伟达开展合作。",
+          "url": "https://flash.jin10.com/detail/20260818114919598800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时44分"
+          "time_info": "12时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价压力“暗线”浮现！市场终于担忧长债收益率走高",
+          "url": "https://flash.jin10.com/detail/20260818113452095800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时13分"
         }
       ]
     },
@@ -171,8 +242,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 12时13分]"
         }
       ]
     },
